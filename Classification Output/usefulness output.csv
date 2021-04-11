@@ -1,0 +1,10115 @@
+usefulness_score,usefulness
+0.4,not useful
+0.29,useful
+0.33,useful
+0.55,useful
+0.44,not useful
+0.47,not useful
+0.5,useful
+0.37,useful
+0.29,not useful
+0.39,not useful
+0.27,not useful
+0.3,useful
+0.34,not useful
+0.36,not useful
+0.4,useful
+0.4,not useful
+0.23,not useful
+0.35,not useful
+0.24,not useful
+0.17,not useful
+0.43,not useful
+0.3,useful
+0.31,not useful
+0.22,not useful
+0.29,not useful
+0.45,not useful
+0.34,useful
+0.27,not useful
+0.47,not useful
+0.33,not useful
+0.33,not useful
+0.23,not useful
+0.4,not useful
+0.41,not useful
+0.17,not useful
+0.26,not useful
+0.36,not useful
+0.3,not useful
+0.45,not useful
+0.52,useful
+0.41,not useful
+0.39,not useful
+0.3,not useful
+0.22,not useful
+0.36,not useful
+0.39,not useful
+0.3,not useful
+0.45,not useful
+0.6,useful
+0.28,useful
+0.47,not useful
+0.29,not useful
+0.42,not useful
+0.5,not useful
+0.32,not useful
+0.15,not useful
+0.45,not useful
+0.14,not useful
+0.32,not useful
+0.39,not useful
+0.23,useful
+0.33,useful
+0.38,not useful
+0.61,useful
+0.48,not useful
+0.28,not useful
+0.2,not useful
+0.44,not useful
+0.24,useful
+0.42,not useful
+0.58,useful
+0.17,not useful
+0.45,not useful
+0.69,useful
+0.55,useful
+0.47,useful
+0.45,not useful
+0.47,not useful
+0.57,useful
+0.22,useful
+0.39,not useful
+0.3,useful
+0.25,not useful
+0.44,not useful
+0.42,not useful
+0.56,useful
+0.49,not useful
+0.22,useful
+0.27,not useful
+0.2,not useful
+0.34,useful
+0.39,not useful
+0.18,not useful
+0.19,not useful
+0.27,not useful
+0.47,not useful
+0.34,useful
+0.45,not useful
+0.28,not useful
+0.41,not useful
+0.24,not useful
+0.17,not useful
+0.21,not useful
+0.24,not useful
+0.47,not useful
+0.2,useful
+0.15,not useful
+0.46,not useful
+0.3,not useful
+0.34,not useful
+0.2,not useful
+0.28,not useful
+0.41,not useful
+0.53,useful
+0.53,useful
+0.37,useful
+0.21,not useful
+0.27,not useful
+0.15,not useful
+0.25,not useful
+0.18,not useful
+0.44,not useful
+0.34,useful
+0.46,not useful
+0.35,not useful
+0.25,useful
+0.28,not useful
+0.39,not useful
+0.33,not useful
+0.36,not useful
+0.27,not useful
+0.49,not useful
+0.21,useful
+0.33,not useful
+0.41,not useful
+0.34,not useful
+0.22,not useful
+0.42,not useful
+0.21,not useful
+0.39,not useful
+0.41,not useful
+0.24,useful
+0.37,not useful
+0.39,not useful
+0.62,useful
+0.3,useful
+0.49,not useful
+0.29,useful
+0.23,not useful
+0.21,useful
+0.47,not useful
+0.36,useful
+0.32,useful
+0.42,not useful
+0.35,useful
+0.33,not useful
+0.41,not useful
+0.26,useful
+0.43,not useful
+0.6,useful
+0.25,useful
+0.21,not useful
+0.47,not useful
+0.6,useful
+0.32,useful
+0.44,not useful
+0.28,useful
+0.37,not useful
+0.23,useful
+0.23,not useful
+0.27,not useful
+0.29,not useful
+0.41,not useful
+0.5,useful
+0.33,useful
+0.19,not useful
+0.41,not useful
+0.45,not useful
+0.64,useful
+0.51,useful
+0.25,useful
+0.43,not useful
+0.35,useful
+0.37,not useful
+0.33,not useful
+0.29,not useful
+0.37,not useful
+0.61,useful
+0.4,useful
+0.21,not useful
+0.39,not useful
+0.39,not useful
+0.41,not useful
+0.25,useful
+0.24,not useful
+0.33,not useful
+0.41,not useful
+0.21,useful
+0.25,not useful
+0.39,not useful
+0.3,not useful
+0.21,not useful
+0.25,not useful
+0.29,not useful
+0.31,not useful
+0.23,not useful
+0.39,not useful
+0.28,not useful
+0.41,not useful
+0.33,not useful
+0.2,not useful
+0.22,not useful
+0.24,not useful
+0.42,not useful
+0.44,not useful
+0.44,not useful
+0.64,useful
+0.27,not useful
+0.18,not useful
+0.18,not useful
+0.4,not useful
+0.29,useful
+0.38,not useful
+0.37,not useful
+0.45,not useful
+0.61,useful
+0.46,not useful
+0.5,not useful
+0.24,useful
+0.27,not useful
+0.42,not useful
+0.45,useful
+0.37,useful
+0.36,not useful
+0.42,not useful
+0.64,useful
+0.64,useful
+0.65,useful
+0.49,useful
+0.37,not useful
+0.33,useful
+0.43,not useful
+0.48,useful
+0.41,not useful
+0.6,useful
+0.55,useful
+0.25,useful
+0.38,not useful
+0.4,useful
+0.47,not useful
+0.5,not useful
+0.58,useful
+0.28,useful
+0.38,not useful
+0.37,not useful
+0.31,useful
+0.36,not useful
+0.48,not useful
+0.23,useful
+0.23,not useful
+0.37,not useful
+0.43,not useful
+0.5,useful
+0.3,useful
+0.2,not useful
+0.29,not useful
+0.38,not useful
+0.26,not useful
+0.35,not useful
+0.38,useful
+0.41,not useful
+0.42,not useful
+0.42,useful
+0.34,not useful
+0.24,not useful
+0.48,not useful
+0.34,not useful
+0.25,not useful
+0.38,not useful
+0.19,useful
+0.24,not useful
+0.37,not useful
+0.35,useful
+0.22,not useful
+0.46,not useful
+0.33,not useful
+0.41,not useful
+0.49,useful
+0.19,not useful
+0.39,not useful
+0.21,useful
+0.28,not useful
+0.21,not useful
+0.29,not useful
+0.26,not useful
+0.4,not useful
+0.33,useful
+0.16,not useful
+0.45,not useful
+0.35,not useful
+0.2,useful
+0.37,not useful
+0.39,useful
+0.26,not useful
+0.26,not useful
+0.44,not useful
+0.15,not useful
+0.37,not useful
+0.28,useful
+0.22,not useful
+0.2,not useful
+0.21,not useful
+0.2,not useful
+0.39,not useful
+0.27,useful
+0.38,not useful
+0.31,not useful
+0.23,not useful
+0.35,not useful
+0.42,not useful
+0.42,not useful
+0.28,not useful
+0.3,not useful
+0.35,not useful
+0.35,not useful
+0.27,not useful
+0.31,not useful
+0.23,not useful
+0.39,not useful
+0.26,useful
+0.35,not useful
+0.63,useful
+0.38,not useful
+0.4,not useful
+0.31,useful
+0.41,not useful
+0.32,useful
+0.39,not useful
+0.42,not useful
+0.3,not useful
+0.41,not useful
+0.31,not useful
+0.39,not useful
+0.59,useful
+0.4,not useful
+0.68,useful
+0.6,useful
+0.26,not useful
+0.34,not useful
+0.38,not useful
+0.4,not useful
+0.23,useful
+0.44,not useful
+0.32,not useful
+0.23,useful
+0.27,not useful
+0.48,not useful
+0.2,not useful
+0.34,not useful
+0.64,useful
+0.23,useful
+0.26,not useful
+0.2,not useful
+0.48,not useful
+0.22,not useful
+0.34,not useful
+0.31,not useful
+0.35,not useful
+0.25,not useful
+0.27,not useful
+0.28,not useful
+0.17,not useful
+0.2,not useful
+0.43,not useful
+0.37,useful
+0.3,not useful
+0.45,not useful
+0.33,not useful
+0.57,useful
+0.27,useful
+0.34,not useful
+0.3,not useful
+0.25,not useful
+0.33,not useful
+0.59,useful
+0.21,not useful
+0.24,not useful
+0.26,not useful
+0.33,not useful
+0.29,not useful
+0.43,not useful
+0.63,useful
+0.62,useful
+0.35,useful
+0.32,not useful
+0.29,useful
+0.25,not useful
+0.29,not useful
+0.49,not useful
+0.46,useful
+0.31,not useful
+0.39,not useful
+0.37,not useful
+0.29,not useful
+0.28,not useful
+0.24,not useful
+0.2,not useful
+0.27,not useful
+0.35,not useful
+0.24,useful
+0.41,not useful
+0.24,not useful
+0.45,not useful
+0.33,not useful
+0.3,not useful
+0.21,not useful
+0.48,not useful
+0.26,not useful
+0.33,not useful
+0.45,not useful
+0.29,useful
+0.41,not useful
+0.34,not useful
+0.47,useful
+0.29,not useful
+0.39,not useful
+0.24,not useful
+0.31,not useful
+0.32,useful
+0.37,not useful
+0.32,not useful
+0.23,useful
+0.35,not useful
+0.28,not useful
+0.26,not useful
+0.24,not useful
+0.41,not useful
+0.28,useful
+0.26,not useful
+0.28,not useful
+0.4,not useful
+0.27,useful
+0.28,not useful
+0.24,not useful
+0.21,not useful
+0.28,not useful
+0.37,not useful
+0.47,not useful
+0.27,not useful
+0.2,not useful
+0.31,not useful
+0.34,not useful
+0.41,useful
+0.34,not useful
+0.66,useful
+0.24,useful
+0.31,not useful
+0.26,not useful
+0.43,not useful
+0.28,not useful
+0.28,not useful
+0.42,not useful
+0.35,not useful
+0.33,not useful
+0.3,not useful
+0.28,useful
+0.43,not useful
+0.4,not useful
+0.19,not useful
+0.73,useful
+0.71,useful
+0.5,useful
+0.26,not useful
+0.37,not useful
+0.29,useful
+0.29,not useful
+0.27,not useful
+0.48,not useful
+0.43,useful
+0.31,not useful
+0.28,not useful
+0.46,not useful
+0.31,not useful
+0.46,not useful
+0.29,useful
+0.41,not useful
+0.28,not useful
+0.18,not useful
+0.79,useful
+0.78,useful
+0.54,useful
+0.35,useful
+0.5,not useful
+0.21,useful
+0.26,useful
+0.47,not useful
+0.35,not useful
+0.33,not useful
+0.4,not useful
+0.45,not useful
+0.38,not useful
+0.23,not useful
+0.23,not useful
+0.41,not useful
+0.31,useful
+0.39,not useful
+0.26,useful
+0.42,not useful
+0.45,not useful
+0.45,not useful
+0.38,not useful
+0.5,not useful
+0.39,not useful
+0.67,useful
+0.27,not useful
+0.38,useful
+0.28,not useful
+0.18,not useful
+0.5,useful
+0.16,useful
+0.32,not useful
+0.26,not useful
+0.23,not useful
+0.28,not useful
+0.3,not useful
+0.17,not useful
+0.41,not useful
+0.8,useful
+0.26,useful
+0.32,not useful
+0.14,useful
+0.29,not useful
+0.37,not useful
+0.36,useful
+0.33,not useful
+0.21,not useful
+0.45,useful
+0.44,not useful
+0.17,not useful
+0.23,not useful
+0.42,not useful
+0.2,useful
+0.49,not useful
+0.45,useful
+0.3,not useful
+0.5,not useful
+0.45,not useful
+0.55,useful
+0.73,useful
+0.71,useful
+0.22,useful
+0.33,not useful
+0.44,not useful
+0.31,useful
+0.31,not useful
+0.47,not useful
+0.72,useful
+0.46,not useful
+0.49,not useful
+0.46,not useful
+0.21,not useful
+0.41,useful
+0.25,not useful
+0.17,not useful
+0.36,useful
+0.4,not useful
+0.45,not useful
+0.33,not useful
+0.45,not useful
+0.32,not useful
+0.45,not useful
+0.48,not useful
+0.65,useful
+0.75,useful
+0.39,useful
+0.47,not useful
+0.71,useful
+0.23,useful
+0.49,not useful
+0.25,not useful
+0.41,useful
+0.48,not useful
+0.39,useful
+0.26,not useful
+0.22,not useful
+0.31,useful
+0.19,not useful
+0.31,useful
+0.36,not useful
+0.33,not useful
+0.37,not useful
+0.5,useful
+0.5,useful
+0.75,useful
+0.34,useful
+0.48,not useful
+0.37,useful
+0.23,not useful
+0.53,useful
+0.48,useful
+0.36,not useful
+0.33,not useful
+0.29,useful
+0.34,not useful
+0.48,not useful
+0.54,useful
+0.29,not useful
+0.32,not useful
+0.34,not useful
+0.21,not useful
+0.31,not useful
+0.23,not useful
+0.5,not useful
+0.13,not useful
+0.34,useful
+0.24,not useful
+0.29,useful
+0.26,not useful
+0.27,not useful
+0.64,useful
+0.24,useful
+0.45,not useful
+0.55,useful
+0.47,useful
+0.45,not useful
+0.78,useful
+0.45,useful
+0.25,not useful
+0.38,not useful
+0.38,not useful
+0.36,not useful
+0.28,not useful
+0.36,not useful
+0.43,not useful
+0.37,not useful
+0.5,useful
+0.45,useful
+0.21,useful
+0.45,not useful
+0.44,not useful
+0.29,useful
+0.3,not useful
+0.25,not useful
+0.38,useful
+0.3,not useful
+0.18,not useful
+0.76,useful
+0.31,useful
+0.28,not useful
+0.22,not useful
+0.38,not useful
+0.24,not useful
+0.31,not useful
+0.24,not useful
+0.23,not useful
+0.36,not useful
+0.41,not useful
+0.27,not useful
+0.41,useful
+0.64,useful
+0.52,useful
+0.24,useful
+0.3,not useful
+0.68,useful
+0.39,useful
+0.29,useful
+0.31,not useful
+0.27,not useful
+0.19,useful
+0.37,not useful
+0.23,useful
+0.19,not useful
+0.33,useful
+0.22,not useful
+0.77,useful
+0.25,useful
+0.32,not useful
+0.41,not useful
+0.27,useful
+0.37,not useful
+0.41,not useful
+0.47,not useful
+0.18,not useful
+0.37,not useful
+0.23,useful
+0.27,not useful
+0.26,useful
+0.3,not useful
+0.34,not useful
+0.43,not useful
+0.76,useful
+0.26,not useful
+0.37,not useful
+0.59,useful
+0.43,useful
+0.25,not useful
+0.44,useful
+0.25,not useful
+0.29,not useful
+0.21,not useful
+0.69,useful
+0.7,useful
+0.66,useful
+0.68,useful
+0.36,useful
+0.29,not useful
+0.31,not useful
+0.3,not useful
+0.36,not useful
+0.34,not useful
+0.22,useful
+0.29,not useful
+0.31,not useful
+0.66,useful
+0.42,useful
+0.43,not useful
+0.39,not useful
+0.48,useful
+0.26,useful
+0.38,not useful
+0.31,not useful
+0.54,useful
+0.39,useful
+0.4,not useful
+0.55,useful
+0.74,useful
+0.43,useful
+0.5,useful
+0.52,useful
+0.52,useful
+0.47,useful
+0.37,not useful
+0.42,useful
+0.47,not useful
+0.35,useful
+0.34,not useful
+0.42,useful
+0.41,useful
+0.23,not useful
+0.29,useful
+0.62,useful
+0.29,useful
+0.46,not useful
+0.75,useful
+0.62,useful
+0.52,useful
+0.4,useful
+0.72,useful
+0.5,useful
+0.34,not useful
+0.72,useful
+0.82,useful
+0.28,useful
+0.2,not useful
+0.71,useful
+0.26,not useful
+0.35,not useful
+0.35,not useful
+0.34,not useful
+0.32,useful
+0.42,not useful
+0.52,useful
+0.6,useful
+0.36,useful
+0.46,not useful
+0.66,useful
+0.37,useful
+0.27,not useful
+0.56,useful
+0.73,useful
+0.46,useful
+0.8,useful
+0.32,not useful
+0.2,not useful
+0.65,useful
+0.29,useful
+0.37,not useful
+0.29,not useful
+0.45,useful
+0.51,useful
+0.47,useful
+0.62,useful
+0.53,useful
+0.33,useful
+0.47,not useful
+0.55,useful
+0.31,useful
+0.37,not useful
+0.39,useful
+0.65,useful
+0.6,useful
+0.49,useful
+0.43,not useful
+0.3,not useful
+0.47,not useful
+0.32,not useful
+0.32,not useful
+0.49,useful
+0.29,not useful
+0.7,useful
+0.71,useful
+0.8,useful
+0.26,useful
+0.17,not useful
+0.37,useful
+0.3,not useful
+0.24,not useful
+0.59,useful
+0.41,useful
+0.4,not useful
+0.41,useful
+0.27,not useful
+0.49,useful
+0.26,not useful
+0.27,not useful
+0.48,not useful
+0.63,useful
+0.59,useful
+0.59,useful
+0.59,useful
+0.43,not useful
+0.48,not useful
+0.35,useful
+0.26,not useful
+0.36,not useful
+0.36,useful
+0.17,not useful
+0.42,not useful
+0.48,useful
+0.39,useful
+0.49,not useful
+0.78,useful
+0.28,useful
+0.27,not useful
+0.43,useful
+0.58,useful
+0.32,useful
+0.29,not useful
+0.29,useful
+0.49,not useful
+0.35,useful
+0.46,not useful
+0.28,useful
+0.39,not useful
+0.3,not useful
+0.48,not useful
+0.45,useful
+0.45,not useful
+0.3,not useful
+0.35,not useful
+0.76,useful
+0.47,useful
+0.42,not useful
+0.63,useful
+0.31,not useful
+0.43,not useful
+0.34,not useful
+0.44,not useful
+0.25,useful
+0.35,not useful
+0.44,not useful
+0.32,useful
+0.37,not useful
+0.3,not useful
+0.36,useful
+0.42,not useful
+0.77,useful
+0.38,not useful
+0.8,useful
+0.8,useful
+0.36,not useful
+0.32,not useful
+0.36,useful
+0.26,not useful
+0.39,not useful
+0.3,not useful
+0.4,not useful
+0.25,useful
+0.5,not useful
+0.22,not useful
+0.51,useful
+0.45,not useful
+0.26,not useful
+0.38,not useful
+0.32,not useful
+0.39,useful
+0.44,not useful
+0.37,useful
+0.35,not useful
+0.47,useful
+0.4,useful
+0.38,useful
+0.37,not useful
+0.17,not useful
+0.82,useful
+0.78,useful
+0.39,not useful
+0.44,not useful
+0.24,not useful
+0.31,useful
+0.31,not useful
+0.45,useful
+0.62,useful
+0.59,useful
+0.56,useful
+0.38,useful
+0.44,useful
+0.27,not useful
+0.29,not useful
+0.37,not useful
+0.38,not useful
+0.31,not useful
+0.4,not useful
+0.33,not useful
+0.34,not useful
+0.47,useful
+0.41,not useful
+0.18,not useful
+0.46,not useful
+0.33,useful
+0.25,not useful
+0.19,not useful
+0.26,useful
+0.47,not useful
+0.47,useful
+0.33,useful
+0.37,not useful
+0.23,useful
+0.29,not useful
+0.28,not useful
+0.2,useful
+0.34,not useful
+0.26,not useful
+0.26,not useful
+0.28,not useful
+0.27,not useful
+0.26,not useful
+0.17,not useful
+0.29,not useful
+0.4,not useful
+0.31,not useful
+0.4,not useful
+0.22,useful
+0.2,not useful
+0.82,useful
+0.45,useful
+0.34,useful
+0.23,not useful
+0.42,not useful
+0.4,not useful
+0.31,not useful
+0.35,not useful
+0.22,not useful
+0.3,not useful
+0.32,not useful
+0.31,not useful
+0.23,not useful
+0.34,not useful
+0.27,not useful
+0.29,not useful
+0.44,not useful
+0.3,useful
+0.35,not useful
+0.3,not useful
+0.35,not useful
+0.58,useful
+0.36,useful
+0.38,not useful
+0.3,not useful
+0.3,not useful
+0.31,not useful
+0.54,useful
+0.28,not useful
+0.37,not useful
+0.77,useful
+0.33,useful
+0.23,not useful
+0.2,not useful
+0.24,not useful
+0.44,not useful
+0.8,useful
+0.26,useful
+0.2,not useful
+0.16,not useful
+0.27,useful
+0.4,not useful
+0.49,not useful
+0.38,not useful
+0.45,not useful
+0.39,not useful
+0.23,useful
+0.35,not useful
+0.31,not useful
+0.46,not useful
+0.2,useful
+0.47,not useful
+0.33,not useful
+0.37,not useful
+0.43,not useful
+0.63,useful
+0.5,useful
+0.21,useful
+0.26,not useful
+0.4,not useful
+0.16,not useful
+0.74,useful
+0.23,useful
+0.33,not useful
+0.29,useful
+0.17,not useful
+0.29,useful
+0.38,not useful
+0.69,useful
+0.45,not useful
+0.37,not useful
+0.25,not useful
+0.48,useful
+0.43,not useful
+0.58,useful
+0.25,not useful
+0.44,not useful
+0.85,useful
+0.33,useful
+0.45,not useful
+0.33,useful
+0.3,not useful
+0.24,not useful
+0.22,not useful
+0.3,not useful
+0.28,useful
+0.24,useful
+0.4,not useful
+0.54,useful
+0.44,useful
+0.38,not useful
+0.32,not useful
+0.18,not useful
+0.22,not useful
+0.36,not useful
+0.3,not useful
+0.37,not useful
+0.4,not useful
+0.37,useful
+0.33,not useful
+0.19,not useful
+0.48,not useful
+0.18,useful
+0.3,not useful
+0.25,not useful
+0.82,useful
+0.17,useful
+0.31,not useful
+0.31,not useful
+0.27,not useful
+0.38,not useful
+0.68,useful
+0.25,useful
+0.48,not useful
+0.4,not useful
+0.19,not useful
+0.27,useful
+0.42,not useful
+0.54,useful
+0.34,useful
+0.28,not useful
+0.82,useful
+0.26,useful
+0.31,not useful
+0.32,not useful
+0.39,not useful
+0.33,not useful
+0.17,useful
+0.24,not useful
+0.5,not useful
+0.76,useful
+0.46,useful
+0.2,not useful
+0.3,not useful
+0.32,not useful
+0.34,not useful
+0.36,not useful
+0.8,useful
+0.23,useful
+0.18,not useful
+0.35,not useful
+0.4,not useful
+0.48,not useful
+0.26,not useful
+0.43,not useful
+0.64,useful
+0.28,useful
+0.42,not useful
+0.21,useful
+0.26,not useful
+0.2,not useful
+0.39,useful
+0.38,not useful
+0.23,not useful
+0.18,not useful
+0.37,not useful
+0.38,not useful
+0.22,useful
+0.4,not useful
+0.66,useful
+0.62,useful
+0.7,useful
+0.25,not useful
+0.28,not useful
+0.67,useful
+0.21,useful
+0.34,not useful
+0.61,useful
+0.3,useful
+0.18,not useful
+0.31,useful
+0.31,not useful
+0.23,not useful
+0.43,not useful
+0.33,not useful
+0.32,not useful
+0.36,not useful
+0.37,useful
+0.38,not useful
+0.27,not useful
+0.21,not useful
+0.34,not useful
+0.33,useful
+0.22,not useful
+0.22,not useful
+0.33,not useful
+0.69,useful
+0.37,not useful
+0.34,useful
+0.28,not useful
+0.19,not useful
+0.32,not useful
+0.26,not useful
+0.29,useful
+0.25,not useful
+0.38,not useful
+0.19,useful
+0.33,not useful
+0.31,useful
+0.13,not useful
+0.21,useful
+0.44,not useful
+0.2,useful
+0.49,not useful
+0.33,useful
+0.3,not useful
+0.29,not useful
+0.39,not useful
+0.38,not useful
+0.45,not useful
+0.6,useful
+0.82,useful
+0.79,useful
+0.68,useful
+0.77,useful
+0.3,useful
+0.28,not useful
+0.31,useful
+0.22,not useful
+0.3,useful
+0.29,not useful
+0.36,not useful
+0.4,useful
+0.25,not useful
+0.32,not useful
+0.22,not useful
+0.25,not useful
+0.45,not useful
+0.29,not useful
+0.35,not useful
+0.49,useful
+0.29,useful
+0.32,not useful
+0.37,not useful
+0.47,not useful
+0.32,not useful
+0.37,useful
+0.32,not useful
+0.24,not useful
+0.34,not useful
+0.19,not useful
+0.24,useful
+0.22,not useful
+0.48,not useful
+0.23,not useful
+0.33,useful
+0.46,not useful
+0.45,useful
+0.52,useful
+0.44,useful
+0.49,useful
+0.27,useful
+0.26,not useful
+0.19,useful
+0.29,not useful
+0.32,not useful
+0.27,not useful
+0.37,not useful
+0.41,useful
+0.3,not useful
+0.31,not useful
+0.31,not useful
+0.45,useful
+0.33,not useful
+0.3,not useful
+0.45,not useful
+0.32,useful
+0.29,not useful
+0.28,not useful
+0.48,not useful
+0.59,useful
+0.71,useful
+0.69,useful
+0.22,useful
+0.26,not useful
+0.25,not useful
+0.19,not useful
+0.34,not useful
+0.77,useful
+0.25,useful
+0.45,not useful
+0.66,useful
+0.41,useful
+0.21,not useful
+0.31,not useful
+0.56,useful
+0.32,useful
+0.46,not useful
+0.31,not useful
+0.47,useful
+0.2,not useful
+0.32,useful
+0.34,not useful
+0.32,useful
+0.27,not useful
+0.34,not useful
+0.35,not useful
+0.39,not useful
+0.22,useful
+0.43,not useful
+0.35,not useful
+0.22,useful
+0.41,not useful
+0.61,useful
+0.29,useful
+0.19,useful
+0.15,not useful
+0.65,useful
+0.84,useful
+0.26,useful
+0.31,not useful
+0.48,not useful
+0.23,useful
+0.22,not useful
+0.23,useful
+0.33,not useful
+0.29,not useful
+0.21,not useful
+0.39,not useful
+0.21,not useful
+0.83,useful
+0.68,useful
+0.33,useful
+0.5,not useful
+0.32,not useful
+0.2,not useful
+0.37,not useful
+0.25,useful
+0.38,not useful
+0.47,useful
+0.38,useful
+0.3,not useful
+0.24,not useful
+0.36,not useful
+0.2,not useful
+0.37,useful
+0.28,not useful
+0.26,not useful
+0.34,not useful
+0.3,not useful
+0.33,useful
+0.29,not useful
+0.39,useful
+0.18,not useful
+0.47,not useful
+0.44,useful
+0.34,not useful
+0.32,not useful
+0.5,not useful
+0.39,not useful
+0.29,not useful
+0.27,not useful
+0.21,useful
+0.35,not useful
+0.48,not useful
+0.21,not useful
+0.29,not useful
+0.29,not useful
+0.49,not useful
+0.17,not useful
+0.22,not useful
+0.81,useful
+0.75,useful
+0.28,useful
+0.39,not useful
+0.17,not useful
+0.21,not useful
+0.46,not useful
+0.4,not useful
+0.29,useful
+0.41,not useful
+0.3,useful
+0.29,not useful
+0.39,useful
+0.36,not useful
+0.25,not useful
+0.24,not useful
+0.38,useful
+0.19,not useful
+0.42,useful
+0.83,useful
+0.52,useful
+0.26,useful
+0.32,not useful
+0.34,not useful
+0.51,useful
+0.55,useful
+0.23,useful
+0.24,not useful
+0.2,not useful
+0.37,not useful
+0.36,useful
+0.3,not useful
+0.21,not useful
+0.24,not useful
+0.21,not useful
+0.27,not useful
+0.17,not useful
+0.47,not useful
+0.26,not useful
+0.31,not useful
+0.45,not useful
+0.22,useful
+0.42,not useful
+0.39,not useful
+0.52,useful
+0.33,useful
+0.25,not useful
+0.33,not useful
+0.33,not useful
+0.47,not useful
+0.41,useful
+0.25,useful
+0.21,not useful
+0.26,useful
+0.3,not useful
+0.21,useful
+0.21,not useful
+0.18,not useful
+0.28,useful
+0.25,not useful
+0.37,not useful
+0.35,not useful
+0.19,not useful
+0.61,useful
+0.56,useful
+0.39,useful
+0.33,not useful
+0.42,not useful
+0.25,useful
+0.34,not useful
+0.29,not useful
+0.47,not useful
+0.48,not useful
+0.74,useful
+0.38,useful
+0.23,not useful
+0.42,not useful
+0.53,useful
+0.3,useful
+0.43,not useful
+0.24,useful
+0.3,not useful
+0.39,useful
+0.29,not useful
+0.3,not useful
+0.29,not useful
+0.84,useful
+0.25,useful
+0.16,not useful
+0.24,useful
+0.41,not useful
+0.59,useful
+0.22,useful
+0.35,not useful
+0.33,not useful
+0.23,not useful
+0.24,not useful
+0.28,not useful
+0.29,not useful
+0.27,not useful
+0.44,not useful
+0.32,not useful
+0.24,useful
+0.32,not useful
+0.46,useful
+0.23,not useful
+0.21,not useful
+0.52,useful
+0.66,useful
+0.31,useful
+0.49,not useful
+0.2,not useful
+0.62,useful
+0.31,useful
+0.23,not useful
+0.4,useful
+0.3,not useful
+0.5,useful
+0.64,useful
+0.29,useful
+0.33,not useful
+0.44,not useful
+0.29,useful
+0.2,not useful
+0.31,useful
+0.27,not useful
+0.22,not useful
+0.39,not useful
+0.3,not useful
+0.23,not useful
+0.26,not useful
+0.41,useful
+0.43,not useful
+0.19,useful
+0.36,not useful
+0.29,not useful
+0.48,not useful
+0.31,useful
+0.45,not useful
+0.24,useful
+0.28,not useful
+0.52,useful
+0.64,useful
+0.74,useful
+0.24,useful
+0.36,not useful
+0.28,not useful
+0.37,not useful
+0.69,useful
+0.35,useful
+0.5,not useful
+0.41,not useful
+0.39,not useful
+0.27,not useful
+0.24,not useful
+0.26,not useful
+0.32,not useful
+0.29,useful
+0.31,not useful
+0.43,useful
+0.22,not useful
+0.76,useful
+0.83,useful
+0.37,useful
+0.21,not useful
+0.52,useful
+0.8,useful
+0.81,useful
+0.66,useful
+0.22,useful
+0.49,not useful
+0.23,useful
+0.42,not useful
+0.47,not useful
+0.49,not useful
+0.72,useful
+0.62,useful
+0.39,useful
+0.17,not useful
+0.22,useful
+0.31,not useful
+0.41,not useful
+0.38,useful
+0.28,not useful
+0.27,not useful
+0.35,not useful
+0.36,not useful
+0.28,not useful
+0.15,not useful
+0.68,useful
+0.86,useful
+0.26,useful
+0.19,not useful
+0.33,not useful
+0.48,not useful
+0.26,useful
+0.31,not useful
+0.47,useful
+0.81,useful
+0.36,useful
+0.3,not useful
+0.26,not useful
+0.33,not useful
+0.42,not useful
+0.43,not useful
+0.34,not useful
+0.34,useful
+0.27,not useful
+0.45,not useful
+0.24,useful
+0.38,not useful
+0.28,useful
+0.25,not useful
+0.44,not useful
+0.27,useful
+0.46,not useful
+0.35,useful
+0.27,not useful
+0.31,not useful
+0.42,not useful
+0.46,not useful
+0.36,useful
+0.31,not useful
+0.35,not useful
+0.28,not useful
+0.36,useful
+0.49,not useful
+0.33,not useful
+0.28,not useful
+0.28,not useful
+0.23,not useful
+0.37,not useful
+0.33,not useful
+0.3,not useful
+0.14,not useful
+0.69,useful
+0.41,useful
+0.36,not useful
+0.24,not useful
+0.32,not useful
+0.35,not useful
+0.41,not useful
+0.3,not useful
+0.26,not useful
+0.31,not useful
+0.24,not useful
+0.31,not useful
+0.38,not useful
+0.74,useful
+0.67,useful
+0.82,useful
+0.26,useful
+0.45,not useful
+0.45,not useful
+0.32,useful
+0.35,not useful
+0.36,not useful
+0.47,not useful
+0.74,useful
+0.26,useful
+0.22,not useful
+0.61,useful
+0.44,useful
+0.44,not useful
+0.25,not useful
+0.29,not useful
+0.2,useful
+0.35,not useful
+0.32,not useful
+0.26,not useful
+0.7,useful
+0.71,useful
+0.39,useful
+0.26,useful
+0.36,not useful
+0.3,not useful
+0.26,useful
+0.25,not useful
+0.51,useful
+0.18,not useful
+0.35,useful
+0.47,not useful
+0.53,useful
+0.66,useful
+0.33,useful
+0.35,not useful
+0.38,not useful
+0.77,useful
+0.3,useful
+0.48,not useful
+0.71,useful
+0.49,useful
+0.3,not useful
+0.63,useful
+0.62,useful
+0.23,useful
+0.29,not useful
+0.52,useful
+0.27,not useful
+0.28,not useful
+0.18,not useful
+0.23,useful
+0.29,not useful
+0.46,not useful
+0.79,useful
+0.65,useful
+0.63,useful
+0.3,useful
+0.21,not useful
+0.23,useful
+0.46,not useful
+0.82,useful
+0.29,useful
+0.26,not useful
+0.29,not useful
+0.28,not useful
+0.4,not useful
+0.33,not useful
+0.2,not useful
+0.26,useful
+0.27,not useful
+0.84,useful
+0.33,useful
+0.37,not useful
+0.28,useful
+0.35,not useful
+0.25,not useful
+0.33,useful
+0.31,not useful
+0.35,not useful
+0.43,not useful
+0.65,useful
+0.81,useful
+0.28,useful
+0.28,not useful
+0.67,useful
+0.33,useful
+0.29,not useful
+0.35,useful
+0.54,useful
+0.26,useful
+0.32,not useful
+0.34,not useful
+0.34,not useful
+0.38,useful
+0.58,useful
+0.56,useful
+0.43,useful
+0.66,useful
+0.53,useful
+0.29,useful
+0.25,not useful
+0.3,not useful
+0.3,useful
+0.33,not useful
+0.35,not useful
+0.31,not useful
+0.31,useful
+0.41,not useful
+0.52,useful
+0.54,useful
+0.8,useful
+0.55,useful
+0.63,useful
+0.26,useful
+0.38,not useful
+0.29,not useful
+0.26,not useful
+0.5,useful
+0.26,useful
+0.37,not useful
+0.46,not useful
+0.55,useful
+0.69,useful
+0.37,useful
+0.27,not useful
+0.44,useful
+0.37,useful
+0.48,not useful
+0.4,useful
+0.4,not useful
+0.37,not useful
+0.21,useful
+0.25,not useful
+0.5,not useful
+0.2,not useful
+0.84,useful
+0.43,useful
+0.29,useful
+0.3,not useful
+0.28,not useful
+0.48,not useful
+0.75,useful
+0.31,useful
+0.43,not useful
+0.36,not useful
+0.35,not useful
+0.53,useful
+0.29,useful
+0.37,not useful
+0.33,useful
+0.35,not useful
+0.29,useful
+0.31,not useful
+0.16,not useful
+0.41,useful
+0.32,not useful
+0.34,not useful
+0.37,useful
+0.78,useful
+0.26,useful
+0.2,not useful
+0.84,useful
+0.24,useful
+0.42,not useful
+0.24,not useful
+0.23,not useful
+0.27,not useful
+0.2,not useful
+0.7,useful
+0.66,useful
+0.46,useful
+0.41,not useful
+0.29,not useful
+0.29,useful
+0.5,not useful
+0.77,useful
+0.84,useful
+0.57,useful
+0.25,useful
+0.44,not useful
+0.51,useful
+0.36,useful
+0.32,not useful
+0.32,not useful
+0.32,not useful
+0.47,not useful
+0.21,useful
+0.36,not useful
+0.19,not useful
+0.56,useful
+0.23,useful
+0.44,not useful
+0.31,useful
+0.19,not useful
+0.43,useful
+0.39,not useful
+0.71,useful
+0.22,useful
+0.31,not useful
+0.26,not useful
+0.48,not useful
+0.33,not useful
+0.35,useful
+0.3,not useful
+0.39,useful
+0.32,not useful
+0.45,not useful
+0.69,useful
+0.21,useful
+0.47,not useful
+0.34,useful
+0.43,not useful
+0.69,useful
+0.26,useful
+0.18,not useful
+0.31,useful
+0.34,not useful
+0.31,not useful
+0.2,not useful
+0.26,not useful
+0.37,not useful
+0.26,not useful
+0.39,not useful
+0.26,useful
+0.41,not useful
+0.52,useful
+0.36,useful
+0.17,not useful
+0.25,useful
+0.24,not useful
+0.2,not useful
+0.21,not useful
+0.86,useful
+0.37,useful
+0.41,not useful
+0.47,not useful
+0.49,useful
+0.25,useful
+0.46,not useful
+0.61,useful
+0.62,useful
+0.41,useful
+0.25,not useful
+0.26,not useful
+0.25,useful
+0.36,useful
+0.37,not useful
+0.62,useful
+0.65,useful
+0.33,useful
+0.25,not useful
+0.23,not useful
+0.21,not useful
+0.25,useful
+0.22,not useful
+0.33,useful
+0.45,not useful
+0.27,not useful
+0.32,not useful
+0.44,not useful
+0.35,not useful
+0.46,not useful
+0.47,useful
+0.24,not useful
+0.35,not useful
+0.2,useful
+0.33,not useful
+0.33,useful
+0.35,useful
+0.3,not useful
+0.32,not useful
+0.28,not useful
+0.35,not useful
+0.36,not useful
+0.24,not useful
+0.29,not useful
+0.35,not useful
+0.32,useful
+0.16,not useful
+0.68,useful
+0.27,useful
+0.21,not useful
+0.37,not useful
+0.37,useful
+0.34,not useful
+0.48,not useful
+0.58,useful
+0.42,useful
+0.25,useful
+0.32,not useful
+0.48,not useful
+0.26,useful
+0.36,not useful
+0.77,useful
+0.35,useful
+0.47,not useful
+0.33,not useful
+0.22,useful
+0.55,useful
+0.2,useful
+0.42,not useful
+0.43,not useful
+0.47,not useful
+0.4,useful
+0.21,not useful
+0.76,useful
+0.31,useful
+0.21,not useful
+0.45,not useful
+0.29,useful
+0.4,not useful
+0.34,not useful
+0.41,not useful
+0.33,useful
+0.31,not useful
+0.32,not useful
+0.22,not useful
+0.5,not useful
+0.78,useful
+0.36,useful
+0.23,not useful
+0.49,not useful
+0.33,useful
+0.29,not useful
+0.38,not useful
+0.37,not useful
+0.24,not useful
+0.37,not useful
+0.26,not useful
+0.53,useful
+0.29,useful
+0.47,not useful
+0.22,useful
+0.25,not useful
+0.28,useful
+0.22,not useful
+0.25,not useful
+0.34,not useful
+0.31,not useful
+0.34,not useful
+0.46,not useful
+0.36,not useful
+0.42,not useful
+0.63,useful
+0.24,not useful
+0.36,not useful
+0.49,not useful
+0.28,useful
+0.46,not useful
+0.61,useful
+0.72,useful
+0.49,useful
+0.72,useful
+0.37,useful
+0.34,not useful
+0.25,not useful
+0.57,useful
+0.56,useful
+0.38,useful
+0.31,useful
+0.26,not useful
+0.15,not useful
+0.38,useful
+0.39,not useful
+0.34,not useful
+0.43,not useful
+0.19,not useful
+0.68,useful
+0.49,useful
+0.42,useful
+0.32,not useful
+0.4,useful
+0.36,not useful
+0.81,useful
+0.23,useful
+0.31,not useful
+0.27,useful
+0.37,not useful
+0.44,useful
+0.26,useful
+0.3,not useful
+0.42,not useful
+0.33,useful
+0.48,not useful
+0.34,useful
+0.47,not useful
+0.58,useful
+0.52,useful
+0.7,useful
+0.72,useful
+0.81,useful
+0.81,useful
+0.29,useful
+0.42,not useful
+0.62,useful
+0.67,useful
+0.39,useful
+0.68,useful
+0.37,useful
+0.35,not useful
+0.38,useful
+0.23,not useful
+0.33,not useful
+0.71,useful
+0.4,useful
+0.36,not useful
+0.41,useful
+0.42,not useful
+0.3,useful
+0.3,not useful
+0.27,not useful
+0.3,not useful
+0.39,not useful
+0.26,useful
+0.34,not useful
+0.31,useful
+0.33,not useful
+0.26,not useful
+0.19,not useful
+0.29,useful
+0.29,not useful
+0.25,not useful
+0.57,useful
+0.2,not useful
+0.67,useful
+0.57,useful
+0.22,useful
+0.36,not useful
+0.5,useful
+0.33,useful
+0.39,not useful
+0.26,useful
+0.27,not useful
+0.44,useful
+0.32,not useful
+0.57,useful
+0.4,useful
+0.44,not useful
+0.34,useful
+0.19,not useful
+0.6,useful
+0.43,useful
+0.22,not useful
+0.49,not useful
+0.52,useful
+0.65,useful
+0.36,not useful
+0.46,not useful
+0.75,useful
+0.39,useful
+0.39,not useful
+0.26,useful
+0.25,not useful
+0.45,not useful
+0.83,useful
+0.31,useful
+0.48,not useful
+0.64,useful
+0.47,useful
+0.55,useful
+0.28,useful
+0.3,not useful
+0.32,not useful
+0.26,not useful
+0.34,useful
+0.33,not useful
+0.29,not useful
+0.4,not useful
+0.47,useful
+0.36,useful
+0.41,not useful
+0.34,not useful
+0.41,not useful
+0.29,not useful
+0.38,not useful
+0.26,useful
+0.35,not useful
+0.15,not useful
+0.77,useful
+0.34,useful
+0.48,useful
+0.48,useful
+0.29,useful
+0.29,not useful
+0.39,not useful
+0.54,useful
+0.54,useful
+0.63,useful
+0.35,useful
+0.28,not useful
+0.46,useful
+0.35,useful
+0.33,not useful
+0.22,not useful
+0.39,not useful
+0.46,not useful
+0.28,useful
+0.31,not useful
+0.35,useful
+0.5,not useful
+0.34,not useful
+0.28,not useful
+0.29,useful
+0.38,not useful
+0.29,not useful
+0.62,useful
+0.27,useful
+0.33,not useful
+0.69,useful
+0.24,useful
+0.45,not useful
+0.43,useful
+0.38,not useful
+0.34,not useful
+0.49,useful
+0.23,useful
+0.31,not useful
+0.25,not useful
+0.37,not useful
+0.26,not useful
+0.27,not useful
+0.45,not useful
+0.44,useful
+0.4,not useful
+0.37,useful
+0.36,not useful
+0.31,not useful
+0.25,not useful
+0.46,useful
+0.52,useful
+0.8,useful
+0.27,useful
+0.48,not useful
+0.32,useful
+0.26,not useful
+0.29,not useful
+0.4,not useful
+0.46,not useful
+0.47,not useful
+0.41,not useful
+0.46,useful
+0.32,not useful
+0.74,useful
+0.28,useful
+0.43,not useful
+0.3,not useful
+0.44,not useful
+0.41,useful
+0.34,not useful
+0.57,useful
+0.37,useful
+0.32,not useful
+0.24,not useful
+0.35,not useful
+0.8,useful
+0.28,useful
+0.27,not useful
+0.33,not useful
+0.26,not useful
+0.28,not useful
+0.24,not useful
+0.23,useful
+0.17,not useful
+0.46,useful
+0.49,useful
+0.49,not useful
+0.72,useful
+0.85,useful
+0.3,useful
+0.34,not useful
+0.64,useful
+0.37,useful
+0.24,not useful
+0.62,useful
+0.69,useful
+0.54,useful
+0.26,useful
+0.27,not useful
+0.26,not useful
+0.45,not useful
+0.25,not useful
+0.33,not useful
+0.47,useful
+0.29,not useful
+0.28,not useful
+0.3,not useful
+0.26,useful
+0.49,not useful
+0.32,not useful
+0.2,not useful
+0.28,useful
+0.4,not useful
+0.48,useful
+0.31,not useful
+0.3,not useful
+0.34,not useful
+0.34,not useful
+0.18,not useful
+0.49,useful
+0.58,useful
+0.25,useful
+0.33,not useful
+0.33,not useful
+0.28,not useful
+0.4,useful
+0.3,not useful
+0.27,not useful
+0.22,useful
+0.39,not useful
+0.26,useful
+0.29,not useful
+0.34,not useful
+0.41,not useful
+0.34,not useful
+0.38,not useful
+0.38,useful
+0.31,not useful
+0.48,not useful
+0.84,useful
+0.73,useful
+0.31,useful
+0.24,not useful
+0.35,not useful
+0.3,not useful
+0.26,not useful
+0.48,not useful
+0.41,useful
+0.48,not useful
+0.4,not useful
+0.45,useful
+0.31,not useful
+0.4,not useful
+0.26,not useful
+0.28,useful
+0.37,not useful
+0.26,not useful
+0.39,not useful
+0.38,useful
+0.29,not useful
+0.2,not useful
+0.32,useful
+0.47,not useful
+0.27,useful
+0.38,not useful
+0.28,useful
+0.46,not useful
+0.24,useful
+0.34,useful
+0.28,useful
+0.36,not useful
+0.28,not useful
+0.28,not useful
+0.26,not useful
+0.27,not useful
+0.3,not useful
+0.4,not useful
+0.34,not useful
+0.35,not useful
+0.46,useful
+0.65,useful
+0.23,useful
+0.3,not useful
+0.46,not useful
+0.55,useful
+0.49,useful
+0.42,not useful
+0.3,not useful
+0.38,not useful
+0.7,useful
+0.72,useful
+0.66,useful
+0.63,useful
+0.28,useful
+0.27,not useful
+0.27,not useful
+0.34,not useful
+0.25,not useful
+0.72,useful
+0.32,useful
+0.31,not useful
+0.24,useful
+0.35,not useful
+0.26,useful
+0.32,not useful
+0.47,not useful
+0.4,useful
+0.36,useful
+0.37,not useful
+0.71,useful
+0.39,useful
+0.48,not useful
+0.31,not useful
+0.39,not useful
+0.22,not useful
+0.28,useful
+0.25,useful
+0.19,not useful
+0.81,useful
+0.56,useful
+0.84,useful
+0.82,useful
+0.6,useful
+0.45,useful
+0.42,not useful
+0.35,not useful
+0.28,useful
+0.4,not useful
+0.31,not useful
+0.42,useful
+0.35,useful
+0.25,not useful
+0.33,useful
+0.36,not useful
+0.47,useful
+0.35,useful
+0.23,not useful
+0.27,useful
+0.39,not useful
+0.24,not useful
+0.27,useful
+0.36,not useful
+0.3,not useful
+0.33,useful
+0.49,not useful
+0.27,useful
+0.33,not useful
+0.28,not useful
+0.26,not useful
+0.33,not useful
+0.46,useful
+0.27,useful
+0.47,useful
+0.35,useful
+0.35,not useful
+0.47,not useful
+0.35,useful
+0.39,not useful
+0.32,not useful
+0.42,not useful
+0.38,useful
+0.38,not useful
+0.41,not useful
+0.59,useful
+0.37,useful
+0.23,not useful
+0.38,not useful
+0.8,useful
+0.39,not useful
+0.44,not useful
+0.62,useful
+0.3,useful
+0.39,not useful
+0.49,not useful
+0.86,useful
+0.65,useful
+0.36,useful
+0.29,not useful
+0.85,useful
+0.3,useful
+0.25,not useful
+0.25,not useful
+0.27,not useful
+0.3,not useful
+0.31,not useful
+0.5,not useful
+0.4,useful
+0.42,not useful
+0.44,not useful
+0.33,useful
+0.27,useful
+0.4,not useful
+0.42,useful
+0.26,not useful
+0.32,not useful
+0.31,not useful
+0.44,not useful
+0.42,useful
+0.26,not useful
+0.68,useful
+0.39,useful
+0.28,not useful
+0.44,not useful
+0.37,useful
+0.32,not useful
+0.33,not useful
+0.36,not useful
+0.27,useful
+0.32,not useful
+0.42,not useful
+0.31,useful
+0.32,not useful
+0.22,not useful
+0.26,useful
+0.41,not useful
+0.49,useful
+0.27,not useful
+0.2,not useful
+0.29,not useful
+0.26,not useful
+0.35,not useful
+0.61,useful
+0.31,useful
+0.24,not useful
+0.66,useful
+0.76,useful
+0.67,useful
+0.77,useful
+0.56,useful
+0.66,useful
+0.21,useful
+0.4,not useful
+0.48,useful
+0.31,useful
+0.37,not useful
+0.43,not useful
+0.77,useful
+0.4,not useful
+0.48,not useful
+0.41,useful
+0.62,useful
+0.37,useful
+0.4,not useful
+0.27,useful
+0.27,useful
+0.44,not useful
+0.34,not useful
+0.29,useful
+0.4,not useful
+0.34,not useful
+0.43,not useful
+0.4,not useful
+0.55,useful
+0.7,useful
+0.51,useful
+0.3,useful
+0.27,not useful
+0.34,not useful
+0.25,not useful
+0.28,useful
+0.23,not useful
+0.36,not useful
+0.3,not useful
+0.29,useful
+0.26,not useful
+0.31,not useful
+0.28,useful
+0.3,not useful
+0.44,not useful
+0.64,useful
+0.85,useful
+0.25,not useful
+0.35,not useful
+0.4,not useful
+0.68,useful
+0.32,useful
+0.4,not useful
+0.5,not useful
+0.27,useful
+0.38,not useful
+0.31,not useful
+0.28,useful
+0.31,not useful
+0.46,not useful
+0.39,not useful
+0.31,useful
+0.26,not useful
+0.32,not useful
+0.4,useful
+0.29,not useful
+0.73,useful
+0.3,useful
+0.48,not useful
+0.42,useful
+0.36,useful
+0.47,useful
+0.32,not useful
+0.69,useful
+0.73,useful
+0.4,useful
+0.43,not useful
+0.32,useful
+0.45,not useful
+0.55,useful
+0.32,useful
+0.28,not useful
+0.43,useful
+0.42,not useful
+0.77,useful
+0.42,useful
+0.49,not useful
+0.54,useful
+0.65,useful
+0.49,useful
+0.32,not useful
+0.25,useful
+0.23,not useful
+0.65,useful
+0.29,useful
+0.48,not useful
+0.32,useful
+0.38,not useful
+0.35,useful
+0.25,not useful
+0.41,useful
+0.38,not useful
+0.34,useful
+0.39,not useful
+0.74,useful
+0.3,useful
+0.34,not useful
+0.75,useful
+0.31,useful
+0.27,not useful
+0.24,not useful
+0.72,useful
+0.79,useful
+0.69,useful
+0.76,useful
+0.58,useful
+0.71,useful
+0.59,useful
+0.67,useful
+0.22,useful
+0.29,not useful
+0.25,not useful
+0.26,useful
+0.41,not useful
+0.28,useful
+0.3,not useful
+0.24,not useful
+0.3,not useful
+0.29,not useful
+0.38,not useful
+0.43,not useful
+0.66,useful
+0.64,useful
+0.46,useful
+0.4,not useful
+0.24,useful
+0.2,not useful
+0.45,useful
+0.64,useful
+0.56,useful
+0.72,useful
+0.36,useful
+0.4,not useful
+0.26,useful
+0.32,not useful
+0.33,useful
+0.32,not useful
+0.35,useful
+0.18,not useful
+0.23,useful
+0.3,not useful
+0.27,not useful
+0.27,not useful
+0.37,not useful
+0.45,not useful
+0.75,useful
+0.61,useful
+0.37,useful
+0.29,not useful
+0.4,not useful
+0.43,not useful
+0.49,not useful
+0.28,useful
+0.31,not useful
+0.32,not useful
+0.73,useful
+0.75,useful
+0.79,useful
+0.84,useful
+0.5,useful
+0.43,not useful
+0.34,useful
+0.46,not useful
+0.66,useful
+0.65,useful
+0.38,useful
+0.49,not useful
+0.31,not useful
+0.38,useful
+0.21,not useful
+0.27,useful
+0.23,not useful
+0.39,not useful
+0.34,not useful
+0.31,not useful
+0.42,not useful
+0.21,not useful
+0.27,useful
+0.31,not useful
+0.2,useful
+0.4,not useful
+0.3,useful
+0.28,not useful
+0.27,not useful
+0.3,not useful
+0.28,not useful
+0.43,not useful
+0.31,not useful
+0.26,not useful
+0.29,not useful
+0.31,not useful
+0.45,not useful
+0.27,useful
+0.19,not useful
+0.39,useful
+0.39,useful
+0.31,useful
+0.25,not useful
+0.31,not useful
+0.35,not useful
+0.28,not useful
+0.63,useful
+0.28,useful
+0.3,not useful
+0.45,not useful
+0.29,useful
+0.31,not useful
+0.3,not useful
+0.28,not useful
+0.26,useful
+0.34,not useful
+0.67,useful
+0.29,useful
+0.33,not useful
+0.45,not useful
+0.37,not useful
+0.6,useful
+0.48,useful
+0.38,useful
+0.4,not useful
+0.34,useful
+0.49,not useful
+0.4,not useful
+0.35,useful
+0.33,not useful
+0.26,useful
+0.3,not useful
+0.38,not useful
+0.32,not useful
+0.32,not useful
+0.35,not useful
+0.77,useful
+0.27,useful
+0.33,not useful
+0.42,useful
+0.78,useful
+0.76,useful
+0.36,useful
+0.24,not useful
+0.31,not useful
+0.29,not useful
+0.47,not useful
+0.64,useful
+0.5,useful
+0.7,useful
+0.47,useful
+0.29,not useful
+0.3,not useful
+0.42,not useful
+0.45,not useful
+0.32,not useful
+0.34,not useful
+0.38,not useful
+0.37,not useful
+0.22,not useful
+0.44,not useful
+0.41,not useful
+0.69,useful
+0.26,useful
+0.4,not useful
+0.34,useful
+0.44,not useful
+0.45,not useful
+0.56,useful
+0.64,useful
+0.24,useful
+0.36,not useful
+0.29,not useful
+0.2,not useful
+0.68,useful
+0.39,useful
+0.4,not useful
+0.41,useful
+0.32,useful
+0.33,not useful
+0.51,useful
+0.29,not useful
+0.28,not useful
+0.37,not useful
+0.22,not useful
+0.67,useful
+0.56,useful
+0.47,useful
+0.27,not useful
+0.19,not useful
+0.63,useful
+0.33,useful
+0.27,not useful
+0.33,not useful
+0.15,not useful
+0.36,useful
+0.43,not useful
+0.42,not useful
+0.24,not useful
+0.39,not useful
+0.35,useful
+0.38,not useful
+0.24,useful
+0.26,not useful
+0.37,not useful
+0.34,not useful
+0.66,useful
+0.61,useful
+0.24,useful
+0.49,not useful
+0.2,useful
+0.34,not useful
+0.32,useful
+0.34,not useful
+0.79,useful
+0.39,not useful
+0.33,not useful
+0.83,useful
+0.65,useful
+0.27,useful
+0.23,not useful
+0.34,not useful
+0.75,useful
+0.3,not useful
+0.32,not useful
+0.38,not useful
+0.61,useful
+0.26,useful
+0.24,not useful
+0.53,useful
+0.37,useful
+0.43,not useful
+0.29,useful
+0.31,not useful
+0.66,useful
+0.44,useful
+0.3,not useful
+0.47,not useful
+0.67,useful
+0.24,useful
+0.34,not useful
+0.66,useful
+0.27,useful
+0.39,not useful
+0.27,useful
+0.26,not useful
+0.26,useful
+0.28,not useful
+0.47,not useful
+0.29,useful
+0.24,not useful
+0.35,not useful
+0.39,useful
+0.27,not useful
+0.51,useful
+0.24,useful
+0.39,not useful
+0.37,not useful
+0.37,useful
+0.43,not useful
+0.25,not useful
+0.47,not useful
+0.67,useful
+0.38,useful
+0.46,not useful
+0.26,not useful
+0.29,not useful
+0.25,useful
+0.37,not useful
+0.36,useful
+0.28,not useful
+0.39,not useful
+0.38,not useful
+0.49,not useful
+0.25,useful
+0.59,useful
+0.35,useful
+0.47,not useful
+0.28,useful
+0.34,not useful
+0.28,not useful
+0.38,not useful
+0.27,not useful
+0.44,not useful
+0.3,not useful
+0.47,not useful
+0.35,useful
+0.32,not useful
+0.3,useful
+0.16,not useful
+0.45,useful
+0.59,useful
+0.24,useful
+0.34,not useful
+0.19,not useful
+0.83,useful
+0.33,useful
+0.22,not useful
+0.59,useful
+0.57,useful
+0.8,useful
+0.49,useful
+0.62,useful
+0.6,useful
+0.4,useful
+0.47,not useful
+0.35,useful
+0.26,not useful
+0.37,useful
+0.37,useful
+0.33,not useful
+0.31,not useful
+0.18,not useful
+0.49,useful
+0.22,not useful
+0.44,not useful
+0.85,useful
+0.64,useful
+0.48,useful
+0.24,not useful
+0.5,not useful
+0.75,useful
+0.29,useful
+0.27,not useful
+0.42,useful
+0.26,not useful
+0.15,not useful
+0.61,useful
+0.8,useful
+0.3,useful
+0.35,not useful
+0.65,useful
+0.31,useful
+0.43,not useful
+0.23,not useful
+0.39,useful
+0.4,not useful
+0.27,not useful
+0.3,not useful
+0.21,not useful
+0.73,useful
+0.34,useful
+0.26,not useful
+0.27,not useful
+0.58,useful
+0.28,useful
+0.5,not useful
+0.32,not useful
+0.38,not useful
+0.49,not useful
+0.38,not useful
+0.36,not useful
+0.28,useful
+0.31,not useful
+0.44,not useful
+0.18,not useful
+0.62,useful
+0.26,not useful
+0.32,not useful
+0.33,useful
+0.25,not useful
+0.37,useful
+0.39,not useful
+0.39,not useful
+0.31,not useful
+0.35,not useful
+0.43,not useful
+0.83,useful
+0.44,useful
+0.26,useful
+0.22,not useful
+0.25,useful
+0.29,not useful
+0.4,not useful
+0.5,useful
+0.65,useful
+0.8,useful
+0.45,useful
+0.69,useful
+0.7,useful
+0.84,useful
+0.6,useful
+0.42,useful
+0.41,not useful
+0.54,useful
+0.45,not useful
+0.44,not useful
+0.3,useful
+0.28,not useful
+0.32,not useful
+0.47,useful
+0.22,not useful
+0.36,useful
+0.44,not useful
+0.62,useful
+0.49,useful
+0.25,not useful
+0.36,not useful
+0.28,not useful
+0.3,not useful
+0.4,not useful
+0.6,useful
+0.27,useful
+0.34,not useful
+0.36,useful
+0.25,not useful
+0.32,not useful
+0.4,useful
+0.32,not useful
+0.74,useful
+0.28,useful
+0.27,not useful
+0.29,not useful
+0.29,not useful
+0.38,not useful
+0.25,not useful
+0.35,not useful
+0.32,not useful
+0.32,useful
+0.32,not useful
+0.24,useful
+0.32,not useful
+0.3,not useful
+0.33,not useful
+0.39,not useful
+0.73,useful
+0.38,useful
+0.43,not useful
+0.38,not useful
+0.21,not useful
+0.29,useful
+0.37,not useful
+0.3,not useful
+0.77,useful
+0.3,useful
+0.34,not useful
+0.28,useful
+0.33,not useful
+0.3,not useful
+0.26,not useful
+0.24,useful
+0.32,not useful
+0.38,not useful
+0.41,useful
+0.23,not useful
+0.27,not useful
+0.34,not useful
+0.23,useful
+0.26,not useful
+0.26,not useful
+0.42,not useful
+0.28,useful
+0.31,not useful
+0.38,not useful
+0.3,useful
+0.37,not useful
+0.25,not useful
+0.47,not useful
+0.27,useful
+0.48,not useful
+0.66,useful
+0.54,useful
+0.48,useful
+0.4,not useful
+0.22,useful
+0.34,not useful
+0.57,useful
+0.67,useful
+0.52,useful
+0.21,useful
+0.34,not useful
+0.27,not useful
+0.47,useful
+0.54,useful
+0.7,useful
+0.7,useful
+0.32,useful
+0.32,not useful
+0.78,useful
+0.4,useful
+0.31,not useful
+0.35,not useful
+0.33,not useful
+0.36,useful
+0.27,not useful
+0.28,not useful
+0.3,useful
+0.37,not useful
+0.23,not useful
+0.44,not useful
+0.26,not useful
+0.27,not useful
+0.27,useful
+0.31,not useful
+0.31,useful
+0.29,not useful
+0.37,not useful
+0.65,useful
+0.61,useful
+0.35,useful
+0.33,not useful
+0.73,useful
+0.71,useful
+0.65,useful
+0.78,useful
+0.84,useful
+0.59,useful
+0.31,useful
+0.3,not useful
+0.46,not useful
+0.59,useful
+0.29,useful
+0.49,not useful
+0.7,useful
+0.31,useful
+0.13,not useful
+0.27,useful
+0.23,not useful
+0.35,useful
+0.29,not useful
+0.28,not useful
+0.5,not useful
+0.3,useful
+0.26,not useful
+0.41,not useful
+0.3,useful
+0.26,not useful
+0.3,not useful
+0.29,not useful
+0.41,not useful
+0.22,not useful
+0.49,not useful
+0.45,useful
+0.31,useful
+0.29,not useful
+0.66,useful
+0.31,useful
+0.26,not useful
+0.31,not useful
+0.35,not useful
+0.61,useful
+0.4,useful
+0.27,useful
+0.27,not useful
+0.15,not useful
+0.29,useful
+0.4,not useful
+0.29,not useful
+0.2,not useful
+0.6,useful
+0.22,useful
+0.27,not useful
+0.47,not useful
+0.3,useful
+0.42,not useful
+0.25,useful
+0.43,not useful
+0.44,not useful
+0.26,useful
+0.47,not useful
+0.29,useful
+0.46,not useful
+0.32,useful
+0.47,not useful
+0.37,useful
+0.26,not useful
+0.28,not useful
+0.45,not useful
+0.34,useful
+0.34,not useful
+0.28,not useful
+0.44,not useful
+0.42,not useful
+0.29,not useful
+0.39,useful
+0.2,not useful
+0.39,useful
+0.38,not useful
+0.43,not useful
+0.22,not useful
+0.42,useful
+0.69,useful
+0.37,useful
+0.43,useful
+0.55,useful
+0.34,useful
+0.31,not useful
+0.19,not useful
+0.61,useful
+0.68,useful
+0.69,useful
+0.83,useful
+0.87,useful
+0.27,useful
+0.34,not useful
+0.25,useful
+0.46,not useful
+0.45,useful
+0.26,not useful
+0.33,useful
+0.64,useful
+0.33,useful
+0.41,not useful
+0.44,not useful
+0.33,useful
+0.32,not useful
+0.26,not useful
+0.3,not useful
+0.26,not useful
+0.71,useful
+0.25,useful
+0.29,not useful
+0.48,not useful
+0.54,useful
+0.38,useful
+0.29,not useful
+0.28,not useful
+0.47,not useful
+0.43,useful
+0.48,not useful
+0.32,useful
+0.24,not useful
+0.71,useful
+0.37,useful
+0.18,not useful
+0.42,useful
+0.35,useful
+0.25,not useful
+0.38,not useful
+0.45,not useful
+0.52,useful
+0.32,useful
+0.44,not useful
+0.22,not useful
+0.35,useful
+0.23,not useful
+0.82,useful
+0.79,useful
+0.39,useful
+0.25,not useful
+0.33,not useful
+0.41,not useful
+0.27,useful
+0.31,not useful
+0.26,useful
+0.36,not useful
+0.5,not useful
+0.71,useful
+0.33,useful
+0.44,not useful
+0.39,not useful
+0.77,useful
+0.66,useful
+0.34,useful
+0.38,not useful
+0.49,not useful
+0.54,useful
+0.72,useful
+0.46,useful
+0.37,useful
+0.45,not useful
+0.32,useful
+0.43,not useful
+0.28,not useful
+0.35,not useful
+0.69,useful
+0.31,useful
+0.35,not useful
+0.34,not useful
+0.33,not useful
+0.76,useful
+0.27,useful
+0.43,not useful
+0.26,not useful
+0.46,not useful
+0.22,useful
+0.47,not useful
+0.36,not useful
+0.36,useful
+0.38,not useful
+0.27,useful
+0.3,not useful
+0.49,not useful
+0.34,useful
+0.29,not useful
+0.39,not useful
+0.36,not useful
+0.47,not useful
+0.36,useful
+0.3,not useful
+0.36,not useful
+0.33,not useful
+0.24,useful
+0.28,not useful
+0.25,not useful
+0.33,useful
+0.45,not useful
+0.44,useful
+0.3,not useful
+0.42,not useful
+0.62,useful
+0.24,useful
+0.35,not useful
+0.3,not useful
+0.24,not useful
+0.22,not useful
+0.28,useful
+0.18,not useful
+0.37,useful
+0.47,not useful
+0.21,not useful
+0.43,not useful
+0.36,useful
+0.38,useful
+0.45,not useful
+0.68,useful
+0.35,useful
+0.39,not useful
+0.37,useful
+0.25,not useful
+0.49,not useful
+0.26,useful
+0.24,not useful
+0.22,not useful
+0.23,not useful
+0.35,not useful
+0.19,not useful
+0.37,useful
+0.33,not useful
+0.4,not useful
+0.35,not useful
+0.26,not useful
+0.32,not useful
+0.34,not useful
+0.31,not useful
+0.42,not useful
+0.38,not useful
+0.38,not useful
+0.82,useful
+0.28,useful
+0.34,not useful
+0.45,useful
+0.42,not useful
+0.59,useful
+0.69,useful
+0.46,not useful
+0.29,not useful
+0.28,not useful
+0.45,not useful
+0.67,useful
+0.4,useful
+0.23,not useful
+0.27,not useful
+0.34,not useful
+0.31,not useful
+0.27,useful
+0.33,not useful
+0.3,useful
+0.25,not useful
+0.26,not useful
+0.38,not useful
+0.4,not useful
+0.26,not useful
+0.27,not useful
+0.36,not useful
+0.35,not useful
+0.43,useful
+0.16,not useful
+0.27,useful
+0.33,not useful
+0.24,not useful
+0.34,not useful
+0.64,useful
+0.73,useful
+0.55,useful
+0.65,useful
+0.73,useful
+0.23,useful
+0.25,not useful
+0.46,not useful
+0.32,useful
+0.23,not useful
+0.28,not useful
+0.29,useful
+0.32,not useful
+0.47,not useful
+0.41,not useful
+0.31,not useful
+0.3,not useful
+0.3,not useful
+0.32,useful
+0.48,useful
+0.34,useful
+0.47,not useful
+0.36,useful
+0.26,not useful
+0.27,not useful
+0.31,not useful
+0.5,not useful
+0.43,useful
+0.33,not useful
+0.27,not useful
+0.31,not useful
+0.42,not useful
+0.25,useful
+0.29,not useful
+0.33,not useful
+0.27,not useful
+0.66,useful
+0.61,useful
+0.7,useful
+0.64,useful
+0.36,useful
+0.42,not useful
+0.47,useful
+0.52,useful
+0.26,useful
+0.48,not useful
+0.23,not useful
+0.33,not useful
+0.36,not useful
+0.36,not useful
+0.26,useful
+0.49,not useful
+0.29,useful
+0.22,not useful
+0.85,useful
+0.53,useful
+0.28,useful
+0.36,not useful
+0.3,useful
+0.35,not useful
+0.61,useful
+0.25,useful
+0.31,not useful
+0.24,not useful
+0.49,not useful
+0.55,useful
+0.5,useful
+0.68,useful
+0.75,useful
+0.25,useful
+0.26,not useful
+0.41,not useful
+0.69,useful
+0.75,useful
+0.34,useful
+0.37,not useful
+0.48,useful
+0.33,useful
+0.3,not useful
+0.28,not useful
+0.32,not useful
+0.39,not useful
+0.46,not useful
+0.76,useful
+0.29,useful
+0.26,not useful
+0.42,not useful
+0.68,useful
+0.71,useful
+0.29,useful
+0.43,not useful
+0.21,not useful
+0.26,useful
+0.25,not useful
+0.5,not useful
+0.52,useful
+0.74,useful
+0.26,useful
+0.44,not useful
+0.29,not useful
+0.35,not useful
+0.46,not useful
+0.38,useful
+0.32,useful
+0.36,not useful
+0.45,useful
+0.35,useful
+0.33,not useful
+0.49,not useful
+0.31,useful
+0.34,not useful
+0.41,not useful
+0.75,useful
+0.34,useful
+0.24,not useful
+0.3,not useful
+0.5,useful
+0.64,useful
+0.34,useful
+0.17,not useful
+0.49,useful
+0.69,useful
+0.84,useful
+0.34,useful
+0.36,not useful
+0.45,useful
+0.23,not useful
+0.36,useful
+0.33,not useful
+0.32,not useful
+0.31,not useful
+0.27,not useful
+0.8,useful
+0.36,useful
+0.28,not useful
+0.34,not useful
+0.57,useful
+0.65,useful
+0.48,useful
+0.28,not useful
+0.2,not useful
+0.3,useful
+0.35,not useful
+0.41,useful
+0.29,not useful
+0.35,not useful
+0.38,not useful
+0.42,not useful
+0.39,not useful
+0.39,useful
+0.34,not useful
+0.84,useful
+0.4,useful
+0.37,not useful
+0.5,not useful
+0.33,useful
+0.47,not useful
+0.45,useful
+0.21,not useful
+0.27,not useful
+0.29,not useful
+0.3,useful
+0.21,not useful
+0.25,useful
+0.2,not useful
+0.41,useful
+0.31,useful
+0.47,not useful
+0.29,not useful
+0.48,not useful
+0.71,useful
+0.48,useful
+0.73,useful
+0.25,useful
+0.25,not useful
+0.15,not useful
+0.55,useful
+0.25,useful
+0.3,not useful
+0.29,useful
+0.25,not useful
+0.23,useful
+0.27,not useful
+0.25,not useful
+0.47,useful
+0.45,not useful
+0.47,useful
+0.44,not useful
+0.24,useful
+0.27,not useful
+0.27,not useful
+0.43,not useful
+0.69,useful
+0.27,useful
+0.45,not useful
+0.27,not useful
+0.47,useful
+0.71,useful
+0.81,useful
+0.31,useful
+0.46,not useful
+0.33,useful
+0.4,not useful
+0.63,useful
+0.65,useful
+0.28,useful
+0.28,not useful
+0.24,useful
+0.22,not useful
+0.33,not useful
+0.4,not useful
+0.29,not useful
+0.36,useful
+0.49,not useful
+0.29,not useful
+0.37,not useful
+0.65,useful
+0.56,useful
+0.44,not useful
+0.42,not useful
+0.27,useful
+0.3,not useful
+0.34,useful
+0.25,not useful
+0.27,not useful
+0.4,not useful
+0.32,not useful
+0.29,not useful
+0.33,not useful
+0.41,useful
+0.37,not useful
+0.58,useful
+0.31,useful
+0.46,not useful
+0.61,useful
+0.63,useful
+0.27,useful
+0.3,not useful
+0.33,not useful
+0.16,not useful
+0.5,useful
+0.4,useful
+0.2,not useful
+0.84,useful
+0.3,useful
+0.59,useful
+0.33,not useful
+0.46,not useful
+0.35,useful
+0.25,not useful
+0.32,useful
+0.29,not useful
+0.76,useful
+0.68,useful
+0.51,useful
+0.75,useful
+0.81,useful
+0.57,useful
+0.82,useful
+0.33,useful
+0.43,not useful
+0.28,not useful
+0.75,useful
+0.78,useful
+0.26,useful
+0.28,not useful
+0.32,not useful
+0.23,useful
+0.34,not useful
+0.2,useful
+0.44,not useful
+0.39,useful
+0.36,not useful
+0.25,useful
+0.29,not useful
+0.35,not useful
+0.63,useful
+0.23,not useful
+0.25,not useful
+0.76,useful
+0.28,useful
+0.36,not useful
+0.23,not useful
+0.61,useful
+0.75,useful
+0.29,useful
+0.36,not useful
+0.27,useful
+0.49,not useful
+0.41,not useful
+0.7,useful
+0.64,useful
+0.74,useful
+0.53,useful
+0.71,useful
+0.26,useful
+0.28,not useful
+0.85,useful
+0.2,useful
+0.23,not useful
+0.24,useful
+0.39,not useful
+0.73,useful
+0.68,useful
+0.51,useful
+0.4,not useful
+0.44,not useful
+0.69,useful
+0.56,useful
+0.83,useful
+0.72,useful
+0.68,useful
+0.57,useful
+0.3,useful
+0.32,not useful
+0.34,not useful
+0.5,not useful
+0.36,useful
+0.29,not useful
+0.7,useful
+0.43,useful
+0.55,useful
+0.38,useful
+0.39,not useful
+0.27,not useful
+0.66,useful
+0.59,useful
+0.64,useful
+0.52,useful
+0.5,useful
+0.44,useful
+0.32,not useful
+0.68,useful
+0.63,useful
+0.6,useful
+0.32,useful
+0.33,not useful
+0.78,useful
+0.53,useful
+0.27,useful
+0.49,not useful
+0.65,useful
+0.24,useful
+0.47,not useful
+0.32,useful
+0.44,not useful
+0.71,useful
+0.53,useful
+0.74,useful
+0.4,useful
+0.29,useful
+0.31,not useful
+0.7,useful
+0.33,useful
+0.31,not useful
+0.52,useful
+0.33,useful
+0.24,not useful
+0.63,useful
+0.26,useful
+0.43,not useful
+0.61,useful
+0.3,useful
+0.33,not useful
+0.69,useful
+0.25,useful
+0.22,not useful
+0.17,not useful
+0.41,useful
+0.3,useful
+0.27,not useful
+0.36,not useful
+0.82,useful
+0.28,useful
+0.35,not useful
+0.75,useful
+0.28,useful
+0.24,not useful
+0.32,useful
+0.5,not useful
+0.83,useful
+0.6,useful
+0.58,useful
+0.68,useful
+0.66,useful
+0.25,useful
+0.38,not useful
+0.28,not useful
+0.37,not useful
+0.85,useful
+0.77,useful
+0.7,useful
+0.82,useful
+0.41,useful
+0.44,not useful
+0.33,useful
+0.16,not useful
+0.65,useful
+0.64,useful
+0.78,useful
+0.61,useful
+0.77,useful
+0.33,useful
+0.3,not useful
+0.28,not useful
+0.43,not useful
+0.25,not useful
+0.31,not useful
+0.22,not useful
+0.66,useful
+0.77,useful
+0.68,useful
+0.34,useful
+0.39,not useful
+0.24,not useful
+0.46,not useful
+0.59,useful
+0.33,useful
+0.16,not useful
+0.66,useful
+0.24,useful
+0.43,not useful
+0.52,useful
+0.33,not useful
+0.31,useful
+0.34,not useful
+0.57,useful
+0.27,useful
+0.33,not useful
+0.33,useful
+0.32,not useful
+0.39,not useful
+0.3,not useful
+0.66,useful
+0.67,useful
+0.64,useful
+0.38,useful
+0.35,not useful
+0.82,useful
+0.59,useful
+0.36,useful
+0.44,not useful
+0.32,useful
+0.4,not useful
+0.68,useful
+0.33,useful
+0.37,not useful
+0.3,not useful
+0.3,useful
+0.33,not useful
+0.74,useful
+0.41,useful
+0.33,not useful
+0.47,useful
+0.47,useful
+0.66,useful
+0.81,useful
+0.77,useful
+0.84,useful
+0.54,useful
+0.55,useful
+0.42,useful
+0.28,not useful
+0.31,not useful
+0.8,useful
+0.69,useful
+0.67,useful
+0.31,useful
+0.49,not useful
+0.27,useful
+0.18,not useful
+0.32,useful
+0.64,useful
+0.43,useful
+0.31,not useful
+0.8,useful
+0.31,useful
+0.36,not useful
+0.57,useful
+0.77,useful
+0.58,useful
+0.6,useful
+0.27,useful
+0.43,not useful
+0.71,useful
+0.56,useful
+0.35,useful
+0.42,not useful
+0.37,not useful
+0.82,useful
+0.34,useful
+0.27,not useful
+0.42,useful
+0.5,not useful
+0.48,not useful
+0.53,useful
+0.28,not useful
+0.26,not useful
+0.27,useful
+0.28,not useful
+0.63,useful
+0.65,useful
+0.27,not useful
+0.29,not useful
+0.2,not useful
+0.33,useful
+0.29,not useful
+0.43,not useful
+0.35,useful
+0.26,not useful
+0.48,not useful
+0.66,useful
+0.36,useful
+0.34,not useful
+0.32,useful
+0.26,not useful
+0.5,useful
+0.45,useful
+0.42,useful
+0.25,not useful
+0.32,useful
+0.44,not useful
+0.45,useful
+0.59,useful
+0.69,useful
+0.71,useful
+0.79,useful
+0.71,useful
+0.3,useful
+0.27,not useful
+0.26,not useful
+0.34,useful
+0.28,not useful
+0.38,not useful
+0.18,not useful
+0.49,useful
+0.68,useful
+0.66,useful
+0.48,not useful
+0.25,useful
+0.19,not useful
+0.68,useful
+0.83,useful
+0.62,useful
+0.51,useful
+0.25,useful
+0.35,not useful
+0.59,useful
+0.29,useful
+0.32,not useful
+0.31,not useful
+0.3,useful
+0.41,not useful
+0.35,useful
+0.61,useful
+0.72,useful
+0.7,useful
+0.33,useful
+0.28,not useful
+0.34,useful
+0.43,not useful
+0.3,useful
+0.26,not useful
+0.5,not useful
+0.42,useful
+0.33,not useful
+0.37,useful
+0.43,not useful
+0.31,not useful
+0.29,not useful
+0.31,not useful
+0.28,not useful
+0.32,not useful
+0.5,useful
+0.26,useful
+0.27,not useful
+0.27,not useful
+0.25,not useful
+0.4,not useful
+0.29,not useful
+0.28,not useful
+0.31,not useful
+0.29,useful
+0.28,not useful
+0.29,not useful
+0.35,not useful
+0.54,useful
+0.43,useful
+0.33,not useful
+0.36,useful
+0.4,not useful
+0.32,not useful
+0.26,not useful
+0.27,useful
+0.29,not useful
+0.46,not useful
+0.27,not useful
+0.37,not useful
+0.34,not useful
+0.38,useful
+0.34,not useful
+0.32,useful
+0.25,not useful
+0.37,not useful
+0.41,useful
+0.66,useful
+0.38,useful
+0.3,not useful
+0.41,not useful
+0.71,useful
+0.64,useful
+0.79,useful
+0.56,useful
+0.57,useful
+0.56,useful
+0.25,useful
+0.49,not useful
+0.22,useful
+0.47,not useful
+0.39,not useful
+0.2,not useful
+0.49,useful
+0.31,not useful
+0.33,not useful
+0.3,not useful
+0.32,useful
+0.2,not useful
+0.33,useful
+0.49,not useful
+0.43,not useful
+0.24,useful
+0.36,not useful
+0.62,useful
+0.23,useful
+0.28,not useful
+0.57,useful
+0.29,useful
+0.25,not useful
+0.36,not useful
+0.28,not useful
+0.35,not useful
+0.36,useful
+0.4,not useful
+0.33,not useful
+0.34,not useful
+0.31,useful
+0.34,not useful
+0.29,not useful
+0.32,not useful
+0.32,not useful
+0.35,not useful
+0.28,not useful
+0.28,useful
+0.41,useful
+0.37,not useful
+0.25,not useful
+0.8,useful
+0.4,useful
+0.34,not useful
+0.48,not useful
+0.32,not useful
+0.35,useful
+0.26,not useful
+0.28,not useful
+0.37,useful
+0.32,not useful
+0.48,not useful
+0.45,useful
+0.48,not useful
+0.28,useful
+0.29,not useful
+0.46,useful
+0.39,not useful
+0.8,useful
+0.42,useful
+0.3,useful
+0.16,not useful
+0.26,useful
+0.26,not useful
+0.5,useful
+0.31,not useful
+0.32,not useful
+0.43,not useful
+0.51,useful
+0.34,not useful
+0.22,not useful
+0.33,not useful
+0.42,useful
+0.36,not useful
+0.38,not useful
+0.36,useful
+0.3,useful
+0.3,not useful
+0.3,not useful
+0.5,useful
+0.25,not useful
+0.63,useful
+0.47,useful
+0.41,not useful
+0.29,not useful
+0.44,not useful
+0.33,useful
+0.42,not useful
+0.79,useful
+0.51,useful
+0.4,not useful
+0.38,not useful
+0.39,useful
+0.49,not useful
+0.23,not useful
+0.5,not useful
+0.43,useful
+0.28,not useful
+0.29,not useful
+0.44,not useful
+0.34,not useful
+0.32,not useful
+0.46,not useful
+0.27,not useful
+0.3,not useful
+0.64,useful
+0.32,useful
+0.15,not useful
+0.64,useful
+0.33,useful
+0.63,useful
+0.3,useful
+0.42,not useful
+0.44,not useful
+0.36,useful
+0.31,useful
+0.3,not useful
+0.35,not useful
+0.36,not useful
+0.59,useful
+0.27,useful
+0.36,not useful
+0.25,useful
+0.22,not useful
+0.29,useful
+0.2,not useful
+0.32,useful
+0.41,not useful
+0.43,not useful
+0.43,not useful
+0.4,not useful
+0.4,useful
+0.28,not useful
+0.35,not useful
+0.38,not useful
+0.58,useful
+0.29,not useful
+0.36,not useful
+0.31,not useful
+0.31,useful
+0.47,not useful
+0.28,not useful
+0.8,useful
+0.83,useful
+0.79,useful
+0.68,useful
+0.69,useful
+0.66,useful
+0.25,useful
+0.43,not useful
+0.74,useful
+0.35,useful
+0.26,not useful
+0.32,not useful
+0.39,not useful
+0.42,not useful
+0.35,not useful
+0.66,useful
+0.45,useful
+0.28,not useful
+0.38,not useful
+0.35,not useful
+0.41,useful
+0.17,not useful
+0.68,useful
+0.74,useful
+0.44,useful
+0.33,not useful
+0.43,not useful
+0.44,useful
+0.34,not useful
+0.39,not useful
+0.31,useful
+0.29,not useful
+0.27,not useful
+0.34,useful
+0.34,not useful
+0.31,not useful
+0.39,not useful
+0.36,useful
+0.46,not useful
+0.42,not useful
+0.29,useful
+0.38,not useful
+0.36,not useful
+0.44,useful
+0.24,not useful
+0.56,useful
+0.7,useful
+0.33,useful
+0.31,not useful
+0.48,useful
+0.27,not useful
+0.4,not useful
+0.62,useful
+0.71,useful
+0.32,useful
+0.29,not useful
+0.31,not useful
+0.3,not useful
+0.45,not useful
+0.33,useful
+0.43,not useful
+0.27,not useful
+0.33,not useful
+0.52,useful
+0.72,useful
+0.44,useful
+0.6,useful
+0.69,useful
+0.26,not useful
+0.38,not useful
+0.32,not useful
+0.49,not useful
+0.7,useful
+0.44,not useful
+0.31,useful
+0.46,not useful
+0.52,useful
+0.6,useful
+0.6,useful
+0.61,useful
+0.63,useful
+0.34,useful
+0.33,not useful
+0.24,not useful
+0.4,useful
+0.38,not useful
+0.35,not useful
+0.41,not useful
+0.48,not useful
+0.48,not useful
+0.5,useful
+0.44,not useful
+0.83,useful
+0.45,useful
+0.36,not useful
+0.69,useful
+0.38,useful
+0.39,not useful
+0.38,not useful
+0.39,not useful
+0.38,not useful
+0.71,useful
+0.35,useful
+0.49,not useful
+0.43,not useful
+0.36,not useful
+0.41,useful
+0.42,not useful
+0.73,useful
+0.33,useful
+0.27,not useful
+0.44,not useful
+0.41,not useful
+0.3,not useful
+0.52,useful
+0.28,useful
+0.39,not useful
+0.64,useful
+0.27,not useful
+0.38,not useful
+0.62,useful
+0.32,useful
+0.37,not useful
+0.32,not useful
+0.31,not useful
+0.44,useful
+0.48,not useful
+0.27,useful
+0.34,not useful
+0.33,not useful
+0.25,not useful
+0.38,not useful
+0.36,not useful
+0.32,not useful
+0.36,not useful
+0.36,not useful
+0.31,not useful
+0.42,useful
+0.4,not useful
+0.31,useful
+0.42,not useful
+0.37,useful
+0.34,not useful
+0.48,useful
+0.34,not useful
+0.48,not useful
+0.37,useful
+0.43,not useful
+0.37,not useful
+0.3,useful
+0.16,not useful
+0.47,useful
+0.35,not useful
+0.62,useful
+0.66,useful
+0.26,useful
+0.3,not useful
+0.31,not useful
+0.7,useful
+0.58,useful
+0.52,useful
+0.52,useful
+0.52,useful
+0.22,not useful
+0.59,useful
+0.4,useful
+0.23,not useful
+0.24,useful
+0.32,not useful
+0.67,useful
+0.27,useful
+0.44,not useful
+0.35,useful
+0.29,not useful
+0.37,not useful
+0.7,useful
+0.6,useful
+0.22,useful
+0.46,not useful
+0.45,useful
+0.3,not useful
+0.19,not useful
+0.49,not useful
+0.32,not useful
+0.52,useful
+0.31,not useful
+0.63,useful
+0.59,useful
+0.35,useful
+0.34,not useful
+0.34,not useful
+0.33,not useful
+0.28,not useful
+0.34,not useful
+0.3,useful
+0.44,not useful
+0.66,useful
+0.44,useful
+0.3,not useful
+0.33,not useful
+0.34,not useful
+0.58,useful
+0.33,not useful
+0.63,useful
+0.54,useful
+0.4,useful
+0.22,not useful
+0.33,not useful
+0.67,useful
+0.37,useful
+0.35,not useful
+0.34,not useful
+0.3,not useful
+0.4,useful
+0.23,not useful
+0.41,not useful
+0.32,not useful
+0.37,not useful
+0.28,not useful
+0.29,useful
+0.31,not useful
+0.42,useful
+0.33,not useful
+0.46,useful
+0.24,not useful
+0.39,not useful
+0.52,useful
+0.32,not useful
+0.27,useful
+0.31,not useful
+0.36,useful
+0.28,not useful
+0.27,useful
+0.26,not useful
+0.41,not useful
+0.22,useful
+0.25,not useful
+0.44,not useful
+0.73,useful
+0.44,useful
+0.37,not useful
+0.25,not useful
+0.34,not useful
+0.68,useful
+0.35,useful
+0.49,not useful
+0.72,useful
+0.69,useful
+0.26,useful
+0.22,not useful
+0.34,not useful
+0.34,not useful
+0.6,useful
+0.67,useful
+0.39,useful
+0.25,not useful
+0.29,not useful
+0.25,not useful
+0.42,not useful
+0.34,not useful
+0.42,not useful
+0.43,not useful
+0.49,not useful
+0.36,not useful
+0.29,useful
+0.34,not useful
+0.44,not useful
+0.37,not useful
+0.63,useful
+0.42,useful
+0.32,not useful
+0.39,useful
+0.34,not useful
+0.45,not useful
+0.61,useful
+0.37,useful
+0.42,not useful
+0.62,useful
+0.32,useful
+0.47,not useful
+0.32,not useful
+0.59,useful
+0.31,useful
+0.36,not useful
+0.6,useful
+0.3,useful
+0.46,not useful
+0.61,useful
+0.24,useful
+0.31,not useful
+0.35,not useful
+0.7,useful
+0.26,useful
+0.31,not useful
+0.29,not useful
+0.47,not useful
+0.33,not useful
+0.58,useful
+0.59,useful
+0.32,useful
+0.64,useful
+0.68,useful
+0.28,useful
+0.22,not useful
+0.39,not useful
+0.43,not useful
+0.4,not useful
+0.65,useful
+0.29,useful
+0.41,not useful
+0.38,not useful
+0.48,useful
+0.38,not useful
+0.44,useful
+0.4,not useful
+0.53,useful
+0.47,useful
+0.39,not useful
+0.39,useful
+0.37,not useful
+0.41,not useful
+0.3,useful
+0.3,not useful
+0.33,not useful
+0.61,useful
+0.5,useful
+0.57,useful
+0.28,useful
+0.34,not useful
+0.51,useful
+0.32,not useful
+0.67,useful
+0.69,useful
+0.24,useful
+0.19,not useful
+0.37,not useful
+0.64,useful
+0.28,useful
+0.4,not useful
+0.33,useful
+0.17,not useful
+0.31,not useful
+0.35,not useful
+0.29,useful
+0.27,useful
+0.33,not useful
+0.41,useful
+0.4,useful
+0.36,not useful
+0.49,not useful
+0.34,not useful
+0.61,useful
+0.73,useful
+0.56,useful
+0.41,useful
+0.34,not useful
+0.32,not useful
+0.28,not useful
+0.33,not useful
+0.18,useful
+0.31,not useful
+0.62,useful
+0.63,useful
+0.34,useful
+0.33,not useful
+0.47,useful
+0.68,useful
+0.29,useful
+0.32,not useful
+0.33,not useful
+0.48,not useful
+0.2,not useful
+0.21,not useful
+0.33,not useful
+0.32,not useful
+0.51,useful
+0.37,not useful
+0.3,not useful
+0.64,useful
+0.54,useful
+0.39,not useful
+0.31,not useful
+0.24,not useful
+0.34,not useful
+0.45,not useful
+0.2,useful
+0.46,not useful
+0.39,not useful
+0.21,not useful
+0.47,not useful
+0.28,not useful
+0.35,not useful
+0.33,useful
+0.24,not useful
+0.46,not useful
+0.31,not useful
+0.31,not useful
+0.69,useful
+0.71,useful
+0.23,useful
+0.37,not useful
+0.25,useful
+0.34,not useful
+0.21,useful
+0.36,not useful
+0.29,useful
+0.42,not useful
+0.56,useful
+0.23,not useful
+0.42,not useful
+0.63,useful
+0.29,useful
+0.32,not useful
+0.29,useful
+0.2,not useful
+0.46,not useful
+0.63,useful
+0.22,useful
+0.33,not useful
+0.26,useful
+0.21,not useful
+0.39,not useful
+0.2,not useful
+0.46,not useful
+0.34,not useful
+0.25,useful
+0.23,not useful
+0.34,not useful
+0.36,not useful
+0.35,useful
+0.34,not useful
+0.4,useful
+0.49,not useful
+0.28,not useful
+0.37,useful
+0.41,not useful
+0.21,not useful
+0.3,not useful
+0.37,not useful
+0.29,not useful
+0.37,not useful
+0.29,useful
+0.28,not useful
+0.44,not useful
+0.21,not useful
+0.38,not useful
+0.34,not useful
+0.4,useful
+0.37,not useful
+0.67,useful
+0.64,useful
+0.3,useful
+0.36,not useful
+0.28,useful
+0.38,not useful
+0.71,useful
+0.25,useful
+0.36,not useful
+0.21,not useful
+0.21,not useful
+0.28,not useful
+0.34,not useful
+0.33,useful
+0.32,not useful
+0.65,useful
+0.69,useful
+0.68,useful
+0.54,useful
+0.36,not useful
+0.62,useful
+0.41,useful
+0.33,not useful
+0.69,useful
+0.36,useful
+0.33,not useful
+0.21,useful
+0.23,useful
+0.21,not useful
+0.23,not useful
+0.23,not useful
+0.2,not useful
+0.34,not useful
+0.69,useful
+0.29,useful
+0.22,not useful
+0.37,not useful
+0.54,useful
+0.34,not useful
+0.3,not useful
+0.35,not useful
+0.24,not useful
+0.36,not useful
+0.64,useful
+0.49,useful
+0.48,useful
+0.31,not useful
+0.25,not useful
+0.29,not useful
+0.4,not useful
+0.31,not useful
+0.64,useful
+0.29,useful
+0.22,not useful
+0.21,not useful
+0.43,not useful
+0.56,useful
+0.55,useful
+0.61,useful
+0.55,useful
+0.22,useful
+0.45,not useful
+0.39,useful
+0.36,not useful
+0.67,useful
+0.37,useful
+0.25,not useful
+0.25,not useful
+0.46,not useful
+0.7,useful
+0.67,useful
+0.69,useful
+0.67,useful
+0.68,useful
+0.29,useful
+0.21,not useful
+0.21,not useful
+0.21,not useful
+0.34,not useful
+0.29,not useful
+0.23,not useful
+0.31,not useful
+0.29,useful
+0.5,not useful
+0.26,not useful
+0.29,not useful
+0.34,useful
+0.2,not useful
+0.3,not useful
+0.22,not useful
+0.38,not useful
+0.21,not useful
+0.34,not useful
+0.22,useful
+0.49,not useful
+0.32,not useful
+0.61,useful
+0.68,useful
+0.7,useful
+0.37,useful
+0.31,not useful
+0.45,useful
+0.29,not useful
+0.35,not useful
+0.33,not useful
+0.21,not useful
+0.35,not useful
+0.19,not useful
+0.25,not useful
+0.32,useful
+0.29,useful
+0.53,useful
+0.25,useful
+0.44,not useful
+0.34,useful
+0.28,not useful
+0.62,useful
+0.29,useful
+0.32,not useful
+0.32,useful
+0.44,not useful
+0.19,not useful
+0.2,not useful
+0.29,not useful
+0.27,not useful
+0.31,not useful
+0.35,useful
+0.23,not useful
+0.33,not useful
+0.52,useful
+0.42,useful
+0.19,not useful
+0.16,not useful
+0.21,not useful
+0.34,not useful
+0.32,useful
+0.27,not useful
+0.44,not useful
+0.47,not useful
+0.32,not useful
+0.34,not useful
+0.34,useful
+0.34,not useful
+0.31,not useful
+0.58,useful
+0.16,useful
+0.34,not useful
+0.19,useful
+0.17,not useful
+0.31,not useful
+0.24,useful
+0.31,not useful
+0.31,not useful
+0.35,not useful
+0.16,not useful
+0.27,not useful
+0.33,not useful
+0.23,not useful
+0.26,not useful
+0.29,not useful
+0.32,not useful
+0.42,not useful
+0.48,not useful
+0.3,not useful
+0.13,useful
+0.21,not useful
+0.2,not useful
+0.35,not useful
+0.32,useful
+0.31,not useful
+0.68,useful
+0.19,useful
+0.45,useful
+0.49,not useful
+0.28,not useful
+0.3,not useful
+0.36,useful
+0.44,not useful
+0.29,not useful
+0.3,not useful
+0.25,useful
+0.4,not useful
+0.25,not useful
+0.22,not useful
+0.48,not useful
+0.39,not useful
+0.26,not useful
+0.27,not useful
+0.44,not useful
+0.35,not useful
+0.28,useful
+0.43,not useful
+0.61,useful
+0.2,useful
+0.42,not useful
+0.34,not useful
+0.27,useful
+0.19,not useful
+0.37,not useful
+0.28,useful
+0.28,not useful
+0.37,not useful
+0.3,not useful
+0.3,not useful
+0.39,useful
+0.47,not useful
+0.35,not useful
+0.35,useful
+0.49,not useful
+0.32,not useful
+0.3,useful
+0.34,not useful
+0.21,useful
+0.3,not useful
+0.66,useful
+0.62,useful
+0.65,useful
+0.55,useful
+0.56,useful
+0.61,useful
+0.26,useful
+0.35,not useful
+0.7,useful
+0.36,useful
+0.33,not useful
+0.23,not useful
+0.36,not useful
+0.21,not useful
+0.3,not useful
+0.37,not useful
+0.23,useful
+0.24,not useful
+0.27,not useful
+0.43,not useful
+0.36,not useful
+0.27,useful
+0.24,not useful
+0.24,not useful
+0.31,not useful
+0.33,not useful
+0.42,useful
+0.3,not useful
+0.45,not useful
+0.28,not useful
+0.5,not useful
+0.4,not useful
+0.39,useful
+0.24,not useful
+0.18,not useful
+0.35,not useful
+0.3,not useful
+0.26,not useful
+0.26,not useful
+0.32,not useful
+0.39,useful
+0.17,not useful
+0.36,not useful
+0.67,useful
+0.19,useful
+0.18,not useful
+0.19,not useful
+0.31,not useful
+0.58,useful
+0.23,useful
+0.17,not useful
+0.16,not useful
+0.35,not useful
+0.68,useful
+0.36,useful
+0.33,not useful
+0.65,useful
+0.26,useful
+0.18,not useful
+0.31,not useful
+0.73,useful
+0.68,useful
+0.69,useful
+0.28,useful
+0.44,not useful
+0.21,useful
+0.26,not useful
+0.35,not useful
+0.22,useful
+0.47,not useful
+0.35,not useful
+0.42,not useful
+0.34,not useful
+0.22,useful
+0.28,not useful
+0.35,not useful
+0.33,not useful
+0.29,useful
+0.3,not useful
+0.71,useful
+0.31,useful
+0.39,not useful
+0.34,not useful
+0.21,not useful
+0.47,not useful
+0.32,not useful
+0.59,useful
+0.65,useful
+0.59,useful
+0.55,useful
+0.19,not useful
+0.16,not useful
+0.2,not useful
+0.47,not useful
+0.41,not useful
+0.26,not useful
+0.33,not useful
+0.28,useful
+0.24,useful
+0.43,not useful
+0.19,not useful
+0.32,not useful
+0.34,not useful
+0.21,useful
+0.33,not useful
+0.29,useful
+0.44,not useful
+0.18,not useful
+0.13,useful
+0.31,not useful
+0.39,not useful
+0.48,useful
+0.28,not useful
+0.29,not useful
+0.3,not useful
+0.32,not useful
+0.34,not useful
+0.3,useful
+0.28,not useful
+0.31,not useful
+0.26,not useful
+0.24,not useful
+0.19,not useful
+0.24,not useful
+0.31,not useful
+0.32,not useful
+0.29,not useful
+0.39,not useful
+0.26,useful
+0.46,not useful
+0.33,not useful
+0.67,useful
+0.21,useful
+0.36,not useful
+0.23,not useful
+0.25,not useful
+0.23,not useful
+0.32,not useful
+0.35,useful
+0.36,not useful
+0.62,useful
+0.23,useful
+0.17,not useful
+0.41,not useful
+0.58,useful
+0.43,useful
+0.41,not useful
+0.42,not useful
+0.33,not useful
+0.19,not useful
+0.37,not useful
+0.35,not useful
+0.19,not useful
+0.42,not useful
+0.33,not useful
+0.32,useful
+0.47,not useful
+0.42,not useful
+0.69,useful
+0.28,useful
+0.4,not useful
+0.38,not useful
+0.7,useful
+0.52,useful
+0.42,useful
+0.41,not useful
+0.49,useful
+0.31,not useful
+0.26,useful
+0.41,not useful
+0.36,not useful
+0.34,useful
+0.31,not useful
+0.23,not useful
+0.34,not useful
+0.68,useful
+0.65,useful
+0.7,useful
+0.68,useful
+0.61,useful
+0.66,useful
+0.31,useful
+0.37,not useful
+0.41,useful
+0.33,not useful
+0.72,useful
+0.63,useful
+0.6,useful
+0.67,useful
+0.27,useful
+0.47,not useful
+0.33,not useful
+0.55,useful
+0.57,useful
+0.69,useful
+0.23,useful
+0.21,not useful
+0.38,not useful
+0.54,useful
+0.25,useful
+0.23,not useful
+0.34,not useful
+0.45,useful
+0.34,not useful
+0.61,useful
+0.64,useful
+0.53,useful
+0.35,not useful
+0.7,useful
+0.47,useful
+0.22,useful
+0.37,not useful
+0.43,useful
+0.42,not useful
+0.32,useful
+0.35,not useful
+0.67,useful
+0.62,useful
+0.72,useful
+0.7,useful
+0.27,useful
+0.39,not useful
+0.41,not useful
+0.32,useful
+0.43,not useful
+0.34,not useful
+0.65,useful
+0.28,useful
+0.38,not useful
+0.31,not useful
+0.63,useful
+0.31,useful
+0.22,not useful
+0.23,not useful
+0.2,not useful
+0.42,not useful
+0.27,not useful
+0.28,not useful
+0.44,not useful
+0.36,not useful
+0.26,useful
+0.23,not useful
+0.24,not useful
+0.39,not useful
+0.59,useful
+0.54,useful
+0.31,not useful
+0.2,not useful
+0.31,not useful
+0.24,not useful
+0.3,not useful
+0.23,not useful
+0.39,not useful
+0.23,useful
+0.36,not useful
+0.33,useful
+0.44,not useful
+0.68,useful
+0.28,useful
+0.24,not useful
+0.33,not useful
+0.38,useful
+0.31,not useful
+0.43,not useful
+0.7,useful
+0.22,useful
+0.28,not useful
+0.3,not useful
+0.65,useful
+0.36,useful
+0.4,not useful
+0.26,not useful
+0.48,not useful
+0.42,not useful
+0.35,not useful
+0.39,useful
+0.36,not useful
+0.51,useful
+0.38,not useful
+0.66,useful
+0.38,useful
+0.39,not useful
+0.35,not useful
+0.68,useful
+0.2,useful
+0.26,not useful
+0.34,not useful
+0.22,useful
+0.22,not useful
+0.33,not useful
+0.36,not useful
+0.24,not useful
+0.38,not useful
+0.23,useful
+0.28,not useful
+0.23,not useful
+0.26,not useful
+0.25,not useful
+0.31,useful
+0.21,useful
+0.38,not useful
+0.35,not useful
+0.18,useful
+0.41,not useful
+0.22,not useful
+0.29,not useful
+0.22,useful
+0.38,not useful
+0.34,not useful
+0.47,useful
+0.35,not useful
+0.68,useful
+0.25,useful
+0.42,not useful
+0.49,not useful
+0.38,not useful
+0.31,not useful
+0.26,not useful
+0.39,not useful
+0.65,useful
+0.62,useful
+0.22,useful
+0.41,not useful
+0.44,useful
+0.31,not useful
+0.29,useful
+0.26,not useful
+0.46,not useful
+0.67,useful
+0.67,useful
+0.46,useful
+0.39,useful
+0.57,useful
+0.31,not useful
+0.4,not useful
+0.62,useful
+0.36,useful
+0.23,not useful
+0.3,not useful
+0.31,not useful
+0.29,not useful
+0.46,not useful
+0.31,not useful
+0.36,useful
+0.46,not useful
+0.67,useful
+0.23,useful
+0.33,not useful
+0.51,useful
+0.35,not useful
+0.31,not useful
+0.21,useful
+0.22,useful
+0.32,useful
+0.27,not useful
+0.21,not useful
+0.32,not useful
+0.69,useful
+0.2,useful
+0.31,useful
+0.49,not useful
+0.31,not useful
+0.19,useful
+0.24,not useful
+0.27,not useful
+0.23,not useful
+0.26,not useful
+0.38,not useful
+0.2,useful
+0.49,not useful
+0.49,not useful
+0.32,not useful
+0.36,useful
+0.32,not useful
+0.26,useful
+0.4,not useful
+0.48,not useful
+0.26,useful
+0.38,not useful
+0.7,useful
+0.36,useful
+0.31,not useful
+0.54,useful
+0.36,useful
+0.3,not useful
+0.6,useful
+0.48,useful
+0.44,not useful
+0.37,useful
+0.34,not useful
+0.21,useful
+0.24,not useful
+0.45,not useful
+0.69,useful
+0.63,useful
+0.34,useful
+0.31,not useful
+0.44,not useful
+0.29,not useful
+0.29,not useful
+0.7,useful
+0.61,useful
+0.28,useful
+0.36,not useful
+0.66,useful
+0.28,useful
+0.31,not useful
+0.33,useful
+0.23,not useful
+0.36,not useful
+0.25,useful
+0.35,not useful
+0.5,not useful
+0.4,not useful
+0.51,useful
+0.24,not useful
+0.32,not useful
+0.26,useful
+0.46,not useful
+0.21,useful
+0.26,not useful
+0.54,useful
+0.29,useful
+0.29,not useful
+0.21,not useful
+0.29,not useful
+0.71,useful
+0.48,useful
+0.32,not useful
+0.61,useful
+0.66,useful
+0.7,useful
+0.27,useful
+0.31,not useful
+0.32,not useful
+0.63,useful
+0.62,useful
+0.66,useful
+0.25,useful
+0.35,not useful
+0.47,useful
+0.38,useful
+0.35,not useful
+0.33,useful
+0.21,not useful
+0.31,not useful
+0.33,not useful
+0.51,useful
+0.66,useful
+0.67,useful
+0.61,useful
+0.53,useful
+0.26,useful
+0.22,not useful
+0.32,not useful
+0.17,not useful
+0.37,not useful
+0.22,not useful
+0.35,not useful
+0.49,useful
+0.45,not useful
+0.24,useful
+0.4,not useful
+0.37,not useful
+0.65,useful
+0.24,useful
+0.33,not useful
+0.68,useful
+0.65,useful
+0.3,useful
+0.35,not useful
+0.5,useful
+0.27,not useful
+0.22,not useful
+0.68,useful
+0.21,useful
+0.66,useful
+0.68,useful
+0.68,useful
+0.3,useful
+0.43,not useful
+0.63,useful
+0.3,useful
+0.43,not useful
+0.28,not useful
+0.33,not useful
+0.27,useful
+0.2,not useful
+0.33,not useful
+0.31,not useful
+0.64,useful
+0.69,useful
+0.49,useful
+0.25,useful
+0.29,not useful
+0.27,not useful
+0.43,not useful
+0.21,not useful
+0.24,not useful
+0.48,not useful
+0.38,useful
+0.26,not useful
+0.45,not useful
+0.23,not useful
+0.31,not useful
+0.67,useful
+0.47,useful
+0.26,not useful
+0.23,not useful
+0.37,not useful
+0.44,not useful
+0.32,not useful
+0.34,useful
+0.24,not useful
+0.39,not useful
+0.47,useful
+0.41,not useful
+0.31,not useful
+0.61,useful
+0.18,useful
+0.21,not useful
+0.37,not useful
+0.35,useful
+0.34,not useful
+0.29,not useful
+0.41,not useful
+0.24,useful
+0.31,useful
+0.67,useful
+0.66,useful
+0.22,useful
+0.41,not useful
+0.32,not useful
+0.33,useful
+0.29,not useful
+0.41,not useful
+0.37,not useful
+0.29,not useful
+0.33,not useful
+0.6,useful
+0.58,useful
+0.43,useful
+0.32,not useful
+0.27,not useful
+0.33,not useful
+0.26,useful
+0.45,not useful
+0.45,not useful
+0.3,useful
+0.41,not useful
+0.3,useful
+0.26,not useful
+0.33,not useful
+0.38,not useful
+0.23,not useful
+0.2,not useful
+0.19,not useful
+0.23,not useful
+0.43,not useful
+0.37,not useful
+0.42,not useful
+0.35,not useful
+0.68,useful
+0.3,useful
+0.27,not useful
+0.29,not useful
+0.37,not useful
+0.25,useful
+0.45,not useful
+0.32,not useful
+0.32,not useful
+0.2,useful
+0.31,not useful
+0.38,not useful
+0.38,useful
+0.2,not useful
+0.23,not useful
+0.34,not useful
+0.36,not useful
+0.27,useful
+0.35,not useful
+0.32,useful
+0.3,not useful
+0.3,useful
+0.34,not useful
+0.48,not useful
+0.67,useful
+0.33,useful
+0.45,useful
+0.33,not useful
+0.69,useful
+0.26,useful
+0.32,not useful
+0.37,not useful
+0.33,not useful
+0.64,useful
+0.29,useful
+0.39,not useful
+0.43,not useful
+0.3,not useful
+0.34,not useful
+0.18,not useful
+0.2,not useful
+0.34,not useful
+0.3,not useful
+0.5,useful
+0.41,useful
+0.31,not useful
+0.23,useful
+0.28,not useful
+0.33,not useful
+0.61,useful
+0.56,useful
+0.63,useful
+0.61,useful
+0.65,useful
+0.36,useful
+0.38,not useful
+0.63,useful
+0.25,useful
+0.68,useful
+0.26,useful
+0.34,not useful
+0.33,not useful
+0.33,useful
+0.31,not useful
+0.21,not useful
+0.45,not useful
+0.68,useful
+0.69,useful
+0.52,useful
+0.27,useful
+0.43,not useful
+0.31,not useful
+0.2,not useful
+0.39,not useful
+0.28,not useful
+0.35,not useful
+0.66,useful
+0.49,useful
+0.49,useful
+0.6,useful
+0.66,useful
+0.21,useful
+0.46,not useful
+0.27,not useful
+0.32,not useful
+0.29,not useful
+0.26,not useful
+0.25,not useful
+0.4,not useful
+0.49,not useful
+0.31,useful
+0.23,not useful
+0.36,not useful
+0.37,useful
+0.34,not useful
+0.39,useful
+0.36,not useful
+0.2,useful
+0.4,not useful
+0.33,not useful
+0.55,useful
+0.63,useful
+0.39,useful
+0.29,not useful
+0.38,not useful
+0.34,useful
+0.27,useful
+0.26,not useful
+0.49,not useful
+0.64,useful
+0.6,useful
+0.61,useful
+0.68,useful
+0.62,useful
+0.27,useful
+0.25,not useful
+0.48,not useful
+0.21,useful
+0.24,not useful
+0.33,not useful
+0.27,useful
+0.46,not useful
+0.33,useful
+0.44,not useful
+0.62,useful
+0.59,useful
+0.51,useful
+0.7,useful
+0.64,useful
+0.6,useful
+0.24,useful
+0.36,not useful
+0.41,not useful
+0.23,useful
+0.35,not useful
+0.24,useful
+0.28,not useful
+0.48,not useful
+0.43,not useful
+0.67,useful
+0.59,useful
+0.63,useful
+0.51,useful
+0.44,useful
+0.35,not useful
+0.27,not useful
+0.32,not useful
+0.23,useful
+0.37,not useful
+0.62,useful
+0.63,useful
+0.25,useful
+0.28,not useful
+0.35,not useful
+0.44,not useful
+0.32,not useful
+0.25,not useful
+0.46,not useful
+0.58,useful
+0.27,useful
+0.38,not useful
+0.63,useful
+0.37,useful
+0.27,useful
+0.48,not useful
+0.54,useful
+0.25,not useful
+0.37,not useful
+0.46,not useful
+0.37,useful
+0.34,not useful
+0.26,not useful
+0.29,not useful
+0.41,not useful
+0.34,useful
+0.27,useful
+0.33,not useful
+0.54,useful
+0.3,useful
+0.38,not useful
+0.49,not useful
+0.45,not useful
+0.24,useful
+0.38,useful
+0.41,not useful
+0.36,useful
+0.28,not useful
+0.35,not useful
+0.22,not useful
+0.2,useful
+0.57,useful
+0.32,useful
+0.31,useful
+0.48,not useful
+0.36,not useful
+0.3,not useful
+0.26,useful
+0.45,not useful
+0.23,useful
+0.33,not useful
+0.28,useful
+0.31,not useful
+0.32,not useful
+0.31,not useful
+0.28,useful
+0.3,not useful
+0.32,not useful
+0.34,not useful
+0.35,useful
+0.36,not useful
+0.23,useful
+0.21,not useful
+0.49,not useful
+0.61,useful
+0.42,useful
+0.35,not useful
+0.31,not useful
+0.24,not useful
+0.39,not useful
+0.38,useful
+0.5,not useful
+0.57,useful
+0.63,useful
+0.25,useful
+0.37,not useful
+0.4,not useful
+0.54,useful
+0.27,useful
+0.31,not useful
+0.4,not useful
+0.68,useful
+0.24,useful
+0.42,not useful
+0.27,not useful
+0.21,not useful
+0.39,not useful
+0.23,not useful
+0.47,not useful
+0.28,useful
+0.36,not useful
+0.36,not useful
+0.55,useful
+0.25,useful
+0.19,not useful
+0.37,not useful
+0.29,useful
+0.36,not useful
+0.42,not useful
+0.63,useful
+0.41,useful
+0.38,not useful
+0.25,useful
+0.3,not useful
+0.26,not useful
+0.22,not useful
+0.38,not useful
+0.44,useful
+0.46,not useful
+0.47,useful
+0.59,useful
+0.3,useful
+0.35,not useful
+0.4,useful
+0.3,not useful
+0.24,useful
+0.28,not useful
+0.37,not useful
+0.31,not useful
+0.32,not useful
+0.34,not useful
+0.39,not useful
+0.29,not useful
+0.28,not useful
+0.48,not useful
+0.37,not useful
+0.29,useful
+0.66,useful
+0.24,useful
+0.37,not useful
+0.67,useful
+0.68,useful
+0.48,useful
+0.47,not useful
+0.67,useful
+0.55,useful
+0.38,useful
+0.28,not useful
+0.4,not useful
+0.33,useful
+0.26,not useful
+0.36,not useful
+0.28,useful
+0.67,useful
+0.36,useful
+0.27,useful
+0.32,not useful
+0.24,not useful
+0.35,not useful
+0.25,useful
+0.33,not useful
+0.4,not useful
+0.46,not useful
+0.41,useful
+0.33,not useful
+0.23,useful
+0.37,not useful
+0.63,useful
+0.32,useful
+0.42,not useful
+0.68,useful
+0.32,useful
+0.39,not useful
+0.25,useful
+0.35,not useful
+0.35,useful
+0.29,not useful
+0.27,useful
+0.29,not useful
+0.24,not useful
+0.3,not useful
+0.46,not useful
+0.41,useful
+0.36,useful
+0.67,useful
+0.42,useful
+0.21,not useful
+0.42,not useful
+0.34,not useful
+0.27,not useful
+0.31,not useful
+0.34,useful
+0.33,not useful
+0.51,useful
+0.61,useful
+0.4,useful
+0.32,not useful
+0.38,useful
+0.64,useful
+0.27,useful
+0.65,useful
+0.63,useful
+0.62,useful
+0.45,useful
+0.42,not useful
+0.21,useful
+0.32,not useful
+0.25,useful
+0.25,not useful
+0.44,not useful
+0.31,useful
+0.26,not useful
+0.28,not useful
+0.3,not useful
+0.61,useful
+0.56,useful
+0.43,useful
+0.49,not useful
+0.41,not useful
+0.27,useful
+0.44,not useful
+0.28,useful
+0.32,not useful
+0.41,not useful
+0.35,not useful
+0.67,useful
+0.34,useful
+0.23,not useful
+0.33,useful
+0.45,not useful
+0.25,useful
+0.22,not useful
+0.46,not useful
+0.24,not useful
+0.28,not useful
+0.26,not useful
+0.36,not useful
+0.32,useful
+0.41,not useful
+0.32,useful
+0.34,not useful
+0.46,useful
+0.44,not useful
+0.4,not useful
+0.62,useful
+0.46,useful
+0.41,not useful
+0.61,useful
+0.24,useful
+0.33,not useful
+0.3,useful
+0.3,useful
+0.27,useful
+0.59,useful
+0.66,useful
+0.4,useful
+0.29,not useful
+0.25,useful
+0.48,not useful
+0.33,useful
+0.33,not useful
+0.42,not useful
+0.37,not useful
+0.46,not useful
+0.44,not useful
+0.45,not useful
+0.32,useful
+0.39,not useful
+0.26,useful
+0.31,useful
+0.36,not useful
+0.24,useful
+0.27,not useful
+0.42,not useful
+0.5,useful
+0.4,not useful
+0.32,not useful
+0.46,not useful
+0.34,not useful
+0.4,not useful
+0.34,not useful
+0.63,useful
+0.35,useful
+0.26,not useful
+0.42,not useful
+0.45,useful
+0.72,useful
+0.61,useful
+0.39,useful
+0.28,not useful
+0.35,not useful
+0.27,not useful
+0.39,not useful
+0.25,useful
+0.31,not useful
+0.41,not useful
+0.57,useful
+0.61,useful
+0.68,useful
+0.3,useful
+0.4,not useful
+0.64,useful
+0.26,useful
+0.41,useful
+0.39,not useful
+0.59,useful
+0.33,useful
+0.49,not useful
+0.27,useful
+0.49,not useful
+0.41,useful
+0.46,not useful
+0.41,not useful
+0.34,not useful
+0.27,not useful
+0.4,not useful
+0.39,useful
+0.31,not useful
+0.27,not useful
+0.4,not useful
+0.4,not useful
+0.27,not useful
+0.54,useful
+0.56,useful
+0.39,useful
+0.42,not useful
+0.34,not useful
+0.47,not useful
+0.33,useful
+0.36,not useful
+0.36,not useful
+0.39,not useful
+0.47,useful
+0.49,useful
+0.29,useful
+0.44,not useful
+0.59,useful
+0.46,useful
+0.31,useful
+0.41,not useful
+0.38,not useful
+0.38,not useful
+0.59,useful
+0.38,useful
+0.45,useful
+0.39,not useful
+0.36,not useful
+0.29,not useful
+0.42,not useful
+0.31,useful
+0.28,not useful
+0.29,not useful
+0.63,useful
+0.16,useful
+0.36,not useful
+0.25,useful
+0.16,not useful
+0.36,not useful
+0.34,not useful
+0.31,not useful
+0.35,not useful
+0.31,not useful
+0.21,useful
+0.38,not useful
+0.34,useful
+0.41,not useful
+0.32,useful
+0.29,not useful
+0.29,not useful
+0.22,not useful
+0.32,not useful
+0.2,not useful
+0.25,useful
+0.64,useful
+0.35,useful
+0.37,not useful
+0.33,not useful
+0.55,useful
+0.36,not useful
+0.36,useful
+0.22,not useful
+0.21,not useful
+0.28,not useful
+0.25,not useful
+0.42,not useful
+0.36,not useful
+0.48,not useful
+0.23,not useful
+0.36,useful
+0.22,useful
+0.64,useful
+0.59,useful
+0.27,useful
+0.42,not useful
+0.34,not useful
+0.3,not useful
+0.35,not useful
+0.32,not useful
+0.36,not useful
+0.47,useful
+0.27,not useful
+0.27,not useful
+0.23,not useful
+0.37,not useful
+0.68,useful
+0.63,useful
+0.21,useful
+0.35,not useful
+0.29,useful
+0.19,useful
+0.34,not useful
+0.32,not useful
+0.28,not useful
+0.2,useful
+0.23,not useful
+0.27,not useful
+0.25,useful
+0.65,useful
+0.55,useful
+0.61,useful
+0.22,useful
+0.36,not useful
+0.51,useful
+0.4,not useful
+0.57,useful
+0.51,useful
+0.26,not useful
+0.46,not useful
+0.42,not useful
+0.37,not useful
+0.24,useful
+0.29,useful
+0.19,not useful
+0.49,useful
+0.26,not useful
+0.44,not useful
+0.39,not useful
+0.43,useful
+0.32,not useful
+0.41,not useful
+0.39,useful
+0.35,not useful
+0.23,useful
+0.37,not useful
+0.3,useful
+0.42,not useful
+0.34,useful
+0.59,useful
+0.3,useful
+0.25,useful
+0.33,not useful
+0.29,not useful
+0.35,not useful
+0.4,useful
+0.27,not useful
+0.27,not useful
+0.49,not useful
+0.26,not useful
+0.46,not useful
+0.35,not useful
+0.26,useful
+0.39,not useful
+0.26,useful
+0.26,not useful
+0.33,not useful
+0.24,useful
+0.69,useful
+0.45,useful
+0.24,useful
+0.36,not useful
+0.42,not useful
+0.43,not useful
+0.37,useful
+0.37,not useful
+0.46,not useful
+0.35,not useful
+0.35,useful
+0.45,not useful
+0.31,not useful
+0.48,not useful
+0.54,useful
+0.46,not useful
+0.32,useful
+0.27,not useful
+0.41,not useful
+0.27,useful
+0.58,useful
+0.39,useful
+0.36,not useful
+0.3,useful
+0.45,not useful
+0.24,not useful
+0.44,not useful
+0.37,useful
+0.37,not useful
+0.24,not useful
+0.44,not useful
+0.32,useful
+0.49,not useful
+0.35,not useful
+0.38,not useful
+0.23,not useful
+0.34,useful
+0.6,useful
+0.65,useful
+0.22,useful
+0.24,not useful
+0.29,not useful
+0.41,not useful
+0.38,not useful
+0.34,useful
+0.27,not useful
+0.41,not useful
+0.34,not useful
+0.31,not useful
+0.25,not useful
+0.35,not useful
+0.33,not useful
+0.32,not useful
+0.41,not useful
+0.44,not useful
+0.28,useful
+0.36,useful
+0.36,useful
+0.64,useful
+0.26,useful
+0.35,not useful
+0.42,not useful
+0.23,not useful
+0.57,useful
+0.28,useful
+0.47,not useful
+0.33,not useful
+0.6,useful
+0.64,useful
+0.62,useful
+0.28,useful
+0.3,not useful
+0.3,not useful
+0.31,not useful
+0.28,not useful
+0.29,useful
+0.23,useful
+0.31,useful
+0.25,not useful
+0.39,not useful
+0.32,useful
+0.3,not useful
+0.23,not useful
+0.48,not useful
+0.34,useful
+0.26,not useful
+0.24,not useful
+0.38,not useful
+0.6,useful
+0.53,useful
+0.27,not useful
+0.41,not useful
+0.63,useful
+0.62,useful
+0.45,useful
+0.34,useful
+0.59,useful
+0.54,useful
+0.37,not useful
+0.49,not useful
+0.26,not useful
+0.37,not useful
+0.21,useful
+0.42,not useful
+0.58,useful
+0.33,useful
+0.39,not useful
+0.62,useful
+0.28,useful
+0.28,not useful
+0.22,not useful
+0.43,not useful
+0.64,useful
+0.28,useful
+0.43,not useful
+0.3,not useful
+0.31,useful
+0.39,useful
+0.37,useful
+0.34,not useful
+0.56,useful
+0.49,useful
+0.3,useful
+0.39,not useful
+0.42,useful
+0.43,not useful
+0.35,not useful
+0.39,not useful
+0.34,not useful
+0.47,not useful
+0.57,useful
+0.59,useful
+0.39,useful
+0.25,not useful
+0.41,not useful
+0.3,not useful
+0.57,useful
+0.52,useful
+0.26,useful
+0.25,not useful
+0.42,useful
+0.31,useful
+0.29,useful
+0.59,useful
+0.63,useful
+0.28,useful
+0.37,not useful
+0.27,not useful
+0.32,not useful
+0.31,not useful
+0.3,not useful
+0.33,not useful
+0.45,not useful
+0.31,useful
+0.43,not useful
+0.41,useful
+0.33,not useful
+0.38,not useful
+0.44,useful
+0.42,not useful
+0.47,not useful
+0.33,useful
+0.4,not useful
+0.4,useful
+0.43,not useful
+0.29,useful
+0.21,useful
+0.46,useful
+0.25,useful
+0.33,not useful
+0.24,not useful
+0.33,not useful
+0.28,not useful
+0.3,not useful
+0.21,not useful
+0.42,not useful
+0.38,useful
+0.39,useful
+0.71,useful
+0.28,useful
+0.31,useful
+0.32,not useful
+0.24,not useful
+0.19,not useful
+0.3,not useful
+0.4,not useful
+0.66,useful
+0.23,useful
+0.21,not useful
+0.23,not useful
+0.2,not useful
+0.21,not useful
+0.25,not useful
+0.46,not useful
+0.44,not useful
+0.35,useful
+0.19,not useful
+0.3,not useful
+0.3,not useful
+0.3,not useful
+0.21,not useful
+0.24,not useful
+0.23,not useful
+0.3,not useful
+0.32,not useful
+0.47,useful
+0.39,useful
+0.36,not useful
+0.33,not useful
+0.27,not useful
+0.37,not useful
+0.25,not useful
+0.42,not useful
+0.31,not useful
+0.3,not useful
+0.32,not useful
+0.24,useful
+0.29,not useful
+0.2,not useful
+0.24,not useful
+0.31,not useful
+0.31,not useful
+0.3,not useful
+0.23,not useful
+0.35,not useful
+0.26,useful
+0.19,not useful
+0.23,not useful
+0.35,not useful
+0.48,not useful
+0.22,useful
+0.38,not useful
+0.25,not useful
+0.34,not useful
+0.21,useful
+0.22,not useful
+0.25,not useful
+0.69,useful
+0.23,useful
+0.35,not useful
+0.57,useful
+0.34,useful
+0.24,not useful
+0.43,not useful
+0.17,not useful
+0.23,not useful
+0.25,not useful
+0.35,not useful
+0.69,useful
+0.3,useful
+0.32,not useful
+0.22,useful
+0.34,not useful
+0.36,useful
+0.27,not useful
+0.26,not useful
+0.38,not useful
+0.18,not useful
+0.25,not useful
+0.35,not useful
+0.19,not useful
+0.24,not useful
+0.25,not useful
+0.21,not useful
+0.32,not useful
+0.36,not useful
+0.26,not useful
+0.67,useful
+0.37,useful
+0.35,not useful
+0.19,not useful
+0.41,not useful
+0.28,useful
+0.38,not useful
+0.25,useful
+0.52,useful
+0.32,useful
+0.49,not useful
+0.34,not useful
+0.29,not useful
+0.44,not useful
+0.45,not useful
+0.28,useful
+0.34,not useful
+0.42,not useful
+0.44,useful
+0.23,not useful
+0.34,useful
+0.19,not useful
+0.27,not useful
+0.41,not useful
+0.25,not useful
+0.33,not useful
+0.36,useful
+0.26,useful
+0.3,not useful
+0.44,not useful
+0.3,useful
+0.31,not useful
+0.25,useful
+0.4,not useful
+0.41,useful
+0.42,not useful
+0.33,useful
+0.4,not useful
+0.43,not useful
+0.3,useful
+0.27,not useful
+0.31,not useful
+0.23,not useful
+0.3,not useful
+0.29,not useful
+0.32,useful
+0.27,not useful
+0.32,not useful
+0.3,not useful
+0.25,useful
+0.36,not useful
+0.24,useful
+0.31,not useful
+0.25,useful
+0.49,not useful
+0.49,useful
+0.42,not useful
+0.22,useful
+0.27,useful
+0.21,not useful
+0.37,not useful
+0.39,not useful
+0.29,useful
+0.3,not useful
+0.29,not useful
+0.69,useful
+0.37,useful
+0.38,not useful
+0.24,useful
+0.37,not useful
+0.22,useful
+0.33,not useful
+0.32,not useful
+0.68,useful
+0.44,useful
+0.2,not useful
+0.33,not useful
+0.66,useful
+0.62,useful
+0.19,useful
+0.27,not useful
+0.17,not useful
+0.21,not useful
+0.29,not useful
+0.23,not useful
+0.29,not useful
+0.22,not useful
+0.43,not useful
+0.19,not useful
+0.44,not useful
+0.2,not useful
+0.42,not useful
+0.2,useful
+0.44,not useful
+0.43,not useful
+0.57,useful
+0.67,useful
+0.59,useful
+0.31,useful
+0.31,not useful
+0.68,useful
+0.67,useful
+0.58,useful
+0.2,useful
+0.48,not useful
+0.49,useful
+0.41,useful
+0.46,not useful
+0.32,useful
+0.38,not useful
+0.33,useful
+0.3,not useful
+0.27,useful
+0.34,not useful
+0.14,useful
+0.38,not useful
+0.32,useful
+0.46,not useful
+0.2,useful
+0.33,not useful
+0.71,useful
+0.25,useful
+0.34,not useful
+0.29,not useful
+0.19,not useful
+0.21,not useful
+0.49,not useful
+0.19,useful
+0.37,not useful
+0.7,useful
+0.22,useful
+0.41,not useful
+0.62,useful
+0.2,useful
+0.37,not useful
+0.4,not useful
+0.35,not useful
+0.67,useful
+0.66,useful
+0.3,useful
+0.28,not useful
+0.28,not useful
+0.39,useful
+0.7,useful
+0.66,useful
+0.67,useful
+0.28,useful
+0.46,not useful
+0.68,useful
+0.41,useful
+0.33,not useful
+0.2,useful
+0.34,not useful
+0.67,useful
+0.21,useful
+0.27,not useful
+0.5,not useful
+0.25,not useful
+0.4,not useful
+0.5,useful
+0.69,useful
+0.28,useful
+0.36,not useful
+0.28,useful
+0.42,not useful
+0.43,not useful
+0.67,useful
+0.66,useful
+0.69,useful
+0.7,useful
+0.36,useful
+0.33,not useful
+0.34,not useful
+0.67,useful
+0.4,useful
+0.29,not useful
+0.38,not useful
+0.37,useful
+0.48,not useful
+0.3,not useful
+0.21,useful
+0.2,useful
+0.29,not useful
+0.5,useful
+0.34,not useful
+0.32,useful
+0.33,not useful
+0.28,useful
+0.65,useful
+0.66,useful
+0.23,useful
+0.44,not useful
+0.31,not useful
+0.55,useful
+0.31,not useful
+0.18,not useful
+0.38,not useful
+0.3,not useful
+0.32,not useful
+0.27,not useful
+0.21,not useful
+0.33,not useful
+0.68,useful
+0.24,useful
+0.41,not useful
+0.28,useful
+0.31,not useful
+0.5,useful
+0.3,useful
+0.38,not useful
+0.28,useful
+0.42,not useful
+0.24,useful
+0.24,not useful
+0.25,not useful
+0.29,not useful
+0.27,not useful
+0.2,useful
+0.36,not useful
+0.3,useful
+0.47,not useful
+0.29,not useful
+0.39,not useful
+0.6,useful
+0.6,useful
+0.6,useful
+0.22,useful
+0.34,not useful
+0.64,useful
+0.4,useful
+0.31,not useful
+0.2,useful
+0.33,not useful
+0.66,useful
+0.61,useful
+0.53,useful
+0.31,not useful
+0.69,useful
+0.29,useful
+0.3,not useful
+0.25,not useful
+0.42,not useful
+0.25,not useful
+0.31,not useful
+0.26,not useful
+0.18,not useful
+0.24,not useful
+0.26,not useful
+0.37,not useful
+0.22,useful
+0.33,not useful
+0.21,useful
+0.21,not useful
+0.2,not useful
+0.29,not useful
+0.26,not useful
+0.23,not useful
+0.29,not useful
+0.65,useful
+0.51,useful
+0.27,not useful
+0.31,not useful
+0.36,useful
+0.45,not useful
+0.39,not useful
+0.42,not useful
+0.39,useful
+0.34,not useful
+0.59,useful
+0.39,useful
+0.4,not useful
+0.49,not useful
+0.34,useful
+0.41,not useful
+0.31,useful
+0.45,not useful
+0.33,useful
+0.39,not useful
+0.24,not useful
+0.36,not useful
+0.33,not useful
+0.38,useful
+0.29,useful
+0.36,not useful
+0.54,useful
+0.59,useful
+0.59,useful
+0.64,useful
+0.57,useful
+0.59,useful
+0.56,useful
+0.72,useful
+0.34,useful
+0.17,not useful
+0.35,not useful
+0.63,useful
+0.25,useful
+0.25,not useful
+0.39,not useful
+0.2,useful
+0.21,not useful
+0.38,not useful
+0.26,useful
+0.38,not useful
+0.41,not useful
+0.42,not useful
+0.22,useful
+0.2,not useful
+0.3,not useful
+0.3,not useful
+0.67,useful
+0.36,useful
+0.39,not useful
+0.2,useful
+0.41,not useful
+0.71,useful
+0.58,useful
+0.31,useful
+0.42,not useful
+0.24,useful
+0.43,not useful
+0.62,useful
+0.66,useful
+0.52,useful
+0.66,useful
+0.59,useful
+0.58,useful
+0.62,useful
+0.64,useful
+0.64,useful
+0.6,useful
+0.5,useful
+0.28,not useful
+0.35,not useful
+0.65,useful
+0.6,useful
+0.22,useful
+0.26,not useful
+0.25,not useful
+0.3,not useful
+0.26,useful
+0.37,not useful
+0.63,useful
+0.28,useful
+0.42,not useful
+0.61,useful
+0.28,useful
+0.48,not useful
+0.59,useful
+0.66,useful
+0.37,useful
+0.49,not useful
+0.28,useful
+0.38,not useful
+0.66,useful
+0.44,useful
+0.33,not useful
+0.32,not useful
+0.4,not useful
+0.53,useful
+0.39,useful
+0.37,not useful
+0.66,useful
+0.52,useful
+0.6,useful
+0.68,useful
+0.63,useful
+0.7,useful
+0.44,useful
+0.23,not useful
+0.32,not useful
+0.64,useful
+0.24,useful
+0.38,not useful
+0.39,useful
+0.25,useful
+0.39,not useful
+0.33,useful
+0.38,not useful
+0.43,not useful
+0.27,useful
+0.31,not useful
+0.42,not useful
+0.61,useful
+0.53,useful
+0.25,not useful
+0.35,not useful
+0.51,useful
+0.45,useful
+0.43,not useful
+0.67,useful
+0.21,useful
+0.66,useful
+0.66,useful
+0.25,useful
+0.45,not useful
+0.66,useful
+0.66,useful
+0.3,useful
+0.24,not useful
+0.38,not useful
+0.62,useful
+0.31,useful
+0.42,not useful
+0.44,not useful
+0.2,useful
+0.33,not useful
+0.59,useful
+0.53,useful
+0.63,useful
+0.26,useful
+0.26,not useful
+0.29,not useful
+0.24,not useful
+0.32,not useful
+0.5,not useful
+0.25,not useful
+0.26,not useful
+0.32,not useful
+0.4,not useful
+0.25,useful
+0.43,not useful
+0.25,useful
+0.39,not useful
+0.65,useful
+0.44,useful
+0.35,useful
+0.31,useful
+0.29,not useful
+0.24,not useful
+0.31,not useful
+0.52,useful
+0.59,useful
+0.48,useful
+0.34,not useful
+0.63,useful
+0.65,useful
+0.58,useful
+0.21,useful
+0.41,not useful
+0.43,useful
+0.37,not useful
+0.53,useful
+0.58,useful
+0.28,useful
+0.41,not useful
+0.66,useful
+0.65,useful
+0.63,useful
+0.59,useful
+0.61,useful
+0.62,useful
+0.35,not useful
+0.42,not useful
+0.3,useful
+0.38,not useful
+0.27,useful
+0.36,not useful
+0.56,useful
+0.5,useful
+0.58,useful
+0.6,useful
+0.65,useful
+0.63,useful
+0.26,useful
+0.32,not useful
+0.2,not useful
+0.32,not useful
+0.24,not useful
+0.18,not useful
+0.27,useful
+0.21,not useful
+0.34,not useful
+0.18,not useful
+0.25,not useful
+0.2,not useful
+0.31,not useful
+0.39,not useful
+0.32,useful
+0.34,not useful
+0.22,not useful
+0.24,not useful
+0.29,not useful
+0.23,useful
+0.25,not useful
+0.19,not useful
+0.26,useful
+0.27,not useful
+0.28,not useful
+0.21,not useful
+0.31,not useful
+0.7,useful
+0.29,useful
+0.2,useful
+0.24,not useful
+0.37,not useful
+0.44,not useful
+0.31,useful
+0.4,not useful
+0.58,useful
+0.49,useful
+0.32,not useful
+0.45,not useful
+0.19,not useful
+0.28,not useful
+0.41,not useful
+0.34,useful
+0.26,not useful
+0.18,not useful
+0.32,not useful
+0.38,not useful
+0.39,not useful
+0.43,not useful
+0.15,not useful
+0.41,not useful
+0.29,useful
+0.46,not useful
+0.3,useful
+0.24,not useful
+0.33,not useful
+0.28,useful
+0.24,not useful
+0.25,not useful
+0.47,not useful
+0.36,not useful
+0.29,not useful
+0.42,useful
+0.27,not useful
+0.32,not useful
+0.37,not useful
+0.29,not useful
+0.23,not useful
+0.31,not useful
+0.34,not useful
+0.24,useful
+0.25,not useful
+0.43,not useful
+0.4,not useful
+0.36,not useful
+0.24,not useful
+0.2,not useful
+0.26,not useful
+0.46,not useful
+0.2,not useful
+0.26,not useful
+0.32,not useful
+0.21,not useful
+0.18,not useful
+0.49,not useful
+0.48,not useful
+0.68,useful
+0.71,useful
+0.33,useful
+0.52,useful
+0.22,useful
+0.52,useful
+0.55,useful
+0.36,useful
+0.34,not useful
+0.26,useful
+0.38,not useful
+0.32,useful
+0.33,not useful
+0.23,not useful
+0.37,not useful
+0.66,useful
+0.29,useful
+0.39,not useful
+0.45,not useful
+0.33,not useful
+0.51,useful
+0.24,useful
+0.35,not useful
+0.42,useful
+0.25,not useful
+0.41,not useful
+0.32,not useful
+0.31,not useful
+0.26,not useful
+0.47,not useful
+0.36,not useful
+0.68,useful
+0.26,useful
+0.43,not useful
+0.24,not useful
+0.45,not useful
+0.24,not useful
+0.26,not useful
+0.4,not useful
+0.64,useful
+0.3,useful
+0.45,not useful
+0.27,not useful
+0.44,not useful
+0.37,useful
+0.39,not useful
+0.25,not useful
+0.31,not useful
+0.25,not useful
+0.23,not useful
+0.26,not useful
+0.43,not useful
+0.51,useful
+0.39,not useful
+0.6,useful
+0.35,useful
+0.28,not useful
+0.43,useful
+0.29,not useful
+0.22,useful
+0.23,not useful
+0.4,not useful
+0.37,not useful
+0.58,useful
+0.24,useful
+0.39,not useful
+0.41,not useful
+0.47,not useful
+0.32,not useful
+0.21,useful
+0.34,not useful
+0.28,not useful
+0.26,useful
+0.31,not useful
+0.25,useful
+0.23,not useful
+0.34,not useful
+0.31,useful
+0.32,not useful
+0.31,useful
+0.26,not useful
+0.38,not useful
+0.63,useful
+0.62,useful
+0.63,useful
+0.36,useful
+0.4,not useful
+0.31,not useful
+0.24,useful
+0.21,not useful
+0.29,not useful
+0.31,not useful
+0.34,useful
+0.23,not useful
+0.28,not useful
+0.37,not useful
+0.6,useful
+0.51,useful
+0.49,not useful
+0.7,useful
+0.3,useful
+0.44,not useful
+0.33,useful
+0.34,not useful
+0.24,useful
+0.33,not useful
+0.39,not useful
+0.56,useful
+0.36,not useful
+0.22,useful
+0.39,not useful
+0.59,useful
+0.29,useful
+0.22,not useful
+0.26,not useful
+0.39,not useful
+0.73,useful
+0.39,useful
+0.48,not useful
+0.21,useful
+0.25,not useful
+0.37,not useful
+0.26,useful
+0.29,not useful
+0.45,not useful
+0.28,useful
+0.37,not useful
+0.43,not useful
+0.62,useful
+0.3,useful
+0.38,not useful
+0.26,useful
+0.34,not useful
+0.42,not useful
+0.51,useful
+0.7,useful
+0.26,useful
+0.4,not useful
+0.65,useful
+0.29,useful
+0.25,not useful
+0.35,not useful
+0.28,useful
+0.42,not useful
+0.66,useful
+0.64,useful
+0.66,useful
+0.3,useful
+0.39,not useful
+0.25,not useful
+0.44,not useful
+0.25,not useful
+0.27,not useful
+0.33,not useful
+0.33,useful
+0.39,not useful
+0.27,useful
+0.4,not useful
+0.26,useful
+0.35,not useful
+0.44,not useful
+0.44,useful
+0.32,not useful
+0.4,not useful
+0.34,useful
+0.23,not useful
+0.32,not useful
+0.24,useful
+0.3,not useful
+0.3,useful
+0.43,not useful
+0.41,not useful
+0.35,not useful
+0.28,useful
+0.37,not useful
+0.26,not useful
+0.32,not useful
+0.54,useful
+0.33,useful
+0.23,not useful
+0.48,not useful
+0.5,useful
+0.26,useful
+0.28,not useful
+0.26,not useful
+0.39,not useful
+0.25,useful
+0.46,not useful
+0.41,not useful
+0.39,useful
+0.43,not useful
+0.42,useful
+0.32,not useful
+0.67,useful
+0.59,useful
+0.56,useful
+0.27,useful
+0.35,not useful
+0.24,not useful
+0.44,not useful
+0.36,useful
+0.32,not useful
+0.31,not useful
+0.33,not useful
+0.34,not useful
+0.36,not useful
+0.54,useful
+0.31,useful
+0.36,not useful
+0.69,useful
+0.4,useful
+0.35,not useful
+0.34,not useful
+0.24,useful
+0.21,not useful
+0.3,not useful
+0.34,useful
+0.35,not useful
+0.28,not useful
+0.45,not useful
+0.48,useful
+0.37,not useful
+0.28,useful
+0.38,not useful
+0.32,not useful
+0.29,not useful
+0.29,useful
+0.41,not useful
+0.31,useful
+0.32,not useful
+0.52,useful
+0.43,not useful
+0.28,useful
+0.49,not useful
+0.46,not useful
+0.6,useful
+0.31,useful
+0.42,not useful
+0.44,not useful
+0.22,not useful
+0.27,not useful
+0.35,not useful
+0.38,not useful
+0.28,useful
+0.36,not useful
+0.49,not useful
+0.64,useful
+0.51,useful
+0.53,useful
+0.53,useful
+0.33,useful
+0.27,not useful
+0.67,useful
+0.3,useful
+0.31,not useful
+0.48,useful
+0.51,useful
+0.41,useful
+0.38,not useful
+0.44,not useful
+0.23,useful
+0.22,not useful
+0.37,not useful
+0.23,useful
+0.35,not useful
+0.3,not useful
+0.31,not useful
+0.26,not useful
+0.5,not useful
+0.67,useful
+0.64,useful
+0.27,useful
+0.46,not useful
+0.33,not useful
+0.35,not useful
+0.38,not useful
+0.61,useful
+0.31,useful
+0.38,useful
+0.42,not useful
+0.34,not useful
+0.28,useful
+0.31,not useful
+0.27,not useful
+0.29,not useful
+0.33,not useful
+0.4,useful
+0.33,not useful
+0.32,not useful
+0.6,useful
+0.54,useful
+0.25,useful
+0.25,not useful
+0.5,not useful
+0.38,useful
+0.45,not useful
+0.34,not useful
+0.37,not useful
+0.5,useful
+0.36,not useful
+0.34,useful
+0.43,not useful
+0.28,useful
+0.35,not useful
+0.31,not useful
+0.27,useful
+0.29,not useful
+0.5,not useful
+0.42,not useful
+0.38,not useful
+0.4,not useful
+0.63,useful
+0.66,useful
+0.58,useful
+0.32,useful
+0.68,useful
+0.58,useful
+0.37,useful
+0.29,not useful
+0.43,not useful
+0.6,useful
+0.38,useful
+0.47,not useful
+0.33,not useful
+0.26,not useful
+0.33,not useful
+0.48,not useful
+0.43,not useful
+0.48,not useful
+0.3,useful
+0.42,not useful
+0.56,useful
+0.47,useful
+0.43,not useful
+0.56,useful
+0.39,useful
+0.2,not useful
+0.24,not useful
+0.28,not useful
+0.4,useful
+0.28,not useful
+0.4,not useful
+0.69,useful
+0.65,useful
+0.69,useful
+0.22,useful
+0.38,not useful
+0.3,not useful
+0.31,not useful
+0.26,not useful
+0.25,not useful
+0.3,not useful
+0.23,useful
+0.28,not useful
+0.24,not useful
+0.31,not useful
+0.48,not useful
+0.24,not useful
+0.23,not useful
+0.18,not useful
+0.37,not useful
+0.24,not useful
+0.43,not useful
+0.35,not useful
+0.25,useful
+0.21,not useful
+0.48,useful
+0.39,not useful
+0.38,not useful
+0.32,not useful
+0.67,useful
+0.41,useful
+0.28,not useful
+0.26,not useful
+0.31,not useful
+0.19,useful
+0.24,useful
+0.47,not useful
+0.34,useful
+0.66,useful
+0.23,useful
+0.24,not useful
+0.39,not useful
+0.27,not useful
+0.24,not useful
+0.29,not useful
+0.31,not useful
+0.2,not useful
+0.29,not useful
+0.27,useful
+0.22,not useful
+0.41,not useful
+0.28,useful
+0.28,not useful
+0.28,not useful
+0.31,useful
+0.22,not useful
+0.36,not useful
+0.32,not useful
+0.28,not useful
+0.22,not useful
+0.33,not useful
+0.44,not useful
+0.26,not useful
+0.28,not useful
+0.36,not useful
+0.45,not useful
+0.69,useful
+0.28,useful
+0.29,not useful
+0.61,useful
+0.24,useful
+0.42,not useful
+0.31,not useful
+0.36,not useful
+0.35,not useful
+0.33,not useful
+0.25,not useful
+0.43,not useful
+0.19,useful
+0.3,not useful
+0.41,useful
+0.29,not useful
+0.29,not useful
+0.41,not useful
+0.26,useful
+0.29,not useful
+0.49,not useful
+0.42,useful
+0.21,not useful
+0.39,not useful
+0.23,useful
+0.31,not useful
+0.25,useful
+0.4,not useful
+0.3,not useful
+0.32,not useful
+0.32,useful
+0.44,useful
+0.31,not useful
+0.37,useful
+0.23,not useful
+0.49,not useful
+0.32,useful
+0.39,not useful
+0.33,not useful
+0.39,not useful
+0.29,not useful
+0.29,not useful
+0.51,useful
+0.47,useful
+0.37,useful
+0.39,not useful
+0.29,not useful
+0.35,useful
+0.49,not useful
+0.27,not useful
+0.37,not useful
+0.6,useful
+0.24,useful
+0.24,not useful
+0.3,not useful
+0.34,useful
+0.28,not useful
+0.35,not useful
+0.31,not useful
+0.34,not useful
+0.27,not useful
+0.44,not useful
+0.31,not useful
+0.69,useful
+0.4,useful
+0.21,not useful
+0.41,not useful
+0.32,useful
+0.28,not useful
+0.33,not useful
+0.28,useful
+0.23,not useful
+0.35,not useful
+0.34,not useful
+0.4,not useful
+0.26,not useful
+0.25,not useful
+0.33,not useful
+0.35,not useful
+0.23,not useful
+0.38,not useful
+0.36,not useful
+0.27,not useful
+0.33,not useful
+0.43,not useful
+0.66,useful
+0.25,useful
+0.38,not useful
+0.33,not useful
+0.32,not useful
+0.43,not useful
+0.38,useful
+0.29,not useful
+0.31,not useful
+0.38,useful
+0.4,not useful
+0.32,useful
+0.23,not useful
+0.22,not useful
+0.26,not useful
+0.29,not useful
+0.31,useful
+0.27,not useful
+0.32,not useful
+0.64,useful
+0.35,useful
+0.27,not useful
+0.32,not useful
+0.68,useful
+0.57,useful
+0.25,useful
+0.21,not useful
+0.27,not useful
+0.47,not useful
+0.26,useful
+0.4,not useful
+0.52,useful
+0.41,useful
+0.44,not useful
+0.54,useful
+0.66,useful
+0.23,useful
+0.3,not useful
+0.29,not useful
+0.25,not useful
+0.27,not useful
+0.31,useful
+0.25,useful
+0.47,not useful
+0.63,useful
+0.32,useful
+0.29,not useful
+0.38,not useful
+0.3,not useful
+0.33,not useful
+0.36,not useful
+0.26,useful
+0.38,not useful
+0.67,useful
+0.47,useful
+0.52,useful
+0.3,useful
+0.33,not useful
+0.37,not useful
+0.41,not useful
+0.36,not useful
+0.31,useful
+0.44,not useful
+0.46,not useful
+0.61,useful
+0.42,useful
+0.26,useful
+0.3,not useful
+0.63,useful
+0.29,useful
+0.65,useful
+0.31,useful
+0.22,not useful
+0.37,not useful
+0.31,not useful
+0.45,not useful
+0.28,useful
+0.27,not useful
+0.39,not useful
+0.43,useful
+0.26,useful
+0.28,not useful
+0.24,not useful
+0.25,not useful
+0.26,not useful
+0.34,not useful
+0.43,not useful
+0.25,useful
+0.38,not useful
+0.28,useful
+0.32,not useful
+0.36,useful
+0.3,not useful
+0.27,not useful
+0.32,not useful
+0.36,not useful
+0.34,not useful
+0.31,not useful
+0.69,useful
+0.28,useful
+0.57,useful
+0.42,useful
+0.3,useful
+0.43,not useful
+0.29,useful
+0.34,not useful
+0.33,not useful
+0.31,not useful
+0.45,not useful
+0.69,useful
+0.59,useful
+0.68,useful
+0.29,useful
+0.24,not useful
+0.28,not useful
+0.6,useful
+0.34,useful
+0.49,not useful
+0.32,useful
+0.34,not useful
+0.24,useful
+0.43,not useful
+0.36,not useful
+0.34,not useful
+0.4,useful
+0.41,not useful
+0.28,not useful
+0.25,not useful
+0.47,not useful
+0.28,not useful
+0.43,useful
+0.34,useful
+0.43,not useful
+0.5,not useful
+0.35,useful
+0.27,not useful
+0.38,not useful
+0.68,useful
+0.36,useful
+0.3,not useful
+0.34,not useful
+0.31,not useful
+0.34,not useful
+0.36,not useful
+0.4,useful
+0.36,not useful
+0.47,not useful
+0.32,useful
+0.35,not useful
+0.42,useful
+0.24,not useful
+0.32,not useful
+0.39,useful
+0.25,useful
+0.35,not useful
+0.26,not useful
+0.4,not useful
+0.61,useful
+0.64,useful
+0.36,useful
+0.39,not useful
+0.26,not useful
+0.36,not useful
+0.22,useful
+0.36,not useful
+0.32,useful
+0.41,useful
+0.32,useful
+0.51,useful
+0.34,useful
+0.31,not useful
+0.4,not useful
+0.31,useful
+0.34,not useful
+0.57,useful
+0.67,useful
+0.34,useful
+0.29,not useful
+0.27,not useful
+0.36,not useful
+0.2,useful
+0.39,not useful
+0.23,not useful
+0.35,not useful
+0.72,useful
+0.21,useful
+0.24,not useful
+0.26,not useful
+0.3,not useful
+0.66,useful
+0.27,useful
+0.36,not useful
+0.35,useful
+0.28,useful
+0.2,useful
+0.4,not useful
+0.31,not useful
+0.34,not useful
+0.2,not useful
+0.37,not useful
+0.38,not useful
+0.28,useful
+0.27,not useful
+0.29,not useful
+0.25,not useful
+0.26,not useful
+0.4,not useful
+0.23,not useful
+0.21,not useful
+0.25,not useful
+0.47,not useful
+0.35,not useful
+0.53,useful
+0.21,useful
+0.5,not useful
+0.38,not useful
+0.31,not useful
+0.21,not useful
+0.68,useful
+0.31,useful
+0.29,useful
+0.3,not useful
+0.35,not useful
+0.23,not useful
+0.48,not useful
+0.2,not useful
+0.25,not useful
+0.22,not useful
+0.39,not useful
+0.34,not useful
+0.58,useful
+0.68,useful
+0.3,useful
+0.33,not useful
+0.29,not useful
+0.33,not useful
+0.48,not useful
+0.21,not useful
+0.46,not useful
+0.32,not useful
+0.24,useful
+0.19,not useful
+0.34,not useful
+0.21,not useful
+0.31,not useful
+0.21,useful
+0.21,not useful
+0.35,not useful
+0.36,not useful
+0.32,useful
+0.29,not useful
+0.46,useful
+0.47,not useful
+0.22,not useful
+0.22,not useful
+0.21,not useful
+0.24,not useful
+0.15,not useful
+0.3,not useful
+0.34,not useful
+0.32,useful
+0.26,not useful
+0.19,not useful
+0.33,not useful
+0.26,not useful
+0.18,useful
+0.57,useful
+0.32,useful
+0.22,not useful
+0.33,not useful
+0.5,useful
+0.22,useful
+0.29,not useful
+0.37,not useful
+0.47,useful
+0.43,not useful
+0.35,not useful
+0.29,useful
+0.26,not useful
+0.33,not useful
+0.33,not useful
+0.64,useful
+0.4,useful
+0.17,not useful
+0.35,not useful
+0.44,not useful
+0.32,not useful
+0.26,useful
+0.35,not useful
+0.2,not useful
+0.23,not useful
+0.23,not useful
+0.38,not useful
+0.27,not useful
+0.17,not useful
+0.31,not useful
+0.33,not useful
+0.65,useful
+0.26,useful
+0.27,not useful
+0.28,not useful
+0.25,not useful
+0.28,not useful
+0.23,not useful
+0.35,not useful
+0.28,not useful
+0.2,useful
+0.2,useful
+0.4,not useful
+0.68,useful
+0.2,useful
+0.31,not useful
+0.26,not useful
+0.29,not useful
+0.31,not useful
+0.3,not useful
+0.29,not useful
+0.38,not useful
+0.48,not useful
+0.3,useful
+0.18,not useful
+0.37,not useful
+0.28,not useful
+0.39,not useful
+0.68,useful
+0.23,useful
+0.44,not useful
+0.29,not useful
+0.55,useful
+0.23,useful
+0.58,useful
+0.19,useful
+0.44,not useful
+0.23,useful
+0.44,not useful
+0.2,not useful
+0.25,not useful
+0.28,not useful
+0.22,not useful
+0.33,not useful
+0.41,not useful
+0.32,not useful
+0.35,not useful
+0.25,not useful
+0.28,not useful
+0.35,not useful
+0.19,not useful
+0.26,not useful
+0.32,not useful
+0.3,not useful
+0.26,useful
+0.18,useful
+0.62,useful
+0.25,useful
+0.27,useful
+0.35,not useful
+0.15,useful
+0.19,not useful
+0.26,not useful
+0.34,not useful
+0.49,not useful
+0.26,not useful
+0.25,not useful
+0.35,not useful
+0.3,useful
+0.25,not useful
+0.21,not useful
+0.2,not useful
+0.23,not useful
+0.54,useful
+0.21,not useful
+0.24,not useful
+0.32,not useful
+0.35,not useful
+0.3,not useful
+0.28,useful
+0.34,not useful
+0.31,not useful
+0.26,not useful
+0.29,not useful
+0.31,not useful
+0.27,not useful
+0.39,not useful
+0.24,not useful
+0.18,not useful
+0.39,not useful
+0.33,useful
+0.27,not useful
+0.19,not useful
+0.24,not useful
+0.25,not useful
+0.19,useful
+0.68,useful
+0.44,useful
+0.39,not useful
+0.43,not useful
+0.26,not useful
+0.24,not useful
+0.27,not useful
+0.37,not useful
+0.17,not useful
+0.22,not useful
+0.48,not useful
+0.28,not useful
+0.26,not useful
+0.37,not useful
+0.26,not useful
+0.24,not useful
+0.33,not useful
+0.3,not useful
+0.3,not useful
+0.39,not useful
+0.38,not useful
+0.21,useful
+0.44,not useful
+0.23,not useful
+0.19,not useful
+0.32,not useful
+0.32,not useful
+0.23,not useful
+0.41,not useful
+0.68,useful
+0.38,useful
+0.23,not useful
+0.19,not useful
+0.2,not useful
+0.27,not useful
+0.2,not useful
+0.49,not useful
+0.28,not useful
+0.34,not useful
+0.4,useful
+0.25,not useful
+0.47,not useful
+0.53,useful
+0.62,useful
+0.5,useful
+0.37,not useful
+0.35,not useful
+0.16,useful
+0.32,not useful
+0.34,not useful
+0.42,useful
+0.35,not useful
+0.35,not useful
+0.57,useful
+0.49,not useful
+0.28,useful
+0.29,not useful
+0.31,not useful
+0.22,useful
+0.33,not useful
+0.32,not useful
+0.25,not useful
+0.43,not useful
+0.29,useful
+0.54,useful
+0.33,not useful
+0.27,not useful
+0.3,not useful
+0.29,not useful
+0.16,not useful
+0.36,not useful
+0.19,not useful
+0.43,not useful
+0.3,not useful
+0.33,not useful
+0.26,not useful
+0.27,not useful
+0.24,not useful
+0.39,not useful
+0.35,not useful
+0.17,not useful
+0.29,not useful
+0.19,not useful
+0.33,not useful
+0.21,not useful
+0.21,not useful
+0.47,not useful
+0.3,not useful
+0.38,useful
+0.18,not useful
+0.29,not useful
+0.27,not useful
+0.16,not useful
+0.24,not useful
+0.32,not useful
+0.28,useful
+0.35,not useful
+0.6,useful
+0.21,useful
+0.27,not useful
+0.31,not useful
+0.2,not useful
+0.25,not useful
+0.26,useful
+0.44,useful
+0.33,not useful
+0.32,not useful
+0.18,not useful
+0.42,not useful
+0.4,not useful
+0.27,not useful
+0.2,not useful
+0.21,not useful
+0.18,not useful
+0.26,not useful
+0.32,not useful
+0.39,not useful
+0.2,not useful
+0.19,not useful
+0.29,not useful
+0.44,not useful
+0.25,not useful
+0.24,not useful
+0.42,not useful
+0.18,useful
+0.25,not useful
+0.29,not useful
+0.68,useful
+0.39,useful
+0.16,useful
+0.35,not useful
+0.22,not useful
+0.26,not useful
+0.46,not useful
+0.2,not useful
+0.25,not useful
+0.48,not useful
+0.22,useful
+0.37,not useful
+0.3,not useful
+0.37,not useful
+0.36,useful
+0.27,not useful
+0.3,not useful
+0.17,not useful
+0.38,not useful
+0.25,useful
+0.3,not useful
+0.27,not useful
+0.3,not useful
+0.37,not useful
+0.17,useful
+0.21,useful
+0.26,useful
+0.22,useful
+0.28,useful
+0.69,useful
+0.19,useful
+0.21,not useful
+0.22,not useful
+0.34,not useful
+0.2,not useful
+0.33,not useful
+0.2,useful
+0.19,not useful
+0.22,not useful
+0.2,not useful
+0.22,not useful
+0.22,not useful
+0.44,not useful
+0.35,not useful
+0.22,not useful
+0.5,not useful
+0.21,useful
+0.26,useful
+0.52,useful
+0.3,useful
+0.24,useful
+0.19,not useful
+0.25,not useful
+0.49,not useful
+0.44,not useful
+0.32,not useful
+0.32,not useful
+0.24,not useful
+0.36,not useful
+0.52,useful
+0.21,not useful
+0.25,not useful
+0.27,not useful
+0.41,not useful
+0.45,not useful
+0.4,useful
+0.29,not useful
+0.4,not useful
+0.23,useful
+0.32,not useful
+0.38,not useful
+0.34,not useful
+0.33,not useful
+0.25,not useful
+0.19,not useful
+0.35,not useful
+0.3,not useful
+0.34,useful
+0.26,not useful
+0.25,not useful
+0.37,not useful
+0.23,useful
+0.48,not useful
+0.33,not useful
+0.35,not useful
+0.23,useful
+0.27,not useful
+0.18,not useful
+0.44,not useful
+0.19,not useful
+0.34,not useful
+0.18,not useful
+0.62,useful
+0.36,useful
+0.24,useful
+0.2,not useful
+0.34,not useful
+0.34,not useful
+0.36,not useful
+0.2,not useful
+0.41,not useful
+0.4,not useful
+0.17,not useful
+0.33,not useful
+0.2,useful
+0.29,not useful
+0.22,not useful
+0.17,not useful
+0.32,not useful
+0.43,not useful
+0.25,not useful
+0.24,not useful
+0.33,not useful
+0.32,useful
+0.32,not useful
+0.15,not useful
+0.36,not useful
+0.2,not useful
+0.48,not useful
+0.48,not useful
+0.22,not useful
+0.34,not useful
+0.53,useful
+0.15,useful
+0.45,not useful
+0.21,not useful
+0.39,not useful
+0.29,not useful
+0.34,not useful
+0.2,not useful
+0.17,not useful
+0.19,not useful
+0.37,not useful
+0.18,not useful
+0.44,not useful
+0.28,not useful
+0.28,not useful
+0.42,not useful
+0.41,not useful
+0.38,not useful
+0.3,not useful
+0.35,not useful
+0.28,useful
+0.45,not useful
+0.31,not useful
+0.49,not useful
+0.27,useful
+0.22,not useful
+0.5,not useful
+0.18,useful
+0.22,not useful
+0.42,not useful
+0.26,useful
+0.3,not useful
+0.25,not useful
+0.34,useful
+0.21,useful
+0.25,useful
+0.38,not useful
+0.22,not useful
+0.36,not useful
+0.29,useful
+0.49,not useful
+0.25,not useful
+0.29,not useful
+0.32,not useful
+0.36,not useful
+0.28,useful
+0.46,not useful
+0.31,not useful
+0.29,not useful
+0.25,not useful
+0.28,not useful
+0.28,not useful
+0.32,not useful
+0.42,useful
+0.33,not useful
+0.23,not useful
+0.47,not useful
+0.31,not useful
+0.23,not useful
+0.36,not useful
+0.5,not useful
+0.34,not useful
+0.2,not useful
+0.33,not useful
+0.22,useful
+0.25,useful
+0.18,not useful
+0.41,not useful
+0.27,not useful
+0.47,not useful
+0.3,useful
+0.35,not useful
+0.24,useful
+0.3,not useful
+0.56,useful
+0.28,useful
+0.29,not useful
+0.32,not useful
+0.24,not useful
+0.38,not useful
+0.38,useful
+0.27,not useful
+0.22,not useful
+0.4,not useful
+0.46,not useful
+0.42,not useful
+0.31,useful
+0.42,useful
+0.3,useful
+0.31,not useful
+0.31,not useful
+0.22,useful
+0.31,not useful
+0.36,not useful
+0.58,useful
+0.34,useful
+0.19,not useful
+0.25,not useful
+0.2,not useful
+0.23,not useful
+0.46,not useful
+0.5,not useful
+0.28,not useful
+0.38,not useful
+0.35,not useful
+0.67,useful
+0.27,useful
+0.19,not useful
+0.46,not useful
+0.23,useful
+0.29,not useful
+0.24,not useful
+0.32,not useful
+0.32,useful
+0.44,not useful
+0.34,not useful
+0.29,not useful
+0.36,not useful
+0.19,not useful
+0.24,not useful
+0.19,not useful
+0.34,not useful
+0.28,useful
+0.4,not useful
+0.26,useful
+0.4,not useful
+0.37,not useful
+0.36,not useful
+0.26,useful
+0.25,not useful
+0.34,not useful
+0.23,not useful
+0.42,not useful
+0.26,useful
+0.25,not useful
+0.47,not useful
+0.33,useful
+0.29,useful
+0.41,useful
+0.33,useful
+0.37,not useful
+0.3,not useful
+0.23,not useful
+0.3,not useful
+0.24,not useful
+0.4,not useful
+0.45,not useful
+0.38,not useful
+0.35,not useful
+0.24,useful
+0.32,not useful
+0.44,not useful
+0.25,not useful
+0.4,not useful
+0.64,useful
+0.32,useful
+0.24,not useful
+0.45,not useful
+0.32,useful
+0.65,useful
+0.34,useful
+0.49,not useful
+0.29,not useful
+0.37,not useful
+0.33,useful
+0.35,not useful
+0.34,not useful
+0.3,not useful
+0.41,not useful
+0.22,not useful
+0.25,not useful
+0.27,not useful
+0.36,not useful
+0.69,useful
+0.3,useful
+0.35,not useful
+0.34,useful
+0.4,not useful
+0.34,not useful
+0.33,not useful
+0.28,not useful
+0.29,not useful
+0.32,not useful
+0.63,useful
+0.22,useful
+0.48,not useful
+0.25,useful
+0.3,not useful
+0.28,not useful
+0.27,not useful
+0.44,not useful
+0.29,useful
+0.31,not useful
+0.35,not useful
+0.32,useful
+0.29,not useful
+0.32,not useful
+0.18,useful
+0.22,useful
+0.53,useful
+0.25,not useful
+0.22,not useful
+0.25,not useful
+0.38,not useful
+0.22,not useful
+0.32,not useful
+0.27,not useful
+0.44,not useful
+0.36,not useful
+0.4,not useful
+0.26,useful
+0.29,not useful
+0.4,not useful
+0.21,not useful
+0.44,not useful
+0.66,useful
+0.3,useful
+0.35,not useful
+0.36,useful
+0.39,not useful
+0.31,not useful
+0.27,not useful
+0.23,not useful
+0.43,not useful
+0.62,useful
+0.29,useful
+0.26,not useful
+0.34,not useful
+0.3,not useful
+0.4,not useful
+0.65,useful
+0.37,useful
+0.27,not useful
+0.21,not useful
+0.44,not useful
+0.45,not useful
+0.23,not useful
+0.26,not useful
+0.49,not useful
+0.66,useful
+0.51,useful
+0.46,not useful
+0.25,useful
+0.41,not useful
+0.4,not useful
+0.41,not useful
+0.28,not useful
+0.2,not useful
+0.44,not useful
+0.37,not useful
+0.26,not useful
+0.39,not useful
+0.29,useful
+0.27,not useful
+0.33,not useful
+0.33,not useful
+0.29,useful
+0.32,not useful
+0.3,not useful
+0.35,not useful
+0.49,not useful
+0.31,useful
+0.2,not useful
+0.42,not useful
+0.4,not useful
+0.3,useful
+0.31,not useful
+0.27,not useful
+0.28,not useful
+0.36,not useful
+0.64,useful
+0.27,useful
+0.24,not useful
+0.26,not useful
+0.41,not useful
+0.21,useful
+0.39,not useful
+0.65,useful
+0.26,useful
+0.25,not useful
+0.24,not useful
+0.28,not useful
+0.37,not useful
+0.48,not useful
+0.2,not useful
+0.19,not useful
+0.3,not useful
+0.26,not useful
+0.33,not useful
+0.3,useful
+0.47,not useful
+0.4,useful
+0.37,not useful
+0.27,useful
+0.29,not useful
+0.35,not useful
+0.46,not useful
+0.47,not useful
+0.35,useful
+0.34,not useful
+0.41,not useful
+0.5,useful
+0.28,not useful
+0.22,not useful
+0.24,not useful
+0.33,not useful
+0.36,useful
+0.38,not useful
+0.4,not useful
+0.3,useful
+0.31,not useful
+0.22,useful
+0.22,not useful
+0.31,not useful
+0.21,useful
+0.5,not useful
+0.31,not useful
+0.23,not useful
+0.44,not useful
+0.39,not useful
+0.24,useful
+0.4,not useful
+0.27,useful
+0.38,not useful
+0.23,not useful
+0.28,not useful
+0.32,not useful
+0.28,not useful
+0.39,not useful
+0.45,not useful
+0.29,not useful
+0.29,not useful
+0.35,not useful
+0.44,useful
+0.3,not useful
+0.22,not useful
+0.33,not useful
+0.68,useful
+0.64,useful
+0.21,useful
+0.28,not useful
+0.29,useful
+0.29,not useful
+0.23,not useful
+0.23,not useful
+0.26,not useful
+0.27,not useful
+0.3,not useful
+0.3,not useful
+0.64,useful
+0.22,useful
+0.27,not useful
+0.29,not useful
+0.47,useful
+0.25,not useful
+0.3,not useful
+0.31,not useful
+0.22,not useful
+0.46,not useful
+0.48,not useful
+0.3,not useful
+0.39,not useful
+0.31,not useful
+0.25,not useful
+0.23,not useful
+0.2,not useful
+0.25,not useful
+0.27,not useful
+0.27,not useful
+0.27,not useful
+0.32,not useful
+0.67,useful
+0.27,useful
+0.47,not useful
+0.34,not useful
+0.69,useful
+0.55,useful
+0.29,useful
+0.28,not useful
+0.6,useful
+0.66,useful
+0.51,useful
+0.4,not useful
+0.24,useful
+0.42,not useful
+0.34,useful
+0.43,not useful
+0.23,useful
+0.37,not useful
+0.33,not useful
+0.32,not useful
+0.33,not useful
+0.43,useful
+0.37,not useful
+0.26,not useful
+0.22,not useful
+0.28,not useful
+0.29,not useful
+0.39,not useful
+0.27,not useful
+0.35,not useful
+0.25,not useful
+0.28,not useful
+0.41,not useful
+0.27,not useful
+0.26,not useful
+0.34,not useful
+0.24,useful
+0.28,not useful
+0.36,not useful
+0.38,not useful
+0.23,not useful
+0.41,not useful
+0.34,not useful
+0.29,useful
+0.29,not useful
+0.29,useful
+0.34,not useful
+0.4,not useful
+0.27,useful
+0.41,useful
+0.3,not useful
+0.26,not useful
+0.22,not useful
+0.24,not useful
+0.29,not useful
+0.24,not useful
+0.47,not useful
+0.41,not useful
+0.28,not useful
+0.29,not useful
+0.41,not useful
+0.26,useful
+0.26,not useful
+0.32,not useful
+0.28,not useful
+0.32,useful
+0.42,not useful
+0.32,useful
+0.32,not useful
+0.31,not useful
+0.44,not useful
+0.2,not useful
+0.28,not useful
+0.36,not useful
+0.33,not useful
+0.49,useful
+0.23,useful
+0.38,not useful
+0.23,useful
+0.39,not useful
+0.46,useful
+0.26,not useful
+0.33,not useful
+0.48,useful
+0.33,not useful
+0.29,not useful
+0.32,not useful
+0.24,useful
+0.37,not useful
+0.27,useful
+0.46,not useful
+0.32,not useful
+0.29,useful
+0.38,not useful
+0.34,not useful
+0.2,not useful
+0.23,not useful
+0.27,not useful
+0.23,not useful
+0.29,not useful
+0.2,not useful
+0.3,not useful
+0.34,not useful
+0.47,not useful
+0.32,not useful
+0.28,useful
+0.28,not useful
+0.43,not useful
+0.27,not useful
+0.23,not useful
+0.33,not useful
+0.48,not useful
+0.33,useful
+0.24,not useful
+0.24,not useful
+0.38,not useful
+0.41,useful
+0.31,not useful
+0.36,not useful
+0.37,not useful
+0.41,useful
+0.28,not useful
+0.36,not useful
+0.33,not useful
+0.37,useful
+0.25,not useful
+0.36,not useful
+0.28,not useful
+0.37,not useful
+0.27,not useful
+0.29,not useful
+0.38,not useful
+0.38,not useful
+0.3,not useful
+0.38,not useful
+0.42,not useful
+0.23,not useful
+0.23,not useful
+0.22,not useful
+0.24,not useful
+0.31,not useful
+0.21,not useful
+0.3,not useful
+0.35,useful
+0.29,not useful
+0.23,not useful
+0.44,not useful
+0.3,not useful
+0.28,not useful
+0.5,not useful
+0.26,not useful
+0.3,not useful
+0.35,not useful
+0.31,not useful
+0.47,not useful
+0.27,not useful
+0.37,not useful
+0.32,useful
+0.38,not useful
+0.34,useful
+0.25,not useful
+0.37,not useful
+0.24,useful
+0.28,not useful
+0.62,useful
+0.3,useful
+0.47,not useful
+0.25,not useful
+0.28,not useful
+0.26,not useful
+0.37,not useful
+0.32,useful
+0.41,not useful
+0.29,useful
+0.28,not useful
+0.35,not useful
+0.34,useful
+0.48,not useful
+0.29,useful
+0.24,useful
+0.24,useful
+0.25,useful
+0.39,useful
+0.35,not useful
+0.52,useful
+0.63,useful
+0.66,useful
+0.27,useful
+0.24,not useful
+0.22,not useful
+0.37,not useful
+0.43,useful
+0.31,not useful
+0.39,not useful
+0.35,useful
+0.42,useful
+0.58,useful
+0.26,useful
+0.38,not useful
+0.31,useful
+0.46,not useful
+0.27,not useful
+0.39,not useful
+0.68,useful
+0.23,useful
+0.25,not useful
+0.4,not useful
+0.28,useful
+0.35,not useful
+0.29,useful
+0.34,not useful
+0.6,useful
+0.47,useful
+0.41,not useful
+0.5,useful
+0.35,not useful
+0.22,not useful
+0.24,not useful
+0.32,not useful
+0.4,useful
+0.27,not useful
+0.29,not useful
+0.29,not useful
+0.27,not useful
+0.27,not useful
+0.32,useful
+0.23,not useful
+0.31,not useful
+0.48,not useful
+0.59,useful
+0.37,useful
+0.5,useful
+0.3,not useful
+0.26,not useful
+0.38,not useful
+0.33,useful
+0.29,not useful
+0.29,not useful
+0.29,not useful
+0.26,not useful
+0.33,not useful
+0.24,useful
+0.25,useful
+0.3,useful
+0.25,not useful
+0.26,not useful
+0.27,not useful
+0.3,not useful
+0.33,not useful
+0.3,useful
+0.22,not useful
+0.5,not useful
+0.44,useful
+0.26,not useful
+0.32,not useful
+0.25,not useful
+0.34,not useful
+0.58,useful
+0.25,useful
+0.44,useful
+0.39,useful
+0.63,useful
+0.23,useful
+0.54,useful
+0.62,useful
+0.33,useful
+0.49,not useful
+0.36,useful
+0.35,not useful
+0.29,not useful
+0.4,not useful
+0.26,not useful
+0.22,not useful
+0.45,not useful
+0.34,useful
+0.37,not useful
+0.21,useful
+0.24,not useful
+0.36,not useful
+0.28,useful
+0.29,useful
+0.33,useful
+0.44,useful
+0.25,not useful
+0.26,not useful
+0.43,not useful
+0.42,not useful
+0.29,useful
+0.26,not useful
+0.31,not useful
+0.31,not useful
+0.35,not useful
+0.28,not useful
+0.28,not useful
+0.27,not useful
+0.45,not useful
+0.41,not useful
+0.43,useful
+0.61,useful
+0.6,useful
+0.24,useful
+0.2,useful
+0.4,not useful
+0.48,useful
+0.28,not useful
+0.24,not useful
+0.47,not useful
+0.47,not useful
+0.5,not useful
+0.2,useful
+0.3,not useful
+0.34,not useful
+0.52,useful
+0.35,useful
+0.31,not useful
+0.27,not useful
+0.2,not useful
+0.37,not useful
+0.46,not useful
+0.21,not useful
+0.33,not useful
+0.43,not useful
+0.32,not useful
+0.62,useful
+0.64,useful
+0.26,useful
+0.22,useful
+0.31,useful
+0.29,useful
+0.31,useful
+0.48,useful
+0.26,not useful
+0.29,not useful
+0.35,not useful
+0.45,not useful
+0.23,not useful
+0.29,not useful
+0.25,not useful
+0.41,not useful
+0.33,useful
+0.34,not useful
+0.29,useful
+0.43,not useful
+0.62,useful
+0.25,useful
+0.29,not useful
+0.68,useful
+0.38,useful
+0.31,not useful
+0.33,useful
+0.35,not useful
+0.43,not useful
+0.26,not useful
+0.4,not useful
+0.48,not useful
+0.25,useful
+0.22,useful
+0.42,useful
+0.59,useful
+0.26,useful
+0.24,not useful
+0.33,not useful
+0.64,useful
+0.34,useful
+0.41,not useful
+0.34,useful
+0.26,not useful
+0.28,not useful
+0.34,not useful
+0.48,not useful
+0.42,not useful
+0.39,not useful
+0.48,not useful
+0.31,not useful
+0.34,not useful
+0.32,useful
+0.28,not useful
+0.25,not useful
+0.26,not useful
+0.41,not useful
+0.3,not useful
+0.21,useful
+0.37,not useful
+0.42,useful
+0.41,not useful
+0.36,not useful
+0.35,useful
+0.37,not useful
+0.25,useful
+0.47,not useful
+0.33,not useful
+0.5,useful
+0.24,useful
+0.28,not useful
+0.39,not useful
+0.24,not useful
+0.37,not useful
+0.23,not useful
+0.28,not useful
+0.4,not useful
+0.29,useful
+0.3,not useful
+0.44,useful
+0.39,not useful
+0.53,useful
+0.4,useful
+0.23,not useful
+0.25,not useful
+0.57,useful
+0.31,useful
+0.44,not useful
+0.36,not useful
+0.68,useful
+0.26,useful
+0.36,not useful
+0.4,not useful
+0.36,not useful
+0.27,useful
+0.37,not useful
+0.32,not useful
+0.65,useful
+0.35,useful
+0.42,not useful
+0.61,useful
+0.31,useful
+0.26,not useful
+0.36,not useful
+0.58,useful
+0.43,useful
+0.29,not useful
+0.33,not useful
+0.66,useful
+0.32,useful
+0.22,not useful
+0.45,not useful
+0.41,not useful
+0.46,useful
+0.35,not useful
+0.6,useful
+0.3,useful
+0.28,not useful
+0.38,not useful
+0.3,useful
+0.27,not useful
+0.42,not useful
+0.26,useful
+0.41,not useful
+0.21,useful
+0.48,not useful
+0.27,not useful
+0.24,not useful
+0.32,not useful
+0.35,useful
+0.35,not useful
+0.46,not useful
+0.38,not useful
+0.58,useful
+0.29,useful
+0.3,not useful
+0.34,not useful
+0.31,useful
+0.47,not useful
+0.5,useful
+0.27,not useful
+0.27,not useful
+0.26,not useful
+0.29,not useful
+0.46,not useful
+0.32,not useful
+0.25,not useful
+0.37,not useful
+0.59,useful
+0.63,useful
+0.38,useful
+0.16,not useful
+0.46,not useful
+0.61,useful
+0.34,useful
+0.45,not useful
+0.37,not useful
+0.44,useful
+0.46,not useful
+0.26,useful
+0.37,useful
+0.28,useful
+0.4,not useful
+0.38,not useful
+0.63,useful
+0.49,useful
+0.27,not useful
+0.37,not useful
+0.26,not useful
+0.27,not useful
+0.25,not useful
+0.27,useful
+0.47,not useful
+0.48,useful
+0.32,not useful
+0.36,not useful
+0.42,not useful
+0.34,not useful
+0.58,useful
+0.28,useful
+0.37,not useful
+0.28,useful
+0.39,not useful
+0.25,useful
+0.38,not useful
+0.36,not useful
+0.3,not useful
+0.24,not useful
+0.46,useful
+0.46,useful
+0.33,useful
+0.41,not useful
+0.37,not useful
+0.56,useful
+0.36,useful
+0.46,not useful
+0.29,not useful
+0.37,not useful
+0.42,not useful
+0.25,useful
+0.31,not useful
+0.39,not useful
+0.61,useful
+0.66,useful
+0.65,useful
+0.26,useful
+0.48,not useful
+0.48,not useful
+0.25,useful
+0.33,not useful
+0.38,not useful
+0.59,useful
+0.3,useful
+0.63,useful
+0.55,useful
+0.27,useful
+0.6,useful
+0.34,useful
+0.39,not useful
+0.37,useful
+0.47,not useful
+0.62,useful
+0.64,useful
+0.35,useful
+0.38,not useful
+0.29,useful
+0.41,not useful
+0.37,not useful
+0.36,useful
+0.28,useful
+0.4,not useful
+0.63,useful
+0.22,useful
+0.57,useful
+0.3,useful
+0.31,not useful
+0.41,not useful
+0.41,useful
+0.37,useful
+0.39,not useful
+0.32,useful
+0.36,not useful
+0.4,not useful
+0.36,not useful
+0.37,not useful
+0.67,useful
+0.58,useful
+0.52,useful
+0.38,not useful
+0.51,useful
+0.19,not useful
+0.3,not useful
+0.32,not useful
+0.34,useful
+0.32,not useful
+0.21,useful
+0.27,useful
+0.38,useful
+0.32,useful
+0.39,useful
+0.21,useful
+0.32,useful
+0.27,not useful
+0.26,not useful
+0.41,not useful
+0.23,not useful
+0.33,not useful
+0.28,not useful
+0.31,not useful
+0.3,not useful
+0.31,not useful
+0.35,not useful
+0.28,not useful
+0.2,not useful
+0.3,not useful
+0.39,useful
+0.21,useful
+0.26,useful
+0.65,useful
+0.33,useful
+0.22,useful
+0.27,not useful
+0.65,useful
+0.22,useful
+0.38,not useful
+0.29,useful
+0.32,not useful
+0.34,not useful
+0.58,useful
+0.25,useful
+0.24,not useful
+0.22,not useful
+0.34,not useful
+0.25,not useful
+0.17,not useful
+0.23,not useful
+0.33,not useful
+0.35,useful
+0.39,not useful
+0.47,not useful
+0.7,useful
+0.36,useful
+0.35,useful
+0.73,useful
+0.21,useful
+0.56,useful
+0.24,useful
+0.4,not useful
+0.33,not useful
+0.24,not useful
+0.4,not useful
+0.35,not useful
+0.26,not useful
+0.33,not useful
+0.29,useful
+0.36,not useful
+0.33,not useful
+0.43,not useful
+0.27,not useful
+0.3,not useful
+0.26,not useful
+0.48,not useful
+0.29,useful
+0.29,not useful
+0.36,not useful
+0.61,useful
+0.44,not useful
+0.27,useful
+0.34,useful
+0.21,useful
+0.42,useful
+0.22,useful
+0.25,useful
+0.17,not useful
+0.27,not useful
+0.31,not useful
+0.26,not useful
+0.41,not useful
+0.47,not useful
+0.29,not useful
+0.24,not useful
+0.47,not useful
+0.32,useful
+0.32,not useful
+0.42,not useful
+0.24,useful
+0.31,not useful
+0.24,not useful
+0.34,not useful
+0.37,useful
+0.24,useful
+0.64,useful
+0.29,useful
+0.21,useful
+0.34,useful
+0.29,useful
+0.39,not useful
+0.24,useful
+0.38,not useful
+0.31,useful
+0.31,not useful
+0.22,not useful
+0.27,useful
+0.27,not useful
+0.41,not useful
+0.5,not useful
+0.29,not useful
+0.33,not useful
+0.29,not useful
+0.41,not useful
+0.35,not useful
+0.4,not useful
+0.43,not useful
+0.31,useful
+0.26,not useful
+0.4,not useful
+0.49,useful
+0.26,not useful
+0.34,not useful
+0.28,not useful
+0.44,not useful
+0.32,not useful
+0.29,useful
+0.38,not useful
+0.28,not useful
+0.23,not useful
+0.47,not useful
+0.21,not useful
+0.42,not useful
+0.26,not useful
+0.43,not useful
+0.36,not useful
+0.24,not useful
+0.31,not useful
+0.26,not useful
+0.31,not useful
+0.26,not useful
+0.46,not useful
+0.3,not useful
+0.34,useful
+0.32,not useful
+0.38,useful
+0.28,not useful
+0.31,not useful
+0.31,not useful
+0.27,not useful
+0.8,useful
+0.25,useful
+0.41,not useful
+0.41,not useful
+0.21,not useful
+0.43,not useful
+0.4,not useful
+0.37,not useful
+0.34,useful
+0.35,not useful
+0.25,useful
+0.27,not useful
+0.4,not useful
+0.24,useful
+0.31,not useful
+0.32,not useful
+0.31,not useful
+0.33,not useful
+0.66,useful
+0.31,useful
+0.35,not useful
+0.31,not useful
+0.35,not useful
+0.73,useful
+0.64,useful
+0.22,useful
+0.23,not useful
+0.24,not useful
+0.26,not useful
+0.48,not useful
+0.26,not useful
+0.22,not useful
+0.29,not useful
+0.38,not useful
+0.34,not useful
+0.46,not useful
+0.29,not useful
+0.27,not useful
+0.28,not useful
+0.47,not useful
+0.32,not useful
+0.22,not useful
+0.29,useful
+0.28,not useful
+0.23,not useful
+0.29,not useful
+0.26,not useful
+0.37,not useful
+0.56,useful
+0.59,useful
+0.38,useful
+0.26,not useful
+0.24,not useful
+0.3,not useful
+0.24,not useful
+0.24,not useful
+0.32,not useful
+0.34,not useful
+0.35,not useful
+0.4,useful
+0.45,not useful
+0.27,useful
+0.29,not useful
+0.28,useful
+0.28,not useful
+0.49,not useful
+0.62,useful
+0.25,useful
+0.38,not useful
+0.37,not useful
+0.26,useful
+0.32,not useful
+0.26,not useful
+0.39,not useful
+0.29,not useful
+0.29,not useful
+0.22,not useful
+0.27,not useful
+0.28,not useful
+0.35,not useful
+0.49,not useful
+0.59,useful
+0.27,useful
+0.34,not useful
+0.64,useful
+0.36,useful
+0.28,not useful
+0.38,not useful
+0.32,useful
+0.23,not useful
+0.32,not useful
+0.36,not useful
+0.42,useful
+0.32,useful
+0.28,useful
+0.66,useful
+0.25,useful
+0.25,useful
+0.65,useful
+0.24,useful
+0.33,not useful
+0.43,not useful
+0.28,not useful
+0.39,not useful
+0.22,useful
+0.3,not useful
+0.38,not useful
+0.29,useful
+0.18,not useful
+0.23,not useful
+0.39,not useful
+0.33,not useful
+0.29,useful
+0.32,useful
+0.62,useful
+0.24,useful
+0.26,useful
+0.32,useful
+0.34,useful
+0.25,useful
+0.28,not useful
+0.3,not useful
+0.27,useful
+0.3,not useful
+0.4,not useful
+0.4,useful
+0.33,not useful
+0.28,not useful
+0.24,not useful
+0.42,not useful
+0.63,useful
+0.62,useful
+0.27,useful
+0.41,not useful
+0.46,not useful
+0.41,useful
+0.46,not useful
+0.27,useful
+0.38,not useful
+0.24,useful
+0.26,not useful
+0.26,not useful
+0.41,not useful
+0.3,useful
+0.42,not useful
+0.27,useful
+0.3,useful
+0.42,not useful
+0.28,useful
+0.39,not useful
+0.3,useful
+0.4,useful
+0.34,useful
+0.33,useful
+0.29,useful
+0.33,useful
+0.38,useful
+0.33,useful
+0.25,useful
+0.34,not useful
+0.38,not useful
+0.48,useful
+0.43,useful
+0.28,not useful
+0.33,useful
+0.21,not useful
+0.4,not useful
+0.29,useful
+0.23,not useful
+0.28,useful
+0.37,not useful
+0.26,not useful
+0.33,not useful
+0.34,useful
+0.47,not useful
+0.27,not useful
+0.32,not useful
+0.29,useful
+0.35,not useful
+0.28,not useful
+0.4,not useful
+0.68,useful
+0.46,useful
+0.26,not useful
+0.49,not useful
+0.59,useful
+0.59,useful
+0.26,useful
+0.41,useful
+0.31,useful
+0.33,useful
+0.35,useful
+0.46,not useful
+0.3,not useful
+0.31,not useful
+0.29,not useful
+0.26,not useful
+0.3,not useful
+0.28,not useful
+0.39,not useful
+0.3,useful
+0.41,not useful
+0.26,not useful
+0.39,useful
+0.34,useful
+0.27,useful
+0.29,useful
+0.49,not useful
+0.3,useful
+0.36,not useful
+0.3,useful
+0.28,not useful
+0.39,useful
+0.57,useful
+0.23,useful
+0.62,useful
+0.26,useful
+0.43,not useful
+0.45,useful
+0.27,useful
+0.3,useful
+0.65,useful
+0.23,useful
+0.31,not useful
+0.55,useful
+0.23,useful
+0.37,not useful
+0.5,useful
+0.23,useful
+0.25,useful
+0.31,not useful
+0.24,useful
+0.28,useful
+0.71,useful
+0.41,useful
+0.48,not useful
+0.22,useful
+0.25,not useful
+0.38,not useful
+0.3,not useful
+0.42,not useful
+0.71,useful
+0.24,useful
+0.31,useful
+0.33,not useful
+0.28,not useful
+0.35,not useful
+0.3,useful
+0.44,not useful
+0.6,useful
+0.56,useful
+0.4,useful
+0.32,not useful
+0.41,not useful
+0.29,useful
+0.31,not useful
+0.3,not useful
+0.31,not useful
+0.51,useful
+0.59,useful
+0.34,useful
+0.37,not useful
+0.32,not useful
+0.25,not useful
+0.45,not useful
+0.35,useful
+0.24,not useful
+0.4,not useful
+0.58,useful
+0.25,useful
+0.53,useful
+0.52,useful
+0.29,not useful
+0.33,not useful
+0.37,not useful
+0.43,not useful
+0.48,useful
+0.47,not useful
+0.37,useful
+0.31,not useful
+0.29,not useful
+0.4,not useful
+0.59,useful
+0.31,useful
+0.33,useful
+0.28,not useful
+0.42,not useful
+0.41,useful
+0.38,not useful
+0.54,useful
+0.51,useful
+0.3,useful
+0.38,not useful
+0.48,useful
+0.63,useful
+0.55,useful
+0.33,not useful
+0.29,not useful
+0.33,not useful
+0.3,not useful
+0.33,not useful
+0.29,not useful
+0.26,not useful
+0.26,not useful
+0.3,not useful
+0.45,not useful
+0.38,not useful
+0.44,not useful
+0.32,useful
+0.26,not useful
+0.27,not useful
+0.29,useful
+0.4,not useful
+0.41,not useful
+0.53,useful
+0.59,useful
+0.32,useful
+0.29,not useful
+0.31,not useful
+0.7,useful
+0.45,useful
+0.35,not useful
+0.35,useful
+0.67,useful
+0.65,useful
+0.38,useful
+0.37,not useful
+0.37,useful
+0.33,not useful
+0.59,useful
+0.57,useful
+0.33,useful
+0.3,not useful
+0.38,not useful
+0.47,useful
+0.39,useful
+0.27,not useful
+0.34,not useful
+0.24,not useful
+0.36,not useful
+0.26,useful
+0.35,useful
+0.31,not useful
+0.28,useful
+0.4,not useful
+0.3,not useful
+0.68,useful
+0.21,useful
+0.39,not useful
+0.71,useful
+0.55,useful
+0.28,not useful
+0.23,not useful
+0.3,not useful
+0.5,not useful
+0.37,not useful
+0.66,useful
+0.23,useful
+0.29,not useful
+0.33,not useful
+0.23,not useful
+0.37,not useful
+0.67,useful
+0.35,useful
+0.21,not useful
+0.36,not useful
+0.17,not useful
+0.19,useful
+0.35,not useful
+0.18,useful
+0.27,not useful
+0.31,not useful
+0.2,not useful
+0.29,not useful
+0.28,not useful
+0.25,not useful
+0.52,useful
+0.64,useful
+0.65,useful
+0.28,useful
+0.27,not useful
+0.3,not useful
+0.69,useful
+0.69,useful
+0.5,useful
+0.35,not useful
+0.27,useful
+0.32,not useful
+0.39,useful
+0.19,not useful
+0.48,not useful
+0.35,not useful
+0.22,useful
+0.21,not useful
+0.21,not useful
+0.26,not useful
+0.3,not useful
+0.34,useful
+0.49,not useful
+0.2,not useful
+0.39,not useful
+0.33,not useful
+0.3,useful
+0.34,not useful
+0.2,useful
+0.64,useful
+0.68,useful
+0.55,useful
+0.49,useful
+0.21,useful
+0.23,not useful
+0.19,not useful
+0.2,not useful
+0.14,not useful
+0.48,not useful
+0.29,not useful
+0.4,useful
+0.19,not useful
+0.2,not useful
+0.21,not useful
+0.39,not useful
+0.33,not useful
+0.38,not useful
+0.2,useful
+0.29,not useful
+0.31,not useful
+0.46,not useful
+0.16,not useful
+0.35,not useful
+0.31,useful
+0.31,not useful
+0.37,useful
+0.25,not useful
+0.28,useful
+0.32,not useful
+0.21,useful
+0.27,not useful
+0.26,not useful
+0.2,not useful
+0.21,not useful
+0.35,not useful
+0.63,useful
+0.53,useful
+0.21,not useful
+0.38,not useful
+0.7,useful
+0.25,useful
+0.32,not useful
+0.27,useful
+0.33,not useful
+0.4,useful
+0.43,useful
+0.34,not useful
+0.39,useful
+0.25,not useful
+0.32,not useful
+0.31,useful
+0.33,not useful
+0.23,useful
+0.33,not useful
+0.41,not useful
+0.47,not useful
+0.41,not useful
+0.21,not useful
+0.37,not useful
+0.27,not useful
+0.24,useful
+0.28,useful
+0.61,useful
+0.58,useful
+0.35,useful
+0.26,not useful
+0.32,not useful
+0.26,useful
+0.34,not useful
+0.3,not useful
+0.35,not useful
+0.67,useful
+0.34,useful
+0.4,not useful
+0.35,not useful
+0.38,not useful
+0.23,useful
+0.32,not useful
+0.5,useful
+0.3,useful
+0.31,not useful
+0.34,not useful
+0.34,useful
+0.21,not useful
+0.34,not useful
+0.31,not useful
+0.62,useful
+0.66,useful
+0.63,useful
+0.35,useful
+0.25,not useful
+0.24,not useful
+0.33,not useful
+0.37,useful
+0.21,not useful
+0.34,not useful
+0.33,useful
+0.25,not useful
+0.41,not useful
+0.5,useful
+0.64,useful
+0.69,useful
+0.44,useful
+0.27,not useful
+0.31,not useful
+0.32,useful
+0.46,not useful
+0.26,not useful
+0.46,not useful
+0.39,not useful
+0.67,useful
+0.43,useful
+0.22,not useful
+0.25,not useful
+0.39,not useful
+0.39,useful
+0.44,not useful
+0.39,not useful
+0.5,useful
+0.45,not useful
+0.69,useful
+0.26,useful
+0.39,not useful
+0.67,useful
+0.61,useful
+0.67,useful
+0.28,useful
+0.34,not useful
+0.63,useful
+0.4,useful
+0.35,not useful
+0.2,not useful
+0.38,not useful
+0.33,useful
+0.34,not useful
+0.33,useful
+0.31,not useful
+0.24,useful
+0.49,not useful
+0.38,not useful
+0.32,useful
+0.22,useful
+0.27,useful
+0.58,useful
+0.45,useful
+0.24,not useful
+0.47,not useful
+0.23,useful
+0.67,useful
+0.23,useful
+0.27,useful
+0.33,useful
+0.5,not useful
+0.28,useful
+0.32,not useful
+0.56,useful
+0.69,useful
+0.39,useful
+0.5,not useful
+0.24,useful
+0.28,not useful
+0.49,not useful
+0.34,not useful
+0.22,not useful
+0.35,not useful
+0.32,useful
+0.4,not useful
+0.25,not useful
+0.33,not useful
+0.67,useful
+0.34,useful
+0.49,not useful
+0.31,useful
+0.41,not useful
+0.56,useful
+0.59,useful
+0.3,useful
+0.22,useful
+0.63,useful
+0.67,useful
+0.27,useful
+0.43,useful
+0.63,useful
+0.64,useful
+0.28,useful
+0.43,not useful
+0.44,useful
+0.36,not useful
+0.21,not useful
+0.32,useful
+0.48,not useful
+0.3,not useful
+0.51,useful
+0.54,useful
+0.59,useful
+0.3,useful
+0.21,not useful
+0.44,not useful
+0.26,not useful
+0.35,useful
+0.26,not useful
+0.23,not useful
+0.22,not useful
+0.25,not useful
+0.5,not useful
+0.28,useful
+0.25,not useful
+0.48,not useful
+0.3,useful
+0.35,not useful
+0.4,not useful
+0.65,useful
+0.32,useful
+0.61,useful
+0.3,useful
+0.21,not useful
+0.28,not useful
+0.31,not useful
+0.22,useful
+0.24,not useful
+0.33,not useful
+0.36,useful
+0.32,not useful
+0.23,useful
+0.43,not useful
+0.2,useful
+0.34,not useful
+0.28,useful
+0.47,not useful
+0.45,not useful
+0.23,useful
+0.22,not useful
+0.43,not useful
+0.61,useful
+0.42,useful
+0.25,not useful
+0.25,not useful
+0.4,useful
+0.61,useful
+0.57,useful
+0.53,useful
+0.38,useful
+0.29,useful
+0.41,not useful
+0.56,useful
+0.29,useful
+0.62,useful
+0.34,useful
+0.45,not useful
+0.26,not useful
+0.41,not useful
+0.6,useful
+0.42,useful
+0.33,not useful
+0.42,not useful
+0.42,not useful
+0.4,useful
+0.39,not useful
+0.58,useful
+0.53,useful
+0.63,useful
+0.44,useful
+0.32,not useful
+0.34,not useful
+0.31,useful
+0.35,not useful
+0.29,useful
+0.38,not useful
+0.57,useful
+0.59,useful
+0.31,useful
+0.32,not useful
+0.49,not useful
+0.28,not useful
+0.45,not useful
+0.4,useful
+0.34,not useful
+0.46,not useful
+0.6,useful
+0.29,useful
+0.47,not useful
+0.29,useful
+0.49,not useful
+0.27,useful
+0.41,not useful
+0.31,useful
+0.39,not useful
+0.25,useful
+0.29,useful
+0.48,not useful
+0.27,useful
+0.31,not useful
+0.27,useful
+0.54,useful
+0.27,useful
+0.3,not useful
+0.65,useful
+0.22,useful
+0.47,not useful
+0.27,useful
+0.39,not useful
+0.24,useful
+0.6,useful
+0.2,useful
+0.32,not useful
+0.65,useful
+0.58,useful
+0.61,useful
+0.62,useful
+0.27,useful
+0.38,not useful
+0.28,useful
+0.26,not useful
+0.39,not useful
+0.45,not useful
+0.37,not useful
+0.34,useful
+0.34,not useful
+0.51,useful
+0.22,not useful
+0.36,not useful
+0.38,useful
+0.33,not useful
+0.51,useful
+0.23,useful
+0.41,not useful
+0.62,useful
+0.27,useful
+0.47,not useful
+0.39,not useful
+0.66,useful
+0.29,useful
+0.33,not useful
+0.59,useful
+0.52,useful
+0.31,useful
+0.28,not useful
+0.38,not useful
+0.28,not useful
+0.29,not useful
+0.47,not useful
+0.52,useful
+0.61,useful
+0.58,useful
+0.59,useful
+0.28,useful
+0.42,not useful
+0.31,useful
+0.27,not useful
+0.42,not useful
+0.3,useful
+0.3,useful
+0.28,not useful
+0.41,not useful
+0.27,useful
+0.35,not useful
+0.4,not useful
+0.62,useful
+0.26,useful
+0.3,not useful
+0.4,not useful
+0.6,useful
+0.59,useful
+0.57,useful
+0.38,useful
+0.37,not useful
+0.4,not useful
+0.68,useful
+0.34,useful
+0.48,not useful
+0.3,useful
+0.31,not useful
+0.34,not useful
+0.4,not useful
+0.4,useful
+0.43,not useful
+0.43,not useful
+0.48,useful
+0.29,not useful
+0.48,not useful
+0.3,not useful
+0.31,useful
+0.31,not useful
+0.25,not useful
+0.39,not useful
+0.37,useful
+0.44,not useful
+0.51,useful
+0.28,not useful
+0.4,not useful
+0.61,useful
+0.59,useful
+0.33,useful
+0.42,not useful
+0.34,useful
+0.33,useful
+0.43,not useful
+0.39,not useful
+0.35,useful
+0.39,not useful
+0.43,useful
+0.37,not useful
+0.69,useful
+0.59,useful
+0.29,useful
+0.32,not useful
+0.4,not useful
+0.32,useful
+0.48,not useful
+0.47,useful
+0.41,not useful
+0.26,useful
+0.41,not useful
+0.4,not useful
+0.34,useful
+0.41,not useful
+0.64,useful
+0.38,useful
+0.3,not useful
+0.41,not useful
+0.4,not useful
+0.34,useful
+0.3,useful
+0.38,not useful
+0.64,useful
+0.38,useful
+0.41,not useful
+0.32,useful
+0.35,not useful
+0.29,not useful
+0.57,useful
+0.62,useful
+0.6,useful
+0.41,useful
+0.4,not useful
+0.19,not useful
+0.31,not useful
+0.32,useful
+0.22,not useful
+0.27,not useful
+0.32,useful
+0.21,not useful
+0.3,not useful
+0.25,not useful
+0.24,not useful
+0.2,not useful
+0.4,not useful
+0.45,not useful
+0.22,useful
+0.23,not useful
+0.22,not useful
+0.4,not useful
+0.31,not useful
+0.41,not useful
+0.18,not useful
+0.24,useful
+0.35,not useful
+0.28,not useful
+0.39,not useful
+0.19,not useful
+0.36,not useful
+0.25,not useful
+0.32,not useful
+0.34,not useful
+0.19,useful
+0.47,not useful
+0.32,not useful
+0.44,not useful
+0.2,not useful
+0.29,not useful
+0.35,not useful
+0.18,useful
+0.34,not useful
+0.33,not useful
+0.36,not useful
+0.22,useful
+0.18,not useful
+0.37,not useful
+0.25,not useful
+0.34,not useful
+0.38,useful
+0.21,not useful
+0.32,not useful
+0.33,useful
+0.22,useful
+0.45,not useful
+0.18,not useful
+0.31,not useful
+0.48,not useful
+0.18,not useful
+0.23,not useful
+0.7,useful
+0.48,useful
+0.29,not useful
+0.36,not useful
+0.68,useful
+0.27,useful
+0.5,not useful
+0.31,not useful
+0.42,not useful
+0.35,not useful
+0.39,not useful
+0.22,not useful
+0.32,not useful
+0.31,useful
+0.24,not useful
+0.41,not useful
+0.37,useful
+0.36,not useful
+0.35,useful
+0.34,not useful
+0.24,useful
+0.48,not useful
+0.35,not useful
+0.44,not useful
+0.18,not useful
+0.18,not useful
+0.2,not useful
+0.21,not useful
+0.25,not useful
+0.21,not useful
+0.37,not useful
+0.2,useful
+0.32,not useful
+0.46,not useful
+0.29,useful
+0.2,not useful
+0.49,not useful
+0.21,useful
+0.36,not useful
+0.34,useful
+0.22,not useful
+0.31,not useful
+0.7,useful
+0.32,useful
+0.18,not useful
+0.33,not useful
+0.51,useful
+0.27,useful
+0.36,not useful
+0.35,useful
+0.48,not useful
+0.34,not useful
+0.22,not useful
+0.34,not useful
+0.28,useful
+0.23,not useful
+0.29,useful
+0.22,not useful
+0.33,not useful
+0.33,not useful
+0.2,useful
+0.18,not useful
+0.19,useful
+0.48,not useful
+0.45,not useful
+0.21,not useful
+0.22,not useful
+0.31,useful
+0.29,not useful
+0.22,not useful
+0.24,not useful
+0.33,not useful
+0.36,not useful
+0.25,not useful
+0.38,not useful
+0.45,useful
+0.24,not useful
+0.46,not useful
+0.54,useful
+0.23,not useful
+0.27,not useful
+0.25,not useful
+0.18,not useful
+0.25,not useful
+0.36,not useful
+0.23,not useful
+0.22,not useful
+0.3,not useful
+0.27,useful
+0.24,not useful
+0.26,not useful
+0.26,not useful
+0.49,not useful
+0.44,not useful
+0.27,not useful
+0.37,not useful
+0.38,useful
+0.27,not useful
+0.33,useful
+0.32,not useful
+0.65,useful
+0.29,useful
+0.23,not useful
+0.23,not useful
+0.28,not useful
+0.25,not useful
+0.43,not useful
+0.25,useful
+0.35,not useful
+0.23,useful
+0.25,not useful
+0.36,not useful
+0.43,not useful
+0.38,not useful
+0.7,useful
+0.22,useful
+0.22,not useful
+0.24,not useful
+0.62,useful
+0.27,useful
+0.69,useful
+0.59,useful
+0.26,useful
+0.26,not useful
+0.31,not useful
+0.6,useful
+0.69,useful
+0.24,useful
+0.31,not useful
+0.24,useful
+0.32,not useful
+0.33,not useful
+0.51,useful
+0.27,useful
+0.37,not useful
+0.25,not useful
+0.37,not useful
+0.33,not useful
+0.42,not useful
+0.26,not useful
+0.23,not useful
+0.32,not useful
+0.3,useful
+0.32,not useful
+0.18,useful
+0.27,not useful
+0.35,not useful
+0.23,not useful
+0.34,not useful
+0.3,useful
+0.38,not useful
+0.47,not useful
+0.38,not useful
+0.2,useful
+0.28,not useful
+0.28,not useful
+0.21,not useful
+0.32,not useful
+0.39,useful
+0.22,not useful
+0.23,not useful
+0.43,not useful
+0.29,not useful
+0.28,not useful
+0.44,useful
+0.21,useful
+0.38,not useful
+0.42,not useful
+0.38,useful
+0.22,not useful
+0.45,not useful
+0.34,useful
+0.29,not useful
+0.27,not useful
+0.28,not useful
+0.31,not useful
+0.24,not useful
+0.24,not useful
+0.37,not useful
+0.68,useful
+0.28,useful
+0.51,useful
+0.27,useful
+0.27,not useful
+0.26,not useful
+0.29,not useful
+0.27,not useful
+0.23,not useful
+0.24,not useful
+0.48,useful
+0.71,useful
+0.2,useful
+0.22,not useful
+0.23,not useful
+0.25,not useful
+0.33,not useful
+0.26,useful
+0.3,not useful
+0.32,not useful
+0.47,not useful
+0.46,useful
+0.51,useful
+0.28,useful
+0.39,useful
+0.28,not useful
+0.31,not useful
+0.35,not useful
+0.32,useful
+0.27,useful
+0.38,useful
+0.46,useful
+0.3,useful
+0.38,not useful
+0.22,useful
+0.21,not useful
+0.37,not useful
+0.31,not useful
+0.58,useful
+0.34,useful
+0.26,not useful
+0.48,not useful
+0.29,useful
+0.33,not useful
+0.4,not useful
+0.26,not useful
+0.27,not useful
+0.29,not useful
+0.34,not useful
+0.29,useful
+0.47,useful
+0.43,not useful
+0.24,useful
+0.63,useful
+0.32,useful
+0.27,not useful
+0.34,not useful
+0.3,useful
+0.77,useful
+0.5,useful
+0.37,not useful
+0.33,not useful
+0.37,not useful
+0.22,not useful
+0.31,useful
+0.42,not useful
+0.48,not useful
+0.28,not useful
+0.35,not useful
+0.36,not useful
+0.46,not useful
+0.63,useful
+0.65,useful
+0.65,useful
+0.52,useful
+0.24,useful
+0.35,useful
+0.29,not useful
+0.24,not useful
+0.31,not useful
+0.52,useful
+0.25,useful
+0.24,not useful
+0.32,not useful
+0.3,useful
+0.22,not useful
+0.26,not useful
+0.25,not useful
+0.25,not useful
+0.33,not useful
+0.54,useful
+0.26,useful
+0.26,not useful
+0.4,not useful
+0.61,useful
+0.24,useful
+0.42,not useful
+0.64,useful
+0.32,useful
+0.41,not useful
+0.49,useful
+0.25,not useful
+0.37,not useful
+0.27,useful
+0.32,useful
+0.29,useful
+0.28,not useful
+0.38,not useful
+0.45,not useful
+0.3,not useful
+0.34,not useful
+0.23,not useful
+0.29,not useful
+0.46,not useful
+0.37,useful
+0.22,not useful
+0.26,not useful
+0.48,useful
+0.41,useful
+0.29,not useful
+0.42,not useful
+0.31,not useful
+0.25,not useful
+0.43,not useful
+0.29,useful
+0.27,not useful
+0.31,not useful
+0.27,not useful
+0.24,not useful
+0.22,not useful
+0.27,not useful
+0.4,not useful
+0.26,not useful
+0.24,not useful
+0.3,not useful
+0.36,not useful
+0.28,useful
+0.22,not useful
+0.68,useful
+0.23,useful
+0.32,not useful
+0.25,not useful
+0.67,useful
+0.34,useful
+0.39,not useful
+0.26,not useful
+0.26,not useful
+0.44,not useful
+0.71,useful
+0.29,useful
+0.44,useful
+0.61,useful
+0.41,useful
+0.25,not useful
+0.26,not useful
+0.28,not useful
+0.43,not useful
+0.27,useful
+0.28,useful
+0.33,not useful
+0.36,not useful
+0.3,not useful
+0.65,useful
+0.48,useful
+0.28,not useful
